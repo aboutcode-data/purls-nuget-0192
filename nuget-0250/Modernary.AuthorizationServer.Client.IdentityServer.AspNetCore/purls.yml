@@ -1,0 +1,2 @@
+- pkg:nuget/Modernary.AuthorizationServer.Client.IdentityServer.AspNetCore@1.1.1-alpha.25
+- pkg:nuget/Modernary.AuthorizationServer.Client.IdentityServer.AspNetCore@1.2.0
