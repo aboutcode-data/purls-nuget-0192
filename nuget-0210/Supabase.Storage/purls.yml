@@ -1,0 +1,4 @@
+- pkg:nuget/Supabase.Storage@2.0.0
+- pkg:nuget/Supabase.Storage@2.0.1
+- pkg:nuget/Supabase.Storage@2.0.2
+- pkg:nuget/Supabase.Storage@2.4.0
