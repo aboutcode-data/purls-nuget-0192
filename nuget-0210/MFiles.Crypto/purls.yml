@@ -337,6 +337,7 @@
 - pkg:nuget/MFiles.Crypto@25.10.11
 - pkg:nuget/MFiles.Crypto@25.11.5
 - pkg:nuget/MFiles.Crypto@25.11.9
+- pkg:nuget/MFiles.Crypto@25.12.2
 - pkg:nuget/MFiles.Crypto@25.2.1
 - pkg:nuget/MFiles.Crypto@25.2.10
 - pkg:nuget/MFiles.Crypto@25.2.11
