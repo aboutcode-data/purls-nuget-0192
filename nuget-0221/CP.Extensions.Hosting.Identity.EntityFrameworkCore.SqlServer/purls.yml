@@ -37,5 +37,6 @@
 - pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.1.6
 - pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.1.8
 - pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.2.2
+- pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.3.13
 - pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.3.3
 - pkg:nuget/CP.Extensions.Hosting.Identity.EntityFrameworkCore.SqlServer@2.3.4
