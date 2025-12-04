@@ -132,3 +132,4 @@
 - pkg:nuget/ZhileTime.Hope.SettingManagement.MongoDB@5.8.2
 - pkg:nuget/ZhileTime.Hope.SettingManagement.MongoDB@6.0.2
 - pkg:nuget/ZhileTime.Hope.SettingManagement.MongoDB@6.0.5
+- pkg:nuget/ZhileTime.Hope.SettingManagement.MongoDB@6.1.3
