@@ -8,6 +8,7 @@
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.17-pre
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.18-pre
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.19-pre
+- pkg:nuget/FiveHigh.Mobile.Core@0.0.22-pre
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.5-pre
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.6-pre
 - pkg:nuget/FiveHigh.Mobile.Core@0.0.7-pre
