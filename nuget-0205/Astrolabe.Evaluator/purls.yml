@@ -30,3 +30,4 @@
 - pkg:nuget/Astrolabe.Evaluator@2.8.0
 - pkg:nuget/Astrolabe.Evaluator@2.8.1
 - pkg:nuget/Astrolabe.Evaluator@2.9.0
+- pkg:nuget/Astrolabe.Evaluator@6.0.4

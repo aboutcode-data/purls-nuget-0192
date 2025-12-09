@@ -498,3 +498,4 @@
 - pkg:nuget/Pulumi.Tls@5.3.0-alpha.1758957775
 - pkg:nuget/Pulumi.Tls@5.3.0-alpha.1759174732
 - pkg:nuget/Pulumi.Tls@5.3.0-alpha.1759216349
+- pkg:nuget/Pulumi.Tls@5.3.0-alpha.1765263096
