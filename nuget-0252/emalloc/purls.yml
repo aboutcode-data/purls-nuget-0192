@@ -4,3 +4,4 @@
 - pkg:nuget/emalloc@1.0.3-alpha
 - pkg:nuget/emalloc@1.3.12
 - pkg:nuget/emalloc@1.3.21
+- pkg:nuget/emalloc@1.3.40
