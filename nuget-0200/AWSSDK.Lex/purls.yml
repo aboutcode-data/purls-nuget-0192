@@ -1169,6 +1169,7 @@
 - pkg:nuget/AWSSDK.Lex@3.7.500.9
 - pkg:nuget/AWSSDK.Lex@3.7.501.1
 - pkg:nuget/AWSSDK.Lex@3.7.501.10
+- pkg:nuget/AWSSDK.Lex@3.7.501.14
 - pkg:nuget/AWSSDK.Lex@3.7.501.8
 - pkg:nuget/AWSSDK.Lex@4.0.0
 - pkg:nuget/AWSSDK.Lex@4.0.0-preview
