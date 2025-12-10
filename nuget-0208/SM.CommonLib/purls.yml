@@ -59,6 +59,7 @@
 - pkg:nuget/SM.CommonLib@2.0.32
 - pkg:nuget/SM.CommonLib@2.0.33
 - pkg:nuget/SM.CommonLib@2.0.34
+- pkg:nuget/SM.CommonLib@2.0.38
 - pkg:nuget/SM.CommonLib@2.0.5
 - pkg:nuget/SM.CommonLib@2.0.6
 - pkg:nuget/SM.CommonLib@2.0.7
