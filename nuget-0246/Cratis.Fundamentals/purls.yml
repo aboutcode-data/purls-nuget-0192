@@ -115,3 +115,5 @@
 - pkg:nuget/Cratis.Fundamentals@6.5.2
 - pkg:nuget/Cratis.Fundamentals@7.0.0
 - pkg:nuget/Cratis.Fundamentals@7.2.5
+- pkg:nuget/Cratis.Fundamentals@7.2.7
+- pkg:nuget/Cratis.Fundamentals@7.2.8
