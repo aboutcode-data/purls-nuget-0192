@@ -306,3 +306,4 @@
 - pkg:nuget/BuildBase.DataEFCore@6.0.2.373
 - pkg:nuget/BuildBase.DataEFCore@6.0.2.375
 - pkg:nuget/BuildBase.DataEFCore@6.0.2.380
+- pkg:nuget/BuildBase.DataEFCore@6.0.2.395

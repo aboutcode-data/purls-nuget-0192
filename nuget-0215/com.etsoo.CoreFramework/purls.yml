@@ -549,6 +549,7 @@
 - pkg:nuget/com.etsoo.CoreFramework@1.5.60
 - pkg:nuget/com.etsoo.CoreFramework@1.5.65
 - pkg:nuget/com.etsoo.CoreFramework@1.5.66
+- pkg:nuget/com.etsoo.CoreFramework@1.5.68
 - pkg:nuget/com.etsoo.CoreFramework@1.5.7
 - pkg:nuget/com.etsoo.CoreFramework@1.5.8
 - pkg:nuget/com.etsoo.CoreFramework@1.5.9
