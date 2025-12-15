@@ -1095,3 +1095,4 @@
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@3.0.999
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@4.0.1017
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@4.0.1023
+- pkg:nuget/Soenneker.Blazor.Utils.Navigation@4.0.1029
