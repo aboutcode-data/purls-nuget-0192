@@ -47,3 +47,5 @@
 - pkg:nuget/AlastairLundy.DotExtensions@9.0.0-preview.2
 - pkg:nuget/AlastairLundy.DotExtensions@9.0.0-preview.3
 - pkg:nuget/AlastairLundy.DotExtensions@9.1.0-preview.1
+- pkg:nuget/AlastairLundy.DotExtensions@9.2.0
+- pkg:nuget/AlastairLundy.DotExtensions@9.3.0-preview.1

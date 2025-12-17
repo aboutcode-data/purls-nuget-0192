@@ -61,6 +61,7 @@
 - pkg:nuget/HoBO.API.ClientDB@6.0.0.9
 - pkg:nuget/HoBO.API.ClientDB@6.0.1.1
 - pkg:nuget/HoBO.API.ClientDB@6.0.1.10
+- pkg:nuget/HoBO.API.ClientDB@6.0.1.102
 - pkg:nuget/HoBO.API.ClientDB@6.0.1.11
 - pkg:nuget/HoBO.API.ClientDB@6.0.1.12
 - pkg:nuget/HoBO.API.ClientDB@6.0.1.13
