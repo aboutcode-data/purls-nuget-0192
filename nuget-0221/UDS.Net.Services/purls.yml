@@ -64,6 +64,7 @@
 - pkg:nuget/UDS.Net.Services@15.0.8
 - pkg:nuget/UDS.Net.Services@15.1.0-preview.1
 - pkg:nuget/UDS.Net.Services@15.2.2
+- pkg:nuget/UDS.Net.Services@15.3.0
 - pkg:nuget/UDS.Net.Services@3.0.1
 - pkg:nuget/UDS.Net.Services@3.0.2
 - pkg:nuget/UDS.Net.Services@3.0.2-preview.3

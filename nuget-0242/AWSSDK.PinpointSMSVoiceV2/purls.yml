@@ -642,6 +642,7 @@
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@3.7.502.8
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@3.7.502.9
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@3.7.503.4
+- pkg:nuget/AWSSDK.PinpointSMSVoiceV2@3.7.504.13
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@3.7.504.4
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@4.0.0
 - pkg:nuget/AWSSDK.PinpointSMSVoiceV2@4.0.0-preview

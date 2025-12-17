@@ -818,6 +818,7 @@
 - pkg:nuget/AWSSDK.Macie2@3.7.502.10
 - pkg:nuget/AWSSDK.Macie2@3.7.502.12
 - pkg:nuget/AWSSDK.Macie2@3.7.502.14
+- pkg:nuget/AWSSDK.Macie2@3.7.502.19
 - pkg:nuget/AWSSDK.Macie2@3.7.6
 - pkg:nuget/AWSSDK.Macie2@3.7.6.1
 - pkg:nuget/AWSSDK.Macie2@3.7.6.10

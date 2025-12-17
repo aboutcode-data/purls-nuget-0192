@@ -728,6 +728,7 @@
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.503.15
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.504
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.504.5
+- pkg:nuget/AWSSDK.CustomerProfiles@3.7.504.6
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.6
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.6.1
 - pkg:nuget/AWSSDK.CustomerProfiles@3.7.6.10
