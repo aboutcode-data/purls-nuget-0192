@@ -9,6 +9,7 @@
 - pkg:nuget/Paramore.Brighter.PostgreSql@10.0.0-preview.9
 - pkg:nuget/Paramore.Brighter.PostgreSql@10.0.1
 - pkg:nuget/Paramore.Brighter.PostgreSql@10.0.2
+- pkg:nuget/Paramore.Brighter.PostgreSql@10.0.5
 - pkg:nuget/Paramore.Brighter.PostgreSql@9.0.1
 - pkg:nuget/Paramore.Brighter.PostgreSql@9.0.1-preview.8
 - pkg:nuget/Paramore.Brighter.PostgreSql@9.1.0
