@@ -73,6 +73,7 @@
 - pkg:nuget/cognition-bi-integration-events@7.0.46
 - pkg:nuget/cognition-bi-integration-events@7.0.48
 - pkg:nuget/cognition-bi-integration-events@7.0.5
+- pkg:nuget/cognition-bi-integration-events@7.0.51
 - pkg:nuget/cognition-bi-integration-events@7.0.6
 - pkg:nuget/cognition-bi-integration-events@7.0.7
 - pkg:nuget/cognition-bi-integration-events@7.0.8
