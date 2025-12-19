@@ -9,3 +9,4 @@
 - pkg:nuget/Devart.Data.SqlShim@2.3.193
 - pkg:nuget/Devart.Data.SqlShim@2.3.235
 - pkg:nuget/Devart.Data.SqlShim@2.3.290
+- pkg:nuget/Devart.Data.SqlShim@3.0.0
