@@ -21,3 +21,4 @@
 - pkg:nuget/Mintlify.Core@1.0.0-preview.8
 - pkg:nuget/Mintlify.Core@1.0.0-preview.9
 - pkg:nuget/Mintlify.Core@1.0.1
+- pkg:nuget/Mintlify.Core@1.2.0
