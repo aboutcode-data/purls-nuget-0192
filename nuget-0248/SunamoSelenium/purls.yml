@@ -4,6 +4,7 @@
 - pkg:nuget/SunamoSelenium@24.11.9.1
 - pkg:nuget/SunamoSelenium@24.12.5.1
 - pkg:nuget/SunamoSelenium@25.1.25.1
+- pkg:nuget/SunamoSelenium@25.12.19.2
 - pkg:nuget/SunamoSelenium@25.2.10.1
 - pkg:nuget/SunamoSelenium@25.2.21.1
 - pkg:nuget/SunamoSelenium@25.3.29.1
