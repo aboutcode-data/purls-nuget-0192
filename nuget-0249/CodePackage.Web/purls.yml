@@ -53,6 +53,7 @@
 - pkg:nuget/CodePackage.Web@17.4.0
 - pkg:nuget/CodePackage.Web@17.4.1
 - pkg:nuget/CodePackage.Web@17.4.4
+- pkg:nuget/CodePackage.Web@18.0.5
 - pkg:nuget/CodePackage.Web@2.0.1
 - pkg:nuget/CodePackage.Web@3.0.1
 - pkg:nuget/CodePackage.Web@3.0.2
