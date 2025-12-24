@@ -13,6 +13,7 @@
 - pkg:nuget/IronPrint.Xamarin@2024.8.1
 - pkg:nuget/IronPrint.Xamarin@2024.9.5
 - pkg:nuget/IronPrint.Xamarin@2025.1.2
+- pkg:nuget/IronPrint.Xamarin@2025.12.1
 - pkg:nuget/IronPrint.Xamarin@2025.2.5
 - pkg:nuget/IronPrint.Xamarin@2025.3.5
 - pkg:nuget/IronPrint.Xamarin@2025.4.1
