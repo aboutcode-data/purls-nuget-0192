@@ -767,6 +767,7 @@
 - pkg:nuget/AWSSDK.SSMContacts@3.7.501.13
 - pkg:nuget/AWSSDK.SSMContacts@3.7.501.15
 - pkg:nuget/AWSSDK.SSMContacts@3.7.501.17
+- pkg:nuget/AWSSDK.SSMContacts@3.7.501.26
 - pkg:nuget/AWSSDK.SSMContacts@4.0.0
 - pkg:nuget/AWSSDK.SSMContacts@4.0.0-preview
 - pkg:nuget/AWSSDK.SSMContacts@4.0.0-preview.10
