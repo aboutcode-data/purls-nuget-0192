@@ -1,5 +1,6 @@
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.1007-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.1015-nightly
+- pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.1094
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.947-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.954-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@10.1.957-nightly
@@ -428,6 +429,7 @@
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.1033
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.104-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.105-nightly
+- pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.1094
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.110-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.115-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.118-nightly
@@ -758,6 +760,7 @@
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.1007-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.1015-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.1033
+- pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.1094
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.384-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.385-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@9.1.387-nightly
