@@ -42,6 +42,7 @@
 - pkg:nuget/SunamoFileSystem@24.9.20.1
 - pkg:nuget/SunamoFileSystem@25.1.2.1
 - pkg:nuget/SunamoFileSystem@25.1.25.1
+- pkg:nuget/SunamoFileSystem@25.12.31.1
 - pkg:nuget/SunamoFileSystem@25.3.12.1
 - pkg:nuget/SunamoFileSystem@25.3.30.1
 - pkg:nuget/SunamoFileSystem@25.6.5.1
