@@ -40,6 +40,7 @@
 - pkg:nuget/Splat.Common.Test@16.1.1
 - pkg:nuget/Splat.Common.Test@16.2.1
 - pkg:nuget/Splat.Common.Test@17.0.1
+- pkg:nuget/Splat.Common.Test@19.1.1
 - pkg:nuget/Splat.Common.Test@9.6.1
 - pkg:nuget/Splat.Common.Test@9.7.1
 - pkg:nuget/Splat.Common.Test@9.8.1

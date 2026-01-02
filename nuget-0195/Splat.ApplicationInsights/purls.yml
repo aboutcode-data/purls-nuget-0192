@@ -45,6 +45,7 @@
 - pkg:nuget/Splat.ApplicationInsights@16.1.1
 - pkg:nuget/Splat.ApplicationInsights@16.2.1
 - pkg:nuget/Splat.ApplicationInsights@17.0.1
+- pkg:nuget/Splat.ApplicationInsights@19.1.1
 - pkg:nuget/Splat.ApplicationInsights@9.5.13
 - pkg:nuget/Splat.ApplicationInsights@9.5.20
 - pkg:nuget/Splat.ApplicationInsights@9.5.35
