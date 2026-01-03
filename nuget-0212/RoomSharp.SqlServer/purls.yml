@@ -1,1 +1,2 @@
 - pkg:nuget/RoomSharp.SqlServer@0.4.4
+- pkg:nuget/RoomSharp.SqlServer@0.4.5
