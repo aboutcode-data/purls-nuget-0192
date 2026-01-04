@@ -284,3 +284,4 @@
 - pkg:nuget/HiP.Core@3.3.4.3
 - pkg:nuget/HiP.Core@3.3.4.4
 - pkg:nuget/HiP.Core@3.3.6
+- pkg:nuget/HiP.Core@4.1.0.4
