@@ -832,6 +832,7 @@
 - pkg:nuget/AWSSDK.AppRegistry@3.7.502.16
 - pkg:nuget/AWSSDK.AppRegistry@3.7.502.20
 - pkg:nuget/AWSSDK.AppRegistry@3.7.502.22
+- pkg:nuget/AWSSDK.AppRegistry@3.7.502.23
 - pkg:nuget/AWSSDK.AppRegistry@3.7.502.7
 - pkg:nuget/AWSSDK.AppRegistry@3.7.502.9
 - pkg:nuget/AWSSDK.AppRegistry@4.0.0
