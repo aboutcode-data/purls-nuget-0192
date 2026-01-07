@@ -1,3 +1,4 @@
 - pkg:nuget/DotNetCommon.Compress@1.0.0
 - pkg:nuget/DotNetCommon.Compress@1.0.1
+- pkg:nuget/DotNetCommon.Compress@6.0.4
 - pkg:nuget/DotNetCommon.Compress@8.0.0
