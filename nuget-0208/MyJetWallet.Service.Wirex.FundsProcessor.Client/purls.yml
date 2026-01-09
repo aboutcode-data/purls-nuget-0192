@@ -1,1 +1,2 @@
 - pkg:nuget/MyJetWallet.Service.Wirex.FundsProcessor.Client@1.0.7
+- pkg:nuget/MyJetWallet.Service.Wirex.FundsProcessor.Client@2.3.20
