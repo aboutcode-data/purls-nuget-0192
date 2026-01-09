@@ -57,6 +57,7 @@
 - pkg:nuget/Indice.Scalefin.Core@2.3.1
 - pkg:nuget/Indice.Scalefin.Core@2.3.2
 - pkg:nuget/Indice.Scalefin.Core@2.30.0
+- pkg:nuget/Indice.Scalefin.Core@2.32.0
 - pkg:nuget/Indice.Scalefin.Core@2.4.0
 - pkg:nuget/Indice.Scalefin.Core@2.4.1
 - pkg:nuget/Indice.Scalefin.Core@2.4.2
