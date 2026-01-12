@@ -1,0 +1,2 @@
+- pkg:nuget/Dinocollab.LoggerProvider@1.0.5%2Bfix-questdb-hosted
+- pkg:nuget/Dinocollab.LoggerProvider@1.0.6%2Bfix-intial-table
