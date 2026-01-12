@@ -491,6 +491,7 @@
 - pkg:nuget/FilesCom@1.4.365
 - pkg:nuget/FilesCom@1.4.373
 - pkg:nuget/FilesCom@1.4.382
+- pkg:nuget/FilesCom@1.4.396
 - pkg:nuget/FilesCom@1.4.4
 - pkg:nuget/FilesCom@1.4.5
 - pkg:nuget/FilesCom@1.4.6

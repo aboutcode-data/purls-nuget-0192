@@ -524,6 +524,8 @@
 - pkg:nuget/Pulumi.Xyz@1.1.35-alpha.1730846648
 - pkg:nuget/Pulumi.Xyz@1.1.352-alpha.1766494597
 - pkg:nuget/Pulumi.Xyz@1.1.355-alpha.1767917031
+- pkg:nuget/Pulumi.Xyz@1.1.356
+- pkg:nuget/Pulumi.Xyz@1.1.356-alpha.1768237906
 - pkg:nuget/Pulumi.Xyz@1.1.36
 - pkg:nuget/Pulumi.Xyz@1.1.36-alpha.1731074290
 - pkg:nuget/Pulumi.Xyz@1.1.37
