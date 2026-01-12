@@ -1,4 +1,5 @@
 - pkg:nuget/MintPlayer.ValueComparers.NewtonsoftJson@10.2.0
+- pkg:nuget/MintPlayer.ValueComparers.NewtonsoftJson@10.9.0
 - pkg:nuget/MintPlayer.ValueComparers.NewtonsoftJson@4.15.0
 - pkg:nuget/MintPlayer.ValueComparers.NewtonsoftJson@4.16.0
 - pkg:nuget/MintPlayer.ValueComparers.NewtonsoftJson@4.17.0
