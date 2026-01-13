@@ -53,3 +53,4 @@
 - pkg:nuget/nanoFramework.System.Device.Gpio@1.1.55
 - pkg:nuget/nanoFramework.System.Device.Gpio@1.1.56
 - pkg:nuget/nanoFramework.System.Device.Gpio@1.1.57
+- pkg:nuget/nanoFramework.System.Device.Gpio@2.0.0-preview.7
