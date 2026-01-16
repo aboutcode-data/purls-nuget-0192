@@ -1,2 +1,4 @@
 - pkg:nuget/RKSoftware.Packages.ModelTransformer@0.0.0-preview.1
 - pkg:nuget/RKSoftware.Packages.ModelTransformer@0.0.0-preview.2
+- pkg:nuget/RKSoftware.Packages.ModelTransformer@1.0.0-alpha.2
+- pkg:nuget/RKSoftware.Packages.ModelTransformer@1.0.0-alpha.3
