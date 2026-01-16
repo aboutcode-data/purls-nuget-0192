@@ -13,3 +13,4 @@
 - pkg:nuget/NetOfficeFw.VbaCompiler@1.6.0
 - pkg:nuget/NetOfficeFw.VbaCompiler@1.7.0
 - pkg:nuget/NetOfficeFw.VbaCompiler@1.8.0
+- pkg:nuget/NetOfficeFw.VbaCompiler@2.0.1
