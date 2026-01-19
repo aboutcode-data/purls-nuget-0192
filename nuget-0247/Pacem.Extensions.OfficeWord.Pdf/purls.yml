@@ -1,3 +1,4 @@
+- pkg:nuget/Pacem.Extensions.OfficeWord.Pdf@0.10.0-descartes
 - pkg:nuget/Pacem.Extensions.OfficeWord.Pdf@0.7.3
 - pkg:nuget/Pacem.Extensions.OfficeWord.Pdf@0.7.4
 - pkg:nuget/Pacem.Extensions.OfficeWord.Pdf@0.8.0
