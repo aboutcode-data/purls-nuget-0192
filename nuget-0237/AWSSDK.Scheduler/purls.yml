@@ -547,6 +547,7 @@
 - pkg:nuget/AWSSDK.Scheduler@3.7.502.16
 - pkg:nuget/AWSSDK.Scheduler@3.7.502.21
 - pkg:nuget/AWSSDK.Scheduler@3.7.502.22
+- pkg:nuget/AWSSDK.Scheduler@3.7.502.31
 - pkg:nuget/AWSSDK.Scheduler@3.7.502.8
 - pkg:nuget/AWSSDK.Scheduler@4.0.0
 - pkg:nuget/AWSSDK.Scheduler@4.0.0-preview

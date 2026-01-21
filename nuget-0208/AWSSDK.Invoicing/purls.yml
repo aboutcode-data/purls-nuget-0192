@@ -159,6 +159,7 @@
 - pkg:nuget/AWSSDK.Invoicing@3.7.505.11
 - pkg:nuget/AWSSDK.Invoicing@3.7.505.14
 - pkg:nuget/AWSSDK.Invoicing@3.7.505.2
+- pkg:nuget/AWSSDK.Invoicing@3.7.505.21
 - pkg:nuget/AWSSDK.Invoicing@4.0.0
 - pkg:nuget/AWSSDK.Invoicing@4.0.0-preview.10
 - pkg:nuget/AWSSDK.Invoicing@4.0.0-preview.11

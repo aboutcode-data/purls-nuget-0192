@@ -687,6 +687,7 @@
 - pkg:nuget/AWSSDK.IoTTwinMaker@3.7.502.25
 - pkg:nuget/AWSSDK.IoTTwinMaker@3.7.502.26
 - pkg:nuget/AWSSDK.IoTTwinMaker@3.7.502.28
+- pkg:nuget/AWSSDK.IoTTwinMaker@3.7.502.35
 - pkg:nuget/AWSSDK.IoTTwinMaker@4.0.0
 - pkg:nuget/AWSSDK.IoTTwinMaker@4.0.0-preview
 - pkg:nuget/AWSSDK.IoTTwinMaker@4.0.0-preview.10
