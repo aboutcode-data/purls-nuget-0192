@@ -83,3 +83,4 @@
 - pkg:nuget/Corvus.Json.JsonSchema.OpenApi31@4.3.6
 - pkg:nuget/Corvus.Json.JsonSchema.OpenApi31@4.3.8
 - pkg:nuget/Corvus.Json.JsonSchema.OpenApi31@4.3.9
+- pkg:nuget/Corvus.Json.JsonSchema.OpenApi31@4.5.0
