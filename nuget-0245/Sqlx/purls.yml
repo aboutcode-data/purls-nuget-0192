@@ -6,3 +6,4 @@
 - pkg:nuget/Sqlx@0.2.0
 - pkg:nuget/Sqlx@0.6.0
 - pkg:nuget/Sqlx@0.6.2
+- pkg:nuget/Sqlx@0.6.3
