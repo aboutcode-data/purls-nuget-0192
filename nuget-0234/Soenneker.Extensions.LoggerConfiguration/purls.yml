@@ -1262,3 +1262,4 @@
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration@4.0.1102
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration@4.0.1106
 - pkg:nuget/Soenneker.Extensions.LoggerConfiguration@4.0.1118
+- pkg:nuget/Soenneker.Extensions.LoggerConfiguration@4.0.1119
