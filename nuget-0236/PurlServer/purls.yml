@@ -71,3 +71,4 @@
 - pkg:nuget/PurlServer@2.12.293.1
 - pkg:nuget/PurlServer@2.12.300.1
 - pkg:nuget/PurlServer@2.12.302.1
+- pkg:nuget/PurlServer@2.12.304.1
