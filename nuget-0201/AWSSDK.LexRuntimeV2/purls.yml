@@ -808,6 +808,7 @@
 - pkg:nuget/AWSSDK.LexRuntimeV2@3.7.502.26
 - pkg:nuget/AWSSDK.LexRuntimeV2@3.7.502.29
 - pkg:nuget/AWSSDK.LexRuntimeV2@3.7.502.36
+- pkg:nuget/AWSSDK.LexRuntimeV2@3.7.502.38
 - pkg:nuget/AWSSDK.LexRuntimeV2@3.7.502.6
 - pkg:nuget/AWSSDK.LexRuntimeV2@4.0.0
 - pkg:nuget/AWSSDK.LexRuntimeV2@4.0.0-preview
