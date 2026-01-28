@@ -204,4 +204,5 @@
 - pkg:nuget/MagicSuite.Api@4.1.546
 - pkg:nuget/MagicSuite.Api@4.1.556
 - pkg:nuget/MagicSuite.Api@4.1.675
+- pkg:nuget/MagicSuite.Api@4.1.787-gec415b1159
 - pkg:nuget/MagicSuite.Api@4.2.77
