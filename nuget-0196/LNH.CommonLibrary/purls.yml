@@ -896,6 +896,7 @@
 - pkg:nuget/LNH.CommonLibrary@4.3.55
 - pkg:nuget/LNH.CommonLibrary@4.3.56
 - pkg:nuget/LNH.CommonLibrary@4.3.6
+- pkg:nuget/LNH.CommonLibrary@4.3.69
 - pkg:nuget/LNH.CommonLibrary@4.3.7
 - pkg:nuget/LNH.CommonLibrary@4.3.8
 - pkg:nuget/LNH.CommonLibrary@4.3.9
