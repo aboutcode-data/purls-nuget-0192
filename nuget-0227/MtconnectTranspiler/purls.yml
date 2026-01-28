@@ -19,3 +19,4 @@
 - pkg:nuget/MtconnectTranspiler@2.5.1-pre3
 - pkg:nuget/MtconnectTranspiler@2.5.2
 - pkg:nuget/MtconnectTranspiler@2.5.3
+- pkg:nuget/MtconnectTranspiler@2.7.0-voting
