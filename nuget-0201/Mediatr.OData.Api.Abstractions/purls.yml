@@ -22,6 +22,7 @@
 - pkg:nuget/Mediatr.OData.Api.Abstractions@1.4.0-beta
 - pkg:nuget/Mediatr.OData.Api.Abstractions@1.5.0
 - pkg:nuget/Mediatr.OData.Api.Abstractions@1.5.0-beta
+- pkg:nuget/Mediatr.OData.Api.Abstractions@10.1.0
 - pkg:nuget/Mediatr.OData.Api.Abstractions@2.0.1
 - pkg:nuget/Mediatr.OData.Api.Abstractions@2.0.1-beta
 - pkg:nuget/Mediatr.OData.Api.Abstractions@2.0.2
