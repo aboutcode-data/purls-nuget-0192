@@ -14,4 +14,5 @@
 - pkg:nuget/Sekiban.Dcb.Postgres@10.0.2-preview07
 - pkg:nuget/Sekiban.Dcb.Postgres@10.0.3
 - pkg:nuget/Sekiban.Dcb.Postgres@10.0.8
+- pkg:nuget/Sekiban.Dcb.Postgres@10.1.0-preview01
 - pkg:nuget/Sekiban.Dcb.Postgres@9.1.9
