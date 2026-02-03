@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Databasemigration@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@18.0.0
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@18.1.0
 - pkg:nuget/OCI.DotNetSDK.Databasemigration@18.2.0

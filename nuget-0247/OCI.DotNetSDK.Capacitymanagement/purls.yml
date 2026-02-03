@@ -41,6 +41,7 @@
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@119.1.0
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@121.1.0
+- pkg:nuget/OCI.DotNetSDK.Capacitymanagement@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@78.2.0
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@79.0.0
 - pkg:nuget/OCI.DotNetSDK.Capacitymanagement@79.1.0

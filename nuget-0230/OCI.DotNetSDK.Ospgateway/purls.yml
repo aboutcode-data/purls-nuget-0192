@@ -42,6 +42,7 @@
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@122.0.0
+- pkg:nuget/OCI.DotNetSDK.Ospgateway@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@29.4.0
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@30.0.0
 - pkg:nuget/OCI.DotNetSDK.Ospgateway@30.1.0
