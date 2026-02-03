@@ -113,4 +113,7 @@
 - pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@16.0.2-alpha0020
 - pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@16.0.3
 - pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@16.0.3-alpha0003
+- pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@16.0.9-alpha0007
+- pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@16.0.9-alpha0009
 - pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@17.0.0-alpha0001
+- pkg:nuget/jcdcdev.Umbraco.ExtendedMarkdownEditor@17.0.3
