@@ -49,3 +49,5 @@
 - pkg:nuget/ToolGood.Algorithm@4.0.0.1
 - pkg:nuget/ToolGood.Algorithm@4.0.0.2
 - pkg:nuget/ToolGood.Algorithm@6.0.0
+- pkg:nuget/ToolGood.Algorithm@6.2.0
+- pkg:nuget/ToolGood.Algorithm@6.2.0.1
