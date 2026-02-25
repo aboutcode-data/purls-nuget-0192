@@ -121,3 +121,6 @@
 - pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.196
 - pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.224
 - pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.230
+- pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.236
+- pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.238
+- pkg:nuget/Soenneker.SemanticKernel.Pool@4.0.243

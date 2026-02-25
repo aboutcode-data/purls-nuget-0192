@@ -84,3 +84,4 @@
 - pkg:nuget/Kros.AspNetCore@4.1.4
 - pkg:nuget/Kros.AspNetCore@4.1.5
 - pkg:nuget/Kros.AspNetCore@5.0.0
+- pkg:nuget/Kros.AspNetCore@6.1.0
