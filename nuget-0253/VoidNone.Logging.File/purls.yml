@@ -1,1 +1,4 @@
+- pkg:nuget/VoidNone.Logging.File@4.0.2
+- pkg:nuget/VoidNone.Logging.File@4.0.3
+- pkg:nuget/VoidNone.Logging.File@4.0.4
 - pkg:nuget/VoidNone.Logging.File@4.1.0
