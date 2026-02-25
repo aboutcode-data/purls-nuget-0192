@@ -1237,6 +1237,7 @@
 - pkg:nuget/AWSSDK.KeyManagementService@3.7.505.28
 - pkg:nuget/AWSSDK.KeyManagementService@3.7.505.6
 - pkg:nuget/AWSSDK.KeyManagementService@3.7.505.7
+- pkg:nuget/AWSSDK.KeyManagementService@3.7.506.3
 - pkg:nuget/AWSSDK.KeyManagementService@4.0.0
 - pkg:nuget/AWSSDK.KeyManagementService@4.0.0-preview
 - pkg:nuget/AWSSDK.KeyManagementService@4.0.0-preview.10

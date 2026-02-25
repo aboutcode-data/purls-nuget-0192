@@ -401,6 +401,7 @@
 - pkg:nuget/AWSSDK.EntityResolution@3.7.503.8
 - pkg:nuget/AWSSDK.EntityResolution@3.7.504.1
 - pkg:nuget/AWSSDK.EntityResolution@3.7.504.22
+- pkg:nuget/AWSSDK.EntityResolution@3.7.504.27
 - pkg:nuget/AWSSDK.EntityResolution@3.7.504.5
 - pkg:nuget/AWSSDK.EntityResolution@4.0.0
 - pkg:nuget/AWSSDK.EntityResolution@4.0.0-preview

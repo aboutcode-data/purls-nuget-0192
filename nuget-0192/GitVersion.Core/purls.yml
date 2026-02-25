@@ -83,3 +83,4 @@
 - pkg:nuget/GitVersion.Core@6.2.0
 - pkg:nuget/GitVersion.Core@6.3.0
 - pkg:nuget/GitVersion.Core@6.4.0
+- pkg:nuget/GitVersion.Core@6.6.0

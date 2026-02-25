@@ -74,6 +74,7 @@
 - pkg:nuget/APF.Core.API@8.0.0.14-Beta-01
 - pkg:nuget/APF.Core.API@8.0.0.15-Beta-01
 - pkg:nuget/APF.Core.API@8.0.0.17
+- pkg:nuget/APF.Core.API@8.0.0.18-Beta-03
 - pkg:nuget/APF.Core.API@8.0.0.2
 - pkg:nuget/APF.Core.API@8.0.0.3
 - pkg:nuget/APF.Core.API@8.0.0.3-Beta-01

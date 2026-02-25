@@ -289,3 +289,4 @@
 - pkg:nuget/Pulumi.DbtCloud@1.4.0-alpha.1763617445
 - pkg:nuget/Pulumi.DbtCloud@1.5.0-alpha.1767139522
 - pkg:nuget/Pulumi.DbtCloud@1.6.0-alpha.1770097770
+- pkg:nuget/Pulumi.DbtCloud@1.7.0-alpha.1771912512

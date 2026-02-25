@@ -1,3 +1,4 @@
+- pkg:nuget/HMENetCore.Jwt@10.0.6
 - pkg:nuget/HMENetCore.Jwt@6.0.0.1
 - pkg:nuget/HMENetCore.Jwt@6.0.0.10
 - pkg:nuget/HMENetCore.Jwt@6.0.0.12

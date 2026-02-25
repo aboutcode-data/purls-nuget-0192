@@ -1253,7 +1253,9 @@
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.504.26
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.504.3
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.504.33
+- pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.504.37
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.504.5
+- pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.505
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.6
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.6.1
 - pkg:nuget/AWSSDK.SimpleSystemsManagement@3.7.6.2

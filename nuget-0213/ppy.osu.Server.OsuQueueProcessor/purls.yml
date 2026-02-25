@@ -33,3 +33,4 @@
 - pkg:nuget/ppy.osu.Server.OsuQueueProcessor@2024.506.2
 - pkg:nuget/ppy.osu.Server.OsuQueueProcessor@2024.507.0
 - pkg:nuget/ppy.osu.Server.OsuQueueProcessor@2025.317.0
+- pkg:nuget/ppy.osu.Server.OsuQueueProcessor@2026.210.0
