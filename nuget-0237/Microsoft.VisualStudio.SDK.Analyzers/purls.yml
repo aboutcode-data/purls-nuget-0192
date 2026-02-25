@@ -24,6 +24,7 @@
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@16.6.8-alpha
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@16.7.9
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@16.9.2-alpha
+- pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@17.7.105
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@17.7.22
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@17.7.32
 - pkg:nuget/Microsoft.VisualStudio.SDK.Analyzers@17.7.41

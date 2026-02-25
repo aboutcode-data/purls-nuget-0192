@@ -22,3 +22,4 @@
 - pkg:nuget/Tmds.DBus@0.8.0
 - pkg:nuget/Tmds.DBus@0.9.0
 - pkg:nuget/Tmds.DBus@0.9.1
+- pkg:nuget/Tmds.DBus@0.90.3

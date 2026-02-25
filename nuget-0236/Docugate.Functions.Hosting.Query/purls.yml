@@ -11,3 +11,5 @@
 - pkg:nuget/Docugate.Functions.Hosting.Query@1.7.1
 - pkg:nuget/Docugate.Functions.Hosting.Query@1.8.0
 - pkg:nuget/Docugate.Functions.Hosting.Query@2.1.0
+- pkg:nuget/Docugate.Functions.Hosting.Query@2.1.2
+- pkg:nuget/Docugate.Functions.Hosting.Query@3.0.0-alpha.1
