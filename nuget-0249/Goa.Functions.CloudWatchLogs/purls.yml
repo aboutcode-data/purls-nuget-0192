@@ -1,1 +1,2 @@
 - pkg:nuget/Goa.Functions.CloudWatchLogs@0.1.4-preview
+- pkg:nuget/Goa.Functions.CloudWatchLogs@0.7.2-preview

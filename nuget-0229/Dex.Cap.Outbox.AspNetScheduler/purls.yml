@@ -31,3 +31,4 @@
 - pkg:nuget/Dex.Cap.Outbox.AspNetScheduler@8.1.0
 - pkg:nuget/Dex.Cap.Outbox.AspNetScheduler@8.1.1
 - pkg:nuget/Dex.Cap.Outbox.AspNetScheduler@8.1.2
+- pkg:nuget/Dex.Cap.Outbox.AspNetScheduler@8.2.6
