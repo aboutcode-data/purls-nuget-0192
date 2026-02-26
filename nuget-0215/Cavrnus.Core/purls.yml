@@ -244,6 +244,7 @@
 - pkg:nuget/Cavrnus.Core@2025.1.1339-alpha
 - pkg:nuget/Cavrnus.Core@2025.1.1340-alpha
 - pkg:nuget/Cavrnus.Core@2025.1.1344-alpha
+- pkg:nuget/Cavrnus.Core@2025.1.1350-alpha
 - pkg:nuget/Cavrnus.Core@2025.1.573-beta
 - pkg:nuget/Cavrnus.Core@2025.1.574-beta
 - pkg:nuget/Cavrnus.Core@2025.1.575-beta
