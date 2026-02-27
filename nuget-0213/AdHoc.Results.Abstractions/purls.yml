@@ -1,0 +1,6 @@
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0.1-http
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0.1-trace
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0.2-aspnet-http
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0.2-http-trace
+- pkg:nuget/AdHoc.Results.Abstractions@1.1.0.3-aspnet-http-trace
