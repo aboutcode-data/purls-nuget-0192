@@ -22,6 +22,7 @@
 - pkg:nuget/Xcst.AspNetCore@2.0.21
 - pkg:nuget/Xcst.AspNetCore@2.0.22
 - pkg:nuget/Xcst.AspNetCore@2.0.23
+- pkg:nuget/Xcst.AspNetCore@2.0.24
 - pkg:nuget/Xcst.AspNetCore@2.0.4
 - pkg:nuget/Xcst.AspNetCore@2.0.5
 - pkg:nuget/Xcst.AspNetCore@2.0.6
