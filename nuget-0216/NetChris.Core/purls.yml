@@ -13,6 +13,7 @@
 - pkg:nuget/NetChris.Core@11.1.0
 - pkg:nuget/NetChris.Core@12.0.0-prelease-1
 - pkg:nuget/NetChris.Core@12.0.0-prelease-2
+- pkg:nuget/NetChris.Core@12.0.12
 - pkg:nuget/NetChris.Core@2.0.0
 - pkg:nuget/NetChris.Core@2.0.2
 - pkg:nuget/NetChris.Core@2.1.0
