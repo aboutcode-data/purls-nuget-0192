@@ -11,3 +11,5 @@
 - pkg:nuget/XAML.MapControl.Avalonia@13.4.0
 - pkg:nuget/XAML.MapControl.Avalonia@13.5.0
 - pkg:nuget/XAML.MapControl.Avalonia@13.6.0
+- pkg:nuget/XAML.MapControl.Avalonia@16.0.0
+- pkg:nuget/XAML.MapControl.Avalonia@16.1.0
