@@ -1,1 +1,2 @@
 - pkg:nuget/Ivy.Auth.GitHub@1.2.13
+- pkg:nuget/Ivy.Auth.GitHub@1.2.16-pre-20260303194234
