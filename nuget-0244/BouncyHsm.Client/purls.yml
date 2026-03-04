@@ -7,3 +7,4 @@
 - pkg:nuget/BouncyHsm.Client@1.4.0
 - pkg:nuget/BouncyHsm.Client@1.5.0
 - pkg:nuget/BouncyHsm.Client@1.6.0
+- pkg:nuget/BouncyHsm.Client@2.0.1
