@@ -178,4 +178,5 @@
 - pkg:nuget/QuestPDF@2025.7.1
 - pkg:nuget/QuestPDF@2026.2.0
 - pkg:nuget/QuestPDF@2026.2.2
+- pkg:nuget/QuestPDF@2026.2.3
 - pkg:nuget/QuestPDF@2202.8.2
