@@ -131,3 +131,5 @@
 - pkg:nuget/NewLife.RocketMQ@2.7.2025.901
 - pkg:nuget/NewLife.RocketMQ@2.7.2025.901-beta0407
 - pkg:nuget/NewLife.RocketMQ@2.7.2025.905-beta0328
+- pkg:nuget/NewLife.RocketMQ@3.0.2026.305
+- pkg:nuget/NewLife.RocketMQ@3.0.2026.305-beta1358
