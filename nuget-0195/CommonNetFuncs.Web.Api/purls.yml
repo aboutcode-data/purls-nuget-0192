@@ -86,3 +86,4 @@
 - pkg:nuget/CommonNetFuncs.Web.Api@3.8.38
 - pkg:nuget/CommonNetFuncs.Web.Api@4.0.17
 - pkg:nuget/CommonNetFuncs.Web.Api@4.0.22
+- pkg:nuget/CommonNetFuncs.Web.Api@4.0.23
