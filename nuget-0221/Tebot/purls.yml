@@ -50,3 +50,6 @@
 - pkg:nuget/Tebot@0.2.7
 - pkg:nuget/Tebot@0.2.8
 - pkg:nuget/Tebot@0.2.9
+- pkg:nuget/Tebot@0.3.72-beta
+- pkg:nuget/Tebot@0.3.73-beta
+- pkg:nuget/Tebot@0.3.74-beta
