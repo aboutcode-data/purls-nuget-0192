@@ -4,6 +4,7 @@
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@1.1.9
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@1.3.10
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@1.3.10-beta.20260309.33
+- pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@1.3.11-beta.20260309.34
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@10.0.0
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@10.0.0-beta.16
 - pkg:nuget/InsonusK.Shared.Mediator.ExceptionHandler@10.1.1
