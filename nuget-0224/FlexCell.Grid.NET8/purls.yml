@@ -89,6 +89,8 @@
 - pkg:nuget/FlexCell.Grid.NET8@25.8.5
 - pkg:nuget/FlexCell.Grid.NET8@25.9.12
 - pkg:nuget/FlexCell.Grid.NET8@25.9.5
+- pkg:nuget/FlexCell.Grid.NET8@26.2.3
+- pkg:nuget/FlexCell.Grid.NET8@26.3.10
 - pkg:nuget/FlexCell.Grid.NET8@8.0.0
 - pkg:nuget/FlexCell.Grid.NET8@8.0.1
 - pkg:nuget/FlexCell.Grid.NET8@8.0.1.1124
