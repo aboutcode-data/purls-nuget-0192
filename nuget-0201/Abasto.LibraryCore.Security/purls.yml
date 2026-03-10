@@ -39,3 +39,4 @@
 - pkg:nuget/Abasto.LibraryCore.Security@4.2.9
 - pkg:nuget/Abasto.LibraryCore.Security@4.3.0
 - pkg:nuget/Abasto.LibraryCore.Security@4.3.9
+- pkg:nuget/Abasto.LibraryCore.Security@5.0.5
