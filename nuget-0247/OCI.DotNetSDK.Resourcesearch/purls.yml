@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@120.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@127.0.0
+- pkg:nuget/OCI.DotNetSDK.Resourcesearch@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@13.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Resourcesearch@14.1.0
