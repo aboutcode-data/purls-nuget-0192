@@ -1,1 +1,2 @@
 - pkg:nuget/Shipstone.AspNetCore@1.0.0
+- pkg:nuget/Shipstone.AspNetCore@9.0.1
