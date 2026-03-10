@@ -12,3 +12,4 @@
 - pkg:nuget/Soenneker.Stripe.Enums.PaymentMethodTypes@3.0.9
 - pkg:nuget/Soenneker.Stripe.Enums.PaymentMethodTypes@4.0.14
 - pkg:nuget/Soenneker.Stripe.Enums.PaymentMethodTypes@4.0.30
+- pkg:nuget/Soenneker.Stripe.Enums.PaymentMethodTypes@4.0.33
