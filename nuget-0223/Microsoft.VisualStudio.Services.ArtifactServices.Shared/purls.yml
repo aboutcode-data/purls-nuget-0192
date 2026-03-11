@@ -23,6 +23,7 @@
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@19.253.35924-buildid29751491
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@19.255.36112-buildid29946840
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@20.256.36121-buildid29982188
+- pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@20.256.37110-buildid31154092
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@20.257.36202-buildid30029322
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@20.259.36316-buildid30240216
 - pkg:nuget/Microsoft.VisualStudio.Services.ArtifactServices.Shared@20.260.36418-buildid30363410
