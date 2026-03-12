@@ -615,3 +615,5 @@
 - pkg:nuget/Soenneker.Extensions.Enumerable@4.0.605
 - pkg:nuget/Soenneker.Extensions.Enumerable@4.0.606
 - pkg:nuget/Soenneker.Extensions.Enumerable@4.0.610
+- pkg:nuget/Soenneker.Extensions.Enumerable@4.0.613
+- pkg:nuget/Soenneker.Extensions.Enumerable@4.0.615

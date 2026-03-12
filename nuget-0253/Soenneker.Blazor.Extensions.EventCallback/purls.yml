@@ -423,3 +423,4 @@
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@3.0.99
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@4.0.427
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@4.0.428
+- pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@4.0.441

@@ -86,3 +86,4 @@
 - pkg:nuget/CodeOfChaos.Extensions.AspNetCore@0.81.0
 - pkg:nuget/CodeOfChaos.Extensions.AspNetCore@0.81.1
 - pkg:nuget/CodeOfChaos.Extensions.AspNetCore@0.83.1
+- pkg:nuget/CodeOfChaos.Extensions.AspNetCore@0.89.0
