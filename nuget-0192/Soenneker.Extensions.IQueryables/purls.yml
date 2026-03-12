@@ -28,6 +28,7 @@
 - pkg:nuget/Soenneker.Extensions.IQueryables@3.0.7
 - pkg:nuget/Soenneker.Extensions.IQueryables@3.0.8
 - pkg:nuget/Soenneker.Extensions.IQueryables@3.0.9
+- pkg:nuget/Soenneker.Extensions.IQueryables@4.0.101
 - pkg:nuget/Soenneker.Extensions.IQueryables@4.0.33
 - pkg:nuget/Soenneker.Extensions.IQueryables@4.0.38
 - pkg:nuget/Soenneker.Extensions.IQueryables@4.0.42
