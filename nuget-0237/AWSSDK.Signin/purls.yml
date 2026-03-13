@@ -4,5 +4,7 @@
 - pkg:nuget/AWSSDK.Signin@3.7.500.30
 - pkg:nuget/AWSSDK.Signin@3.7.500.35
 - pkg:nuget/AWSSDK.Signin@3.7.500.4
+- pkg:nuget/AWSSDK.Signin@3.7.500.42
 - pkg:nuget/AWSSDK.Signin@3.7.500.8
 - pkg:nuget/AWSSDK.Signin@3.7.500.9
+- pkg:nuget/AWSSDK.Signin@4.0.0.12
