@@ -1,1 +1,8 @@
+- pkg:nuget/IronAlpine.Kernel@0.2.0
+- pkg:nuget/IronAlpine.Kernel@0.2.1
+- pkg:nuget/IronAlpine.Kernel@0.2.2
+- pkg:nuget/IronAlpine.Kernel@0.2.3
+- pkg:nuget/IronAlpine.Kernel@1.0.0-rc1
 - pkg:nuget/IronAlpine.Kernel@1.0.0-rc4
+- pkg:nuget/IronAlpine.Kernel@1.0.0-rc8
+- pkg:nuget/IronAlpine.Kernel@1.1.0
