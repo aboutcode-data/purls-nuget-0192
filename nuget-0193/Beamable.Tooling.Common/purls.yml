@@ -531,6 +531,7 @@
 - pkg:nuget/Beamable.Tooling.Common@4.3.2
 - pkg:nuget/Beamable.Tooling.Common@4.3.3
 - pkg:nuget/Beamable.Tooling.Common@4.3.4
+- pkg:nuget/Beamable.Tooling.Common@4.3.6-PREVIEW.RC1
 - pkg:nuget/Beamable.Tooling.Common@5.0.0
 - pkg:nuget/Beamable.Tooling.Common@5.0.0-PREVIEW.RC1
 - pkg:nuget/Beamable.Tooling.Common@5.0.0-PREVIEW.RC2
