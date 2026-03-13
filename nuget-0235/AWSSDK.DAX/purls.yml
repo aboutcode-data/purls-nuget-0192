@@ -1204,4 +1204,5 @@
 - pkg:nuget/AWSSDK.DAX@4.0.0.9
 - pkg:nuget/AWSSDK.DAX@4.0.1
 - pkg:nuget/AWSSDK.DAX@4.0.1.1
+- pkg:nuget/AWSSDK.DAX@4.0.2.16
 - pkg:nuget/AWSSDK.DAX@4.0.2.9
