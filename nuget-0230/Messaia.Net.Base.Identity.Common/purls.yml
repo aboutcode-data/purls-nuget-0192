@@ -1,4 +1,5 @@
 - pkg:nuget/Messaia.Net.Base.Identity.Common@10.0.0-RC04
+- pkg:nuget/Messaia.Net.Base.Identity.Common@10.0.1
 - pkg:nuget/Messaia.Net.Base.Identity.Common@8.2.0-rc10
 - pkg:nuget/Messaia.Net.Base.Identity.Common@8.2.0-rc11
 - pkg:nuget/Messaia.Net.Base.Identity.Common@8.2.0-rc12
