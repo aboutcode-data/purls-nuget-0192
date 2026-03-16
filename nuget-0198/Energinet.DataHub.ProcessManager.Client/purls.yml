@@ -88,6 +88,7 @@
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@1.5.0-alpha-138
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@1.5.0-alpha-139
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@10.2.1
+- pkg:nuget/Energinet.DataHub.ProcessManager.Client@11.0.2
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@2.0.0
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@2.1.0
 - pkg:nuget/Energinet.DataHub.ProcessManager.Client@2.1.1
