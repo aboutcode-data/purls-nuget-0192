@@ -1,4 +1,5 @@
 - pkg:nuget/MySQLHelperLibraries@1.0.0
+- pkg:nuget/MySQLHelperLibraries@10.0.12
 - pkg:nuget/MySQLHelperLibraries@2.0.1
 - pkg:nuget/MySQLHelperLibraries@3.0.1
 - pkg:nuget/MySQLHelperLibraries@4.0.1
