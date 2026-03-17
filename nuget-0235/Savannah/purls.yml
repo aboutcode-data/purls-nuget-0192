@@ -1,4 +1,5 @@
 - pkg:nuget/Savannah@1.0.1
+- pkg:nuget/Savannah@10.0.5
 - pkg:nuget/Savannah@2.0.1
 - pkg:nuget/Savannah@2.0.2
 - pkg:nuget/Savannah@7.0.1

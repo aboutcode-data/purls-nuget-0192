@@ -1,4 +1,5 @@
 - pkg:nuget/BibleDatabaseLibrary@1.0.1
+- pkg:nuget/BibleDatabaseLibrary@10.0.13
 - pkg:nuget/BibleDatabaseLibrary@2.0.1
 - pkg:nuget/BibleDatabaseLibrary@2.0.2
 - pkg:nuget/BibleDatabaseLibrary@3.0.1
