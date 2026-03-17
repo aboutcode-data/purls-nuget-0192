@@ -34,3 +34,4 @@
 - pkg:nuget/GameFrameX.Foundation.Encryption@1.7.1.10
 - pkg:nuget/GameFrameX.Foundation.Encryption@1.7.1.11
 - pkg:nuget/GameFrameX.Foundation.Encryption@1.7.1.5
+- pkg:nuget/GameFrameX.Foundation.Encryption@2.3.0.3
