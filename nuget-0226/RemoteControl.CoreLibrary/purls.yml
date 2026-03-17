@@ -1,5 +1,6 @@
 - pkg:nuget/RemoteControl.CoreLibrary@1.0.1
 - pkg:nuget/RemoteControl.CoreLibrary@1.0.2
+- pkg:nuget/RemoteControl.CoreLibrary@10.0.12
 - pkg:nuget/RemoteControl.CoreLibrary@2.0.1
 - pkg:nuget/RemoteControl.CoreLibrary@2.0.2
 - pkg:nuget/RemoteControl.CoreLibrary@3.0.1
