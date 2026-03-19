@@ -4,3 +4,4 @@
 - pkg:nuget/MyNet.CsvHelper.Extensions@13.0.0
 - pkg:nuget/MyNet.CsvHelper.Extensions@13.1.0
 - pkg:nuget/MyNet.CsvHelper.Extensions@14.1.0
+- pkg:nuget/MyNet.CsvHelper.Extensions@17.0.1
