@@ -252,6 +252,7 @@
 - pkg:nuget/AWSSDK.MailManager@3.7.502.33
 - pkg:nuget/AWSSDK.MailManager@3.7.502.39
 - pkg:nuget/AWSSDK.MailManager@3.7.502.40
+- pkg:nuget/AWSSDK.MailManager@3.7.502.43
 - pkg:nuget/AWSSDK.MailManager@3.7.502.7
 - pkg:nuget/AWSSDK.MailManager@4.0.0
 - pkg:nuget/AWSSDK.MailManager@4.0.0-preview

@@ -364,3 +364,5 @@
 - pkg:nuget/Soenneker.Config.Realtime@4.0.424
 - pkg:nuget/Soenneker.Config.Realtime@4.0.433
 - pkg:nuget/Soenneker.Config.Realtime@4.0.443
+- pkg:nuget/Soenneker.Config.Realtime@4.0.445
+- pkg:nuget/Soenneker.Config.Realtime@4.0.446

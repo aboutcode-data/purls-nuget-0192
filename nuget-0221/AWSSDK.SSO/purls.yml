@@ -1001,6 +1001,7 @@
 - pkg:nuget/AWSSDK.SSO@3.7.502.41
 - pkg:nuget/AWSSDK.SSO@3.7.502.47
 - pkg:nuget/AWSSDK.SSO@3.7.502.48
+- pkg:nuget/AWSSDK.SSO@3.7.502.51
 - pkg:nuget/AWSSDK.SSO@3.7.502.6
 - pkg:nuget/AWSSDK.SSO@3.7.502.8
 - pkg:nuget/AWSSDK.SSO@4.0.0

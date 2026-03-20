@@ -1165,6 +1165,7 @@
 - pkg:nuget/AWSSDK.DAX@3.7.502.31
 - pkg:nuget/AWSSDK.DAX@3.7.502.38
 - pkg:nuget/AWSSDK.DAX@3.7.502.43
+- pkg:nuget/AWSSDK.DAX@3.7.502.53
 - pkg:nuget/AWSSDK.DAX@3.7.502.8
 - pkg:nuget/AWSSDK.DAX@4.0.0
 - pkg:nuget/AWSSDK.DAX@4.0.0-preview
