@@ -1,1 +1,2 @@
 - pkg:nuget/Ramsha.Identity.AspNetCore@2025.12.1
+- pkg:nuget/Ramsha.Identity.AspNetCore@26.3.11
