@@ -1210,6 +1210,7 @@
 - pkg:nuget/AWSSDK.SimpleWorkflow@3.7.502.47
 - pkg:nuget/AWSSDK.SimpleWorkflow@3.7.502.54
 - pkg:nuget/AWSSDK.SimpleWorkflow@3.7.502.57
+- pkg:nuget/AWSSDK.SimpleWorkflow@3.7.502.58
 - pkg:nuget/AWSSDK.SimpleWorkflow@4.0.0
 - pkg:nuget/AWSSDK.SimpleWorkflow@4.0.0-preview
 - pkg:nuget/AWSSDK.SimpleWorkflow@4.0.0-preview.10

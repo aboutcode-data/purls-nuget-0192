@@ -30,5 +30,6 @@
 - pkg:nuget/OpenDDSharp.IdlGenerator@3.310.3
 - pkg:nuget/OpenDDSharp.IdlGenerator@3.310.3-beta20775
 - pkg:nuget/OpenDDSharp.IdlGenerator@3.310.3-beta20776
+- pkg:nuget/OpenDDSharp.IdlGenerator@3.330.1
 - pkg:nuget/OpenDDSharp.IdlGenerator@3.330.1-beta20781
 - pkg:nuget/OpenDDSharp.IdlGenerator@7.0.21123.8-alpha8
