@@ -25,3 +25,4 @@
 - pkg:nuget/RavenDB.Bundles.NodaTime@6.2.5
 - pkg:nuget/RavenDB.Bundles.NodaTime@6.2.7
 - pkg:nuget/RavenDB.Bundles.NodaTime@6.2.8
+- pkg:nuget/RavenDB.Bundles.NodaTime@7.2.1
