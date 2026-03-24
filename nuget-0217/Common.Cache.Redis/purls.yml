@@ -6,3 +6,4 @@
 - pkg:nuget/Common.Cache.Redis@1.2.0-beta4
 - pkg:nuget/Common.Cache.Redis@1.2.0-beta5
 - pkg:nuget/Common.Cache.Redis@1.2.0-beta6
+- pkg:nuget/Common.Cache.Redis@2.0.0
