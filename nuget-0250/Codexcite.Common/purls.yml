@@ -82,3 +82,4 @@
 - pkg:nuget/Codexcite.Common@5.8.1
 - pkg:nuget/Codexcite.Common@5.9.0
 - pkg:nuget/Codexcite.Common@5.9.1
+- pkg:nuget/Codexcite.Common@6.11.0

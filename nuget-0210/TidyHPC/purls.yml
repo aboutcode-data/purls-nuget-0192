@@ -44,3 +44,5 @@
 - pkg:nuget/TidyHPC@1.0.8
 - pkg:nuget/TidyHPC@1.0.88
 - pkg:nuget/TidyHPC@1.0.9
+- pkg:nuget/TidyHPC@1.0.96
+- pkg:nuget/TidyHPC@1.0.97
