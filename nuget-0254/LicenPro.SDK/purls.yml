@@ -3,4 +3,6 @@
 - pkg:nuget/LicenPro.SDK@1.0.0-rc12
 - pkg:nuget/LicenPro.SDK@1.0.0-rc4
 - pkg:nuget/LicenPro.SDK@1.0.1-alpha
+- pkg:nuget/LicenPro.SDK@1.0.3-alpha
+- pkg:nuget/LicenPro.SDK@1.0.4-alpha
 - pkg:nuget/LicenPro.SDK@1.1.8
