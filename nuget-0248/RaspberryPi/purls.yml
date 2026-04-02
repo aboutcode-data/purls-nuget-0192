@@ -1,0 +1,4 @@
+- pkg:nuget/RaspberryPi@1.0.0-pre
+- pkg:nuget/RaspberryPi@1.0.1-pre
+- pkg:nuget/RaspberryPi@1.0.3
+- pkg:nuget/RaspberryPi@1.1.8-pre
