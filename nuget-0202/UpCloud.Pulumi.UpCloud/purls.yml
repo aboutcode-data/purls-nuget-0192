@@ -7,6 +7,7 @@
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.1.0-alpha.1740131616
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.1.0-alpha.1740133061
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.1.0-alpha.1741871884
+- pkg:nuget/UpCloud.Pulumi.UpCloud@0.12.1
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.2.0
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.3.0
 - pkg:nuget/UpCloud.Pulumi.UpCloud@0.3.0-alpha.1744828456

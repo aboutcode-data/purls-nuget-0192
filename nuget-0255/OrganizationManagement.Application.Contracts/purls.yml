@@ -1,1 +1,3 @@
 - pkg:nuget/OrganizationManagement.Application.Contracts@0.8.0
+- pkg:nuget/OrganizationManagement.Application.Contracts@0.9.0
+- pkg:nuget/OrganizationManagement.Application.Contracts@0.9.1

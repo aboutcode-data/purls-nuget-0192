@@ -53,3 +53,5 @@
 - pkg:nuget/ReverseMarkdown@4.6.0
 - pkg:nuget/ReverseMarkdown@4.7.0
 - pkg:nuget/ReverseMarkdown@5.0.0
+- pkg:nuget/ReverseMarkdown@5.2.1
+- pkg:nuget/ReverseMarkdown@5.3.0

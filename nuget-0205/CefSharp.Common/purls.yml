@@ -75,6 +75,7 @@
 - pkg:nuget/CefSharp.Common@138.0.340
 - pkg:nuget/CefSharp.Common@139.0.280
 - pkg:nuget/CefSharp.Common@140.1.140
+- pkg:nuget/CefSharp.Common@146.0.70
 - pkg:nuget/CefSharp.Common@31.0.0-pre1
 - pkg:nuget/CefSharp.Common@33.0.0
 - pkg:nuget/CefSharp.Common@33.0.2

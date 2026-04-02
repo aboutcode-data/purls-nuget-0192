@@ -71,6 +71,7 @@
 - pkg:nuget/MiniCover@3.0.6-beta1
 - pkg:nuget/MiniCover@3.0.6-beta2
 - pkg:nuget/MiniCover@3.1.0
+- pkg:nuget/MiniCover@3.10.0
 - pkg:nuget/MiniCover@3.2.0
 - pkg:nuget/MiniCover@3.3.0
 - pkg:nuget/MiniCover@3.4.0

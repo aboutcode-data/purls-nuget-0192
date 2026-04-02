@@ -1505,3 +1505,5 @@
 - pkg:nuget/Soenneker.NuGet.Client@4.0.1621
 - pkg:nuget/Soenneker.NuGet.Client@4.0.1631
 - pkg:nuget/Soenneker.NuGet.Client@4.0.1633
+- pkg:nuget/Soenneker.NuGet.Client@4.0.1645
+- pkg:nuget/Soenneker.NuGet.Client@4.0.1646

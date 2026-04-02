@@ -25,3 +25,5 @@
 - pkg:nuget/TinyLogger@2.0.2
 - pkg:nuget/TinyLogger@3.0.0
 - pkg:nuget/TinyLogger@3.1.0
+- pkg:nuget/TinyLogger@3.3.0
+- pkg:nuget/TinyLogger@3.3.1

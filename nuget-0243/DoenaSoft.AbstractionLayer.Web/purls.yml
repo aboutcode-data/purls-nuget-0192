@@ -9,3 +9,6 @@
 - pkg:nuget/DoenaSoft.AbstractionLayer.Web@1.0.7
 - pkg:nuget/DoenaSoft.AbstractionLayer.Web@1.0.8
 - pkg:nuget/DoenaSoft.AbstractionLayer.Web@1.0.9
+- pkg:nuget/DoenaSoft.AbstractionLayer.Web@2.0.0
+- pkg:nuget/DoenaSoft.AbstractionLayer.Web@2.0.1
+- pkg:nuget/DoenaSoft.AbstractionLayer.Web@3.0.0

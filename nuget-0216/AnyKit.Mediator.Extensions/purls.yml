@@ -23,3 +23,5 @@
 - pkg:nuget/AnyKit.Mediator.Extensions@8.1.7
 - pkg:nuget/AnyKit.Mediator.Extensions@8.1.8
 - pkg:nuget/AnyKit.Mediator.Extensions@8.1.9
+- pkg:nuget/AnyKit.Mediator.Extensions@8.2.0
+- pkg:nuget/AnyKit.Mediator.Extensions@8.3.0

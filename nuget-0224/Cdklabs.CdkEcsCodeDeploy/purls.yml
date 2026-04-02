@@ -358,6 +358,7 @@
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.420
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.421
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.43
+- pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.435
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.44
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.45
 - pkg:nuget/Cdklabs.CdkEcsCodeDeploy@0.0.46

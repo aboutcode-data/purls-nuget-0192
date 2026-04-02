@@ -27,6 +27,7 @@
 - pkg:nuget/Plugin.LocalNotification@12.0.0
 - pkg:nuget/Plugin.LocalNotification@12.0.1
 - pkg:nuget/Plugin.LocalNotification@12.0.2
+- pkg:nuget/Plugin.LocalNotification@14.1.0
 - pkg:nuget/Plugin.LocalNotification@2.0.0
 - pkg:nuget/Plugin.LocalNotification@2.0.1
 - pkg:nuget/Plugin.LocalNotification@2.0.2

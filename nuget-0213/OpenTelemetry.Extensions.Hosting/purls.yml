@@ -33,6 +33,7 @@
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.11.2
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.12.0
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.14.0-rc.1
+- pkg:nuget/OpenTelemetry.Extensions.Hosting@1.15.1
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.4.0
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.4.0-rc.1
 - pkg:nuget/OpenTelemetry.Extensions.Hosting@1.4.0-rc.2

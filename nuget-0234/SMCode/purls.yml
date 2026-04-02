@@ -73,6 +73,7 @@
 - pkg:nuget/SMCode@2.0.302
 - pkg:nuget/SMCode@2.0.307
 - pkg:nuget/SMCode@2.0.32
+- pkg:nuget/SMCode@2.0.330
 - pkg:nuget/SMCode@2.0.35
 - pkg:nuget/SMCode@2.0.36
 - pkg:nuget/SMCode@2.0.38

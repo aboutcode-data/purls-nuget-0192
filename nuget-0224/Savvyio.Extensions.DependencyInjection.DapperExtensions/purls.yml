@@ -30,3 +30,4 @@
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.DapperExtensions@4.3.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.DapperExtensions@4.4.0
 - pkg:nuget/Savvyio.Extensions.DependencyInjection.DapperExtensions@4.4.1
+- pkg:nuget/Savvyio.Extensions.DependencyInjection.DapperExtensions@5.0.5

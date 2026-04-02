@@ -76,6 +76,8 @@
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.12
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.13
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.14
+- pkg:nuget/Tago.Extensions.HttpClient@8.0.16
+- pkg:nuget/Tago.Extensions.HttpClient@8.0.17
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.2
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.3
 - pkg:nuget/Tago.Extensions.HttpClient@8.0.4

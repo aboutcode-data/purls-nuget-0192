@@ -151,6 +151,7 @@
 - pkg:nuget/Tuic@2.2.1
 - pkg:nuget/Tuic@2.2.10
 - pkg:nuget/Tuic@2.2.11
+- pkg:nuget/Tuic@2.2.111
 - pkg:nuget/Tuic@2.2.12
 - pkg:nuget/Tuic@2.2.13
 - pkg:nuget/Tuic@2.2.14

@@ -142,3 +142,5 @@
 - pkg:nuget/Enlighten@3.0.7
 - pkg:nuget/Enlighten@3.0.8
 - pkg:nuget/Enlighten@3.1.0
+- pkg:nuget/Enlighten@3.1.1
+- pkg:nuget/Enlighten@3.1.2

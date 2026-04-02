@@ -110,6 +110,7 @@
 - pkg:nuget/ReactiveUI.WPF@20.3.1
 - pkg:nuget/ReactiveUI.WPF@20.4.1
 - pkg:nuget/ReactiveUI.WPF@21.0.1
+- pkg:nuget/ReactiveUI.WPF@23.2.1
 - pkg:nuget/ReactiveUI.WPF@8.0.0
 - pkg:nuget/ReactiveUI.WPF@8.0.0-alpha0110
 - pkg:nuget/ReactiveUI.WPF@8.0.0-alpha0113

@@ -49,6 +49,7 @@
 - pkg:nuget/OCI.DotNetSDK.Cims@121.1.0
 - pkg:nuget/OCI.DotNetSDK.Cims@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Cims@13.0.0
+- pkg:nuget/OCI.DotNetSDK.Cims@130.0.0
 - pkg:nuget/OCI.DotNetSDK.Cims@14.0.0
 - pkg:nuget/OCI.DotNetSDK.Cims@14.1.0
 - pkg:nuget/OCI.DotNetSDK.Cims@14.2.0

@@ -197,3 +197,6 @@
 - pkg:nuget/ppy.osu.Game.Resources@2025.909.0
 - pkg:nuget/ppy.osu.Game.Resources@2025.911.0
 - pkg:nuget/ppy.osu.Game.Resources@2025.913.0
+- pkg:nuget/ppy.osu.Game.Resources@2026.331.0
+- pkg:nuget/ppy.osu.Game.Resources@2026.401.0
+- pkg:nuget/ppy.osu.Game.Resources@2026.402.0

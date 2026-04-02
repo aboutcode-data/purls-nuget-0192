@@ -147,3 +147,5 @@
 - pkg:nuget/Soenneker.Cron.Builder@4.0.223
 - pkg:nuget/Soenneker.Cron.Builder@4.0.225
 - pkg:nuget/Soenneker.Cron.Builder@4.0.238
+- pkg:nuget/Soenneker.Cron.Builder@4.0.239
+- pkg:nuget/Soenneker.Cron.Builder@4.0.240

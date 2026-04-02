@@ -256,3 +256,6 @@
 - pkg:nuget/DTF.Services.V2@5.2.3.1
 - pkg:nuget/DTF.Services.V2@5.2.3.3
 - pkg:nuget/DTF.Services.V2@5.2.3.4
+- pkg:nuget/DTF.Services.V2@5.2.3.6
+- pkg:nuget/DTF.Services.V2@5.2.3.7
+- pkg:nuget/DTF.Services.V2@5.2.3.8

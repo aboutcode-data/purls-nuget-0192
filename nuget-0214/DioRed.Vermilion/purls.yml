@@ -76,6 +76,11 @@
 - pkg:nuget/DioRed.Vermilion@12.5.0
 - pkg:nuget/DioRed.Vermilion@13.0.0
 - pkg:nuget/DioRed.Vermilion@13.0.1
+- pkg:nuget/DioRed.Vermilion@15.0.0-preview.1
+- pkg:nuget/DioRed.Vermilion@15.0.0-preview.2
+- pkg:nuget/DioRed.Vermilion@15.0.0-preview.3
+- pkg:nuget/DioRed.Vermilion@15.0.0-preview.6
+- pkg:nuget/DioRed.Vermilion@15.0.0-preview.7
 - pkg:nuget/DioRed.Vermilion@2.0.0
 - pkg:nuget/DioRed.Vermilion@2.1.0
 - pkg:nuget/DioRed.Vermilion@2.2.0

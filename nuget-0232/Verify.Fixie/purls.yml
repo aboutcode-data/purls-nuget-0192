@@ -153,3 +153,4 @@
 - pkg:nuget/Verify.Fixie@30.9.0
 - pkg:nuget/Verify.Fixie@31.0.0-beta.1
 - pkg:nuget/Verify.Fixie@31.12.1
+- pkg:nuget/Verify.Fixie@31.14.0

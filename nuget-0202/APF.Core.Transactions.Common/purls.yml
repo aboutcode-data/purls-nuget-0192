@@ -248,6 +248,8 @@
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.35
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.35-Beta-01
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.4
+- pkg:nuget/APF.Core.Transactions.Common@8.0.0.41
+- pkg:nuget/APF.Core.Transactions.Common@8.0.0.41-Beta-01
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.5
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.6
 - pkg:nuget/APF.Core.Transactions.Common@8.0.0.7

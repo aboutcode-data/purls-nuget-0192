@@ -23,3 +23,9 @@
 - pkg:nuget/DioRed.Vermilion.Hosting@12.4.7
 - pkg:nuget/DioRed.Vermilion.Hosting@12.5.0
 - pkg:nuget/DioRed.Vermilion.Hosting@13.0.0
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.1
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.2
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.3
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.5
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.6
+- pkg:nuget/DioRed.Vermilion.Hosting@15.0.0-preview.7
