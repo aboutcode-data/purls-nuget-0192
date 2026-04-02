@@ -1,2 +1,3 @@
+- pkg:nuget/Albatross.EFCore.Admin@10.0.0-54.main%2B2e86209
 - pkg:nuget/Albatross.EFCore.Admin@8.1.0%2B492097b
 - pkg:nuget/Albatross.EFCore.Admin@8.1.1%2B43997c9
