@@ -13,6 +13,7 @@
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@12.0.0
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@15.0.0
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@15.5.1
+- pkg:nuget/AlibabaCloud.SDK.Rds20140815@15.8.0
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@2.0.0
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@2.0.1
 - pkg:nuget/AlibabaCloud.SDK.Rds20140815@2.0.2

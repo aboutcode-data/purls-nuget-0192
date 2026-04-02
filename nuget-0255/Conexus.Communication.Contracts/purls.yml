@@ -29,3 +29,8 @@
 - pkg:nuget/Conexus.Communication.Contracts@1.1.2.7
 - pkg:nuget/Conexus.Communication.Contracts@1.1.2.8
 - pkg:nuget/Conexus.Communication.Contracts@1.1.2.9
+- pkg:nuget/Conexus.Communication.Contracts@1.1.3.6
+- pkg:nuget/Conexus.Communication.Contracts@1.1.3.7
+- pkg:nuget/Conexus.Communication.Contracts@1.1.3.8
+- pkg:nuget/Conexus.Communication.Contracts@1.1.3.9
+- pkg:nuget/Conexus.Communication.Contracts@1.1.4.1

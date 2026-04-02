@@ -51,6 +51,7 @@
 - pkg:nuget/UnitTestEx.MSTest@4.4.2
 - pkg:nuget/UnitTestEx.MSTest@5.0.0
 - pkg:nuget/UnitTestEx.MSTest@5.1.0
+- pkg:nuget/UnitTestEx.MSTest@5.10.0
 - pkg:nuget/UnitTestEx.MSTest@5.2.0
 - pkg:nuget/UnitTestEx.MSTest@5.3.0
 - pkg:nuget/UnitTestEx.MSTest@5.4.0

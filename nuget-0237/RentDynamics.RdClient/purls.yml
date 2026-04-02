@@ -34,3 +34,6 @@
 - pkg:nuget/RentDynamics.RdClient@0.7.3
 - pkg:nuget/RentDynamics.RdClient@0.7.4
 - pkg:nuget/RentDynamics.RdClient@0.7.5
+- pkg:nuget/RentDynamics.RdClient@0.7.6-preview.20260327.5
+- pkg:nuget/RentDynamics.RdClient@0.7.6-preview.20260327.7
+- pkg:nuget/RentDynamics.RdClient@0.7.6-preview.20260327.8

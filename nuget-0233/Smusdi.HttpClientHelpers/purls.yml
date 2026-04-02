@@ -1,3 +1,5 @@
+- pkg:nuget/Smusdi.HttpClientHelpers@10.1.0
+- pkg:nuget/Smusdi.HttpClientHelpers@10.1.1
 - pkg:nuget/Smusdi.HttpClientHelpers@9.1.0
 - pkg:nuget/Smusdi.HttpClientHelpers@9.1.1
 - pkg:nuget/Smusdi.HttpClientHelpers@9.1.2

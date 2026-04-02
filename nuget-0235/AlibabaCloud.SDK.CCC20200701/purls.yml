@@ -58,5 +58,7 @@
 - pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.37.0
 - pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.4.0
 - pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.4.1
+- pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.41.0
+- pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.41.1
 - pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.6.6
 - pkg:nuget/AlibabaCloud.SDK.CCC20200701@2.8.0
