@@ -6,3 +6,6 @@
 - pkg:nuget/RazorConsole.Core@0.2.0-alpha.20251125-c25ad97
 - pkg:nuget/RazorConsole.Core@0.3.0-alpha.20251210-74235ee
 - pkg:nuget/RazorConsole.Core@0.4.0-alpha.20260202-9acfa6f
+- pkg:nuget/RazorConsole.Core@0.6.0-alpha.20260329-eac088b
+- pkg:nuget/RazorConsole.Core@0.6.0-alpha.20260331-c8620a3
+- pkg:nuget/RazorConsole.Core@0.6.0-alpha.20260401-b488e29

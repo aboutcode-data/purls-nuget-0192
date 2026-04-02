@@ -2,3 +2,6 @@
 - pkg:nuget/ThingsGateway.Debug.ProRazor@12.4.20
 - pkg:nuget/ThingsGateway.Debug.ProRazor@12.4.37
 - pkg:nuget/ThingsGateway.Debug.ProRazor@12.4.45
+- pkg:nuget/ThingsGateway.Debug.ProRazor@12.5.6
+- pkg:nuget/ThingsGateway.Debug.ProRazor@12.5.7
+- pkg:nuget/ThingsGateway.Debug.ProRazor@12.5.8
