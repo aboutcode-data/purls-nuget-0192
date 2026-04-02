@@ -1,1 +1,4 @@
 - pkg:nuget/RZ.Foundation.AOT@8.2.10
+- pkg:nuget/RZ.Foundation.AOT@8.2.12
+- pkg:nuget/RZ.Foundation.AOT@8.2.13
+- pkg:nuget/RZ.Foundation.AOT@8.2.14

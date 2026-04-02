@@ -28,3 +28,4 @@
 - pkg:nuget/SigmaOrigo.Diagnostics.Client@5.0.1
 - pkg:nuget/SigmaOrigo.Diagnostics.Client@5.0.3
 - pkg:nuget/SigmaOrigo.Diagnostics.Client@5.0.5
+- pkg:nuget/SigmaOrigo.Diagnostics.Client@5.2.0

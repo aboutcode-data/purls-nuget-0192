@@ -16,3 +16,7 @@
 - pkg:nuget/Aquarius.ONE.Shared.Time@1.7.0
 - pkg:nuget/Aquarius.ONE.Shared.Time@1.7.0-AQI-7054
 - pkg:nuget/Aquarius.ONE.Shared.Time@1.8.0
+- pkg:nuget/Aquarius.ONE.Shared.Time@1.9.0
+- pkg:nuget/Aquarius.ONE.Shared.Time@1.9.0-AQI-10639-2
+- pkg:nuget/Aquarius.ONE.Shared.Time@1.9.0-AQI-10639-3
+- pkg:nuget/Aquarius.ONE.Shared.Time@1.9.0-AQI-10639-4

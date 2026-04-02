@@ -1,3 +1,5 @@
 - pkg:nuget/MyJetWallet.Service.CryptoCard.History.Client@1.0.0
 - pkg:nuget/MyJetWallet.Service.CryptoCard.History.Client@1.0.7
 - pkg:nuget/MyJetWallet.Service.CryptoCard.History.Client@2.2.27
+- pkg:nuget/MyJetWallet.Service.CryptoCard.History.Client@2.2.28
+- pkg:nuget/MyJetWallet.Service.CryptoCard.History.Client@2.3.0

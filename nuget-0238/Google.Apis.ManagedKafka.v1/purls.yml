@@ -11,3 +11,4 @@
 - pkg:nuget/Google.Apis.ManagedKafka.v1@1.70.0.3878
 - pkg:nuget/Google.Apis.ManagedKafka.v1@1.70.0.3896
 - pkg:nuget/Google.Apis.ManagedKafka.v1@1.72.0.3941
+- pkg:nuget/Google.Apis.ManagedKafka.v1@1.73.0.4095
