@@ -69,3 +69,4 @@
 - pkg:nuget/Google.Apis.CertificateAuthorityService.v1@1.69.0.3737
 - pkg:nuget/Google.Apis.CertificateAuthorityService.v1@1.69.0.3800
 - pkg:nuget/Google.Apis.CertificateAuthorityService.v1@1.70.0.3896
+- pkg:nuget/Google.Apis.CertificateAuthorityService.v1@1.73.0.4094

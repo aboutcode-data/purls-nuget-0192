@@ -16,6 +16,8 @@
 - pkg:nuget/Ma9DevPack.Extensions@1.12.0
 - pkg:nuget/Ma9DevPack.Extensions@1.12.1
 - pkg:nuget/Ma9DevPack.Extensions@1.14.0
+- pkg:nuget/Ma9DevPack.Extensions@1.17.0
+- pkg:nuget/Ma9DevPack.Extensions@1.18.0
 - pkg:nuget/Ma9DevPack.Extensions@1.2.0
 - pkg:nuget/Ma9DevPack.Extensions@1.2.1
 - pkg:nuget/Ma9DevPack.Extensions@1.3.0

@@ -1,4 +1,6 @@
 - pkg:nuget/CSoft.Protocol.Modbus@1.0.0
+- pkg:nuget/CSoft.Protocol.Modbus@10.0.10
+- pkg:nuget/CSoft.Protocol.Modbus@10.0.9
 - pkg:nuget/CSoft.Protocol.Modbus@2.0.0
 - pkg:nuget/CSoft.Protocol.Modbus@3.0.0
 - pkg:nuget/CSoft.Protocol.Modbus@4.0.0

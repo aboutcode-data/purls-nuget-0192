@@ -2,3 +2,4 @@
 - pkg:nuget/ConsoleToSvg@0.1.0-alpha.6
 - pkg:nuget/ConsoleToSvg@0.1.4
 - pkg:nuget/ConsoleToSvg@0.4.0
+- pkg:nuget/ConsoleToSvg@0.6.5

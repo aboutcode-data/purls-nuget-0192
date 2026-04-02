@@ -42,6 +42,7 @@
 - pkg:nuget/AkashicPaySDK@1.16.0
 - pkg:nuget/AkashicPaySDK@1.2.0
 - pkg:nuget/AkashicPaySDK@1.2.1
+- pkg:nuget/AkashicPaySDK@1.21.1
 - pkg:nuget/AkashicPaySDK@1.3.0
 - pkg:nuget/AkashicPaySDK@1.4.0
 - pkg:nuget/AkashicPaySDK@1.5.0

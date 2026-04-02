@@ -2,6 +2,8 @@
 - pkg:nuget/Pyroscope@0.11.0
 - pkg:nuget/Pyroscope@0.12.0
 - pkg:nuget/Pyroscope@0.13.0
+- pkg:nuget/Pyroscope@0.14.3
+- pkg:nuget/Pyroscope@0.14.4
 - pkg:nuget/Pyroscope@0.2.0
 - pkg:nuget/Pyroscope@0.3.0
 - pkg:nuget/Pyroscope@0.4.0
