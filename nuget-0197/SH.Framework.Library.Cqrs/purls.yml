@@ -3,3 +3,5 @@
 - pkg:nuget/SH.Framework.Library.Cqrs@1.2.0
 - pkg:nuget/SH.Framework.Library.Cqrs@1.4.0
 - pkg:nuget/SH.Framework.Library.Cqrs@1.4.1
+- pkg:nuget/SH.Framework.Library.Cqrs@3.0.0
+- pkg:nuget/SH.Framework.Library.Cqrs@3.0.1

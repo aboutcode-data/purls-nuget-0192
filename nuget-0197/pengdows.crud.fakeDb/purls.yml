@@ -25,3 +25,5 @@
 - pkg:nuget/pengdows.crud.fakeDb@1.0.1756401895
 - pkg:nuget/pengdows.crud.fakeDb@1.0.1756431873
 - pkg:nuget/pengdows.crud.fakeDb@1.0.1756777911
+- pkg:nuget/pengdows.crud.fakeDb@2.0.3
+- pkg:nuget/pengdows.crud.fakeDb@2.0.4
