@@ -1,3 +1,6 @@
 - pkg:nuget/blazor-shadcn@0.2.16
 - pkg:nuget/blazor-shadcn@0.2.17
 - pkg:nuget/blazor-shadcn@0.2.31
+- pkg:nuget/blazor-shadcn@0.2.44
+- pkg:nuget/blazor-shadcn@0.2.45
+- pkg:nuget/blazor-shadcn@0.2.46
