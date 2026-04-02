@@ -10,3 +10,4 @@
 - pkg:nuget/MQContract.RabbitMQ@2.6.1
 - pkg:nuget/MQContract.RabbitMQ@2.7.0
 - pkg:nuget/MQContract.RabbitMQ@2.8.0
+- pkg:nuget/MQContract.RabbitMQ@3.9.2
