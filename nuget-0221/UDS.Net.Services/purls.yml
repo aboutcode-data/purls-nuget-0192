@@ -67,6 +67,7 @@
 - pkg:nuget/UDS.Net.Services@15.3.0
 - pkg:nuget/UDS.Net.Services@16.0.3
 - pkg:nuget/UDS.Net.Services@16.2.10
+- pkg:nuget/UDS.Net.Services@16.2.11
 - pkg:nuget/UDS.Net.Services@16.2.7
 - pkg:nuget/UDS.Net.Services@16.2.8
 - pkg:nuget/UDS.Net.Services@16.2.9
