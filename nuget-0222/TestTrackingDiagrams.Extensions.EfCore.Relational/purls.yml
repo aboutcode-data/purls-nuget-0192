@@ -3,3 +3,4 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@1.24.14
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@1.24.8
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@1.24.9
+- pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.0.13-alpha
