@@ -204,6 +204,7 @@
 - pkg:nuget/ScheduleMaster.Core@8.2.9
 - pkg:nuget/ScheduleMaster.Core@8.3.10
 - pkg:nuget/ScheduleMaster.Core@8.3.11
+- pkg:nuget/ScheduleMaster.Core@8.3.17
 - pkg:nuget/ScheduleMaster.Core@8.3.3-preview.2
 - pkg:nuget/ScheduleMaster.Core@8.3.3-preview.3
 - pkg:nuget/ScheduleMaster.Core@8.3.3-preview.4
