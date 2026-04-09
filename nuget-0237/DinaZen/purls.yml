@@ -1,5 +1,12 @@
 - pkg:nuget/DinaZen@10.14.0.16
 - pkg:nuget/DinaZen@10.14.0.18
+- pkg:nuget/DinaZen@10.14.0.22
+- pkg:nuget/DinaZen@10.14.0.23
+- pkg:nuget/DinaZen@10.14.0.24
+- pkg:nuget/DinaZen@10.14.0.25
+- pkg:nuget/DinaZen@10.14.0.26
+- pkg:nuget/DinaZen@10.14.0.27
+- pkg:nuget/DinaZen@10.14.0.28
 - pkg:nuget/DinaZen@9.1.2.1
 - pkg:nuget/DinaZen@9.1.2.2
 - pkg:nuget/DinaZen@9.1.2.3
