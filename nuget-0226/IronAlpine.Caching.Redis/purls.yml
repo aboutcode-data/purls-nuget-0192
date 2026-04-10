@@ -12,3 +12,4 @@
 - pkg:nuget/IronAlpine.Caching.Redis@1.5.0
 - pkg:nuget/IronAlpine.Caching.Redis@1.6.0
 - pkg:nuget/IronAlpine.Caching.Redis@2.0.0
+- pkg:nuget/IronAlpine.Caching.Redis@2.1.0
