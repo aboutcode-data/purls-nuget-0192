@@ -1,2 +1,4 @@
 - pkg:nuget/Parlem.Provisioning.Drivers@8.1.0
 - pkg:nuget/Parlem.Provisioning.Drivers@8.2.0-beta6
+- pkg:nuget/Parlem.Provisioning.Drivers@8.2.0-beta8
+- pkg:nuget/Parlem.Provisioning.Drivers@8.2.0-beta9
