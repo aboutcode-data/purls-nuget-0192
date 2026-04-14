@@ -11,6 +11,7 @@
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@10.0.1
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@10.0.3
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@11.0.0-preview.2.26159.112
+- pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@11.0.0-preview.3.26207.106
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@8.0.0
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@8.0.0-preview.1.23110.8
 - pkg:nuget/Microsoft.NETCore.App.Runtime.AOT.linux-arm64.Cross.browser-wasm@8.0.0-preview.2.23128.3
