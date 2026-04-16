@@ -68,3 +68,4 @@
 - pkg:nuget/Hangfir3.Configuration.Redis@5.0.180
 - pkg:nuget/Hangfir3.Configuration.Redis@5.0.181
 - pkg:nuget/Hangfir3.Configuration.Redis@5.0.190
+- pkg:nuget/Hangfir3.Configuration.Redis@5.0.203
