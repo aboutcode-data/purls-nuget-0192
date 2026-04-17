@@ -705,3 +705,4 @@
 - pkg:nuget/VirtoCommerce.Platform.Data.SqlServer@3.915.0
 - pkg:nuget/VirtoCommerce.Platform.Data.SqlServer@3.917.0
 - pkg:nuget/VirtoCommerce.Platform.Data.SqlServer@3.917.7
+- pkg:nuget/VirtoCommerce.Platform.Data.SqlServer@3.920.1
