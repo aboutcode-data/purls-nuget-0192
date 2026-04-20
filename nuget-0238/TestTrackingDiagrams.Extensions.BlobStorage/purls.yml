@@ -3,3 +3,5 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.BlobStorage@2.0.151-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.BlobStorage@2.0.166-beta
 - pkg:nuget/TestTrackingDiagrams.Extensions.BlobStorage@2.0.167-beta
+- pkg:nuget/TestTrackingDiagrams.Extensions.BlobStorage@2.0.173-beta
+- pkg:nuget/TestTrackingDiagrams.Extensions.BlobStorage@2.0.174-beta
