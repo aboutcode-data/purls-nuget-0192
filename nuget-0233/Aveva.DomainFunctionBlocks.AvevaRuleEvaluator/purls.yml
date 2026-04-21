@@ -1,1 +1,4 @@
+- pkg:nuget/Aveva.DomainFunctionBlocks.AvevaRuleEvaluator@0.1.0-dev10
 - pkg:nuget/Aveva.DomainFunctionBlocks.AvevaRuleEvaluator@0.1.0-dev7
+- pkg:nuget/Aveva.DomainFunctionBlocks.AvevaRuleEvaluator@0.1.0-dev8
+- pkg:nuget/Aveva.DomainFunctionBlocks.AvevaRuleEvaluator@0.1.0-dev9
