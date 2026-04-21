@@ -5,6 +5,7 @@
 - pkg:nuget/CaeriusNet@1.5.0
 - pkg:nuget/CaeriusNet@1.5.1
 - pkg:nuget/CaeriusNet@10.0.0.4-alpha
+- pkg:nuget/CaeriusNet@11.0.1
 - pkg:nuget/CaeriusNet@9.0.0
 - pkg:nuget/CaeriusNet@9.0.1
 - pkg:nuget/CaeriusNet@9.0.2
