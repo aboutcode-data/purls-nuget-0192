@@ -86,3 +86,4 @@
 - pkg:nuget/PowerShell@7.5.2
 - pkg:nuget/PowerShell@7.5.3
 - pkg:nuget/PowerShell@7.5.5
+- pkg:nuget/PowerShell@7.6.1
