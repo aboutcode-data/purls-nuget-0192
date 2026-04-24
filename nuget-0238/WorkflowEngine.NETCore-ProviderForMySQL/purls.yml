@@ -35,6 +35,7 @@
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@18.1.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@20.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@20.0.8
+- pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@21.0.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@3.2.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@3.3.0
 - pkg:nuget/WorkflowEngine.NETCore-ProviderForMySQL@3.3.1
