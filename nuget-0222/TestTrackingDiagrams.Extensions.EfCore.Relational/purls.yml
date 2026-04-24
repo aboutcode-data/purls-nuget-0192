@@ -33,4 +33,5 @@
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.14.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.15.0
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.19.0
+- pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.22.19
 - pkg:nuget/TestTrackingDiagrams.Extensions.EfCore.Relational@2.4.1
