@@ -1,4 +1,5 @@
 - pkg:nuget/Lombiq.MSBuild.LibMan.Targets@1.0.0-alpha.11.nest-643
+- pkg:nuget/Lombiq.MSBuild.LibMan.Targets@1.0.1-alpha.14.osoe-1208
 - pkg:nuget/Lombiq.MSBuild.LibMan.Targets@1.0.1-alpha.3.osoe-1208
 - pkg:nuget/Lombiq.MSBuild.LibMan.Targets@1.0.1-alpha.4.osoe-1208
 - pkg:nuget/Lombiq.MSBuild.LibMan.Targets@1.0.1-alpha.5.osoe-1208
