@@ -11,3 +11,4 @@
 - pkg:nuget/UnityNuGet.Tool@0.74.0
 - pkg:nuget/UnityNuGet.Tool@0.77.0
 - pkg:nuget/UnityNuGet.Tool@0.80.0
+- pkg:nuget/UnityNuGet.Tool@0.82.0
