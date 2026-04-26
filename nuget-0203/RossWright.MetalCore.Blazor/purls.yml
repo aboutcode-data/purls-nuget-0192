@@ -1,4 +1,5 @@
 - pkg:nuget/RossWright.MetalCore.Blazor@10.0.12
+- pkg:nuget/RossWright.MetalCore.Blazor@2026.0.0
 - pkg:nuget/RossWright.MetalCore.Blazor@8.3.3
 - pkg:nuget/RossWright.MetalCore.Blazor@8.3.4
 - pkg:nuget/RossWright.MetalCore.Blazor@8.3.5
