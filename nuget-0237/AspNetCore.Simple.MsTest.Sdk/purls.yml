@@ -152,3 +152,4 @@
 - pkg:nuget/AspNetCore.Simple.MsTest.Sdk@7.0.7%2B2
 - pkg:nuget/AspNetCore.Simple.MsTest.Sdk@7.0.8%2B2
 - pkg:nuget/AspNetCore.Simple.MsTest.Sdk@8.1.0-alpha.1
+- pkg:nuget/AspNetCore.Simple.MsTest.Sdk@8.1.0-alpha.105
