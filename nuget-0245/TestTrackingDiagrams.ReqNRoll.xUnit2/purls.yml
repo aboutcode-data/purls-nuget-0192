@@ -67,4 +67,5 @@
 - pkg:nuget/TestTrackingDiagrams.ReqNRoll.xUnit2@2.22.28
 - pkg:nuget/TestTrackingDiagrams.ReqNRoll.xUnit2@2.23.0
 - pkg:nuget/TestTrackingDiagrams.ReqNRoll.xUnit2@2.23.1
+- pkg:nuget/TestTrackingDiagrams.ReqNRoll.xUnit2@2.23.10
 - pkg:nuget/TestTrackingDiagrams.ReqNRoll.xUnit2@2.4.1
