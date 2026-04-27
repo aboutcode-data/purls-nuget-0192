@@ -1,1 +1,2 @@
 - pkg:nuget/SweetMock.Extensions.Logging@0.9.38
+- pkg:nuget/SweetMock.Extensions.Logging@0.9.39-RC1
