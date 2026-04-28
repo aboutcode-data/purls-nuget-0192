@@ -4,6 +4,7 @@
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.1.1
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.1.2
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.2.0-beta.1
+- pkg:nuget/Azure.ResourceManager.Maintenance@1.2.0-beta.10
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.2.0-beta.2
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.2.0-beta.3
 - pkg:nuget/Azure.ResourceManager.Maintenance@1.2.0-beta.4
