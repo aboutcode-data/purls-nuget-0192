@@ -34,3 +34,4 @@
 - pkg:nuget/Orc.DependencyGraph@5.0.0-alpha0182
 - pkg:nuget/Orc.DependencyGraph@5.0.0-alpha0312
 - pkg:nuget/Orc.DependencyGraph@5.0.0-alpha0343
+- pkg:nuget/Orc.DependencyGraph@6.0.0-alpha0092
