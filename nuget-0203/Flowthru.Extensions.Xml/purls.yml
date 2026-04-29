@@ -1,1 +1,3 @@
 - pkg:nuget/Flowthru.Extensions.Xml@0.12.0-preview.64
+- pkg:nuget/Flowthru.Extensions.Xml@0.12.1
+- pkg:nuget/Flowthru.Extensions.Xml@0.12.1-preview.66

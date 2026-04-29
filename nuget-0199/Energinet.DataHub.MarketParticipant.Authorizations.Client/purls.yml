@@ -1,4 +1,5 @@
 - pkg:nuget/Energinet.DataHub.MarketParticipant.Authorizations.Client@1.0.11
 - pkg:nuget/Energinet.DataHub.MarketParticipant.Authorizations.Client@1.0.118
+- pkg:nuget/Energinet.DataHub.MarketParticipant.Authorizations.Client@1.0.141
 - pkg:nuget/Energinet.DataHub.MarketParticipant.Authorizations.Client@1.0.44
 - pkg:nuget/Energinet.DataHub.MarketParticipant.Authorizations.Client@1.0.48
