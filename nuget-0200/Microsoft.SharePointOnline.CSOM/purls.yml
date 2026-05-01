@@ -67,6 +67,7 @@
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.26309.12000
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.26413.12010
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.26510.12000
+- pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.27215.12000
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.3912.1204
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.4727.1200
 - pkg:nuget/Microsoft.SharePointOnline.CSOM@16.1.4915.1200
