@@ -87,6 +87,7 @@
 - pkg:nuget/PDFiumCore@133.0.6844
 - pkg:nuget/PDFiumCore@134.0.6982
 - pkg:nuget/PDFiumCore@148.0.7763
+- pkg:nuget/PDFiumCore@149.0.7825
 - pkg:nuget/PDFiumCore@4270.0.0
 - pkg:nuget/PDFiumCore@4276.0.0
 - pkg:nuget/PDFiumCore@4283.0.0
