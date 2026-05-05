@@ -219,6 +219,7 @@
 - pkg:nuget/A3.Backend.Persistence@3.2.5
 - pkg:nuget/A3.Backend.Persistence@3.2.50
 - pkg:nuget/A3.Backend.Persistence@3.2.53
+- pkg:nuget/A3.Backend.Persistence@3.2.54.1
 - pkg:nuget/A3.Backend.Persistence@3.2.6
 - pkg:nuget/A3.Backend.Persistence@3.2.7
 - pkg:nuget/A3.Backend.Persistence@3.2.8
