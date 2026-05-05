@@ -1,4 +1,5 @@
 - pkg:nuget/Komair.Expressions.Mapping@1.0.0
 - pkg:nuget/Komair.Expressions.Mapping@1.1.0
+- pkg:nuget/Komair.Expressions.Mapping@10.0.0
 - pkg:nuget/Komair.Expressions.Mapping@6.0.0
 - pkg:nuget/Komair.Expressions.Mapping@8.0.0

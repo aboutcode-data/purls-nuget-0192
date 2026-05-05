@@ -1,3 +1,4 @@
+- pkg:nuget/DevExpress.SpellChecker.Core.de@25.1.11
 - pkg:nuget/DevExpress.SpellChecker.Core.de@25.1.6
 - pkg:nuget/DevExpress.SpellChecker.Core.de@25.1.8
 - pkg:nuget/DevExpress.SpellChecker.Core.de@25.2.5
