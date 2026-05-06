@@ -1,1 +1,2 @@
+- pkg:nuget/ULinkRPC.Transport.Kcp@0.11.9
 - pkg:nuget/ULinkRPC.Transport.Kcp@0.7.0
