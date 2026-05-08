@@ -6,3 +6,4 @@
 - pkg:nuget/HYS.Core.DomainBase@2.0.2
 - pkg:nuget/HYS.Core.DomainBase@2.1.0
 - pkg:nuget/HYS.Core.DomainBase@2.1.1
+- pkg:nuget/HYS.Core.DomainBase@3.0.7
