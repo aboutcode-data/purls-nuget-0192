@@ -1,1 +1,2 @@
 - pkg:nuget/TaskHub.Shared.Persistence.EntityFramework@2.2.99
+- pkg:nuget/TaskHub.Shared.Persistence.EntityFramework@2.3.62
