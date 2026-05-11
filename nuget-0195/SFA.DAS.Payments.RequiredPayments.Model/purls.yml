@@ -41,3 +41,4 @@
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Model@2.0.1-prerelease-2
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Model@2.0.1-prerelease-4
 - pkg:nuget/SFA.DAS.Payments.RequiredPayments.Model@2.0.11-prerelease-28
+- pkg:nuget/SFA.DAS.Payments.RequiredPayments.Model@2.0.12-prerelease-2
