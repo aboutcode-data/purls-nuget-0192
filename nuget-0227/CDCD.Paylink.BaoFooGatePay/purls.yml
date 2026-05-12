@@ -1,4 +1,7 @@
+- pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.100
 - pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.75
 - pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.80
 - pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.81
 - pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.85
+- pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.97
+- pkg:nuget/CDCD.Paylink.BaoFooGatePay@0.12.98
