@@ -1,1 +1,3 @@
 - pkg:nuget/ModelingEvolution.Teams.Contracts@1.1.20
+- pkg:nuget/ModelingEvolution.Teams.Contracts@1.2.0
+- pkg:nuget/ModelingEvolution.Teams.Contracts@1.2.1
