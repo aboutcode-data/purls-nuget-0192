@@ -8,6 +8,7 @@
 - pkg:nuget/System.Threading.AccessControl@10.0.0-rc.1.25451.107
 - pkg:nuget/System.Threading.AccessControl@10.0.1
 - pkg:nuget/System.Threading.AccessControl@10.0.7
+- pkg:nuget/System.Threading.AccessControl@11.0.0-preview.4.26230.115
 - pkg:nuget/System.Threading.AccessControl@4.0.0
 - pkg:nuget/System.Threading.AccessControl@4.0.0-beta-22605
 - pkg:nuget/System.Threading.AccessControl@4.0.0-beta-22816

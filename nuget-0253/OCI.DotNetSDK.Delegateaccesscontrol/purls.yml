@@ -44,6 +44,7 @@
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@127.0.0
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@129.1.0
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@130.0.0
+- pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@135.0.0
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@94.0.0
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@95.0.0
 - pkg:nuget/OCI.DotNetSDK.Delegateaccesscontrol@96.0.0
