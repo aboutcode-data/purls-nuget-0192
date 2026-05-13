@@ -2,6 +2,7 @@
 - pkg:nuget/ConventionalChangelog@0.10.0
 - pkg:nuget/ConventionalChangelog@0.11.0
 - pkg:nuget/ConventionalChangelog@0.12.0
+- pkg:nuget/ConventionalChangelog@0.14.1
 - pkg:nuget/ConventionalChangelog@0.2.0
 - pkg:nuget/ConventionalChangelog@0.2.0-sdpi-11-use-real0001
 - pkg:nuget/ConventionalChangelog@0.2.0-sdpi-11-use-real0002
