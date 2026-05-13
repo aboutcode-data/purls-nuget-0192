@@ -154,6 +154,8 @@
 - pkg:nuget/ITBees.AccessControl@8.0.340
 - pkg:nuget/ITBees.AccessControl@8.0.347
 - pkg:nuget/ITBees.AccessControl@8.0.35
+- pkg:nuget/ITBees.AccessControl@8.0.352
+- pkg:nuget/ITBees.AccessControl@8.0.353
 - pkg:nuget/ITBees.AccessControl@8.0.38
 - pkg:nuget/ITBees.AccessControl@8.0.39
 - pkg:nuget/ITBees.AccessControl@8.0.4
