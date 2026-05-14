@@ -1231,6 +1231,7 @@
 - pkg:nuget/AWSSDK.CodeDeploy@3.7.502.52
 - pkg:nuget/AWSSDK.CodeDeploy@3.7.502.53
 - pkg:nuget/AWSSDK.CodeDeploy@3.7.502.54
+- pkg:nuget/AWSSDK.CodeDeploy@3.7.502.55
 - pkg:nuget/AWSSDK.CodeDeploy@3.7.502.6
 - pkg:nuget/AWSSDK.CodeDeploy@4.0.0
 - pkg:nuget/AWSSDK.CodeDeploy@4.0.0-preview
