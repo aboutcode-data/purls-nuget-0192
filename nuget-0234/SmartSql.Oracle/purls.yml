@@ -43,3 +43,4 @@
 - pkg:nuget/SmartSql.Oracle@4.1.65
 - pkg:nuget/SmartSql.Oracle@4.1.66
 - pkg:nuget/SmartSql.Oracle@4.1.67
+- pkg:nuget/SmartSql.Oracle@4.2.0
