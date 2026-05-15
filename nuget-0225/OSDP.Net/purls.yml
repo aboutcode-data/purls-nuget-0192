@@ -60,4 +60,5 @@
 - pkg:nuget/OSDP.Net@5.0.2-beta
 - pkg:nuget/OSDP.Net@5.0.3-beta
 - pkg:nuget/OSDP.Net@5.0.4-beta
+- pkg:nuget/OSDP.Net@5.0.46
 - pkg:nuget/OSDP.Net@5.0.5-beta
