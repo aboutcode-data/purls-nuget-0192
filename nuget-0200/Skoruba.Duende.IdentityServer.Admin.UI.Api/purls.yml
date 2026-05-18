@@ -9,3 +9,4 @@
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.UI.Api@3.0.0-preview.11
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.UI.Api@3.0.0-preview.2
 - pkg:nuget/Skoruba.Duende.IdentityServer.Admin.UI.Api@3.0.0-preview.4
+- pkg:nuget/Skoruba.Duende.IdentityServer.Admin.UI.Api@3.0.0-rc4

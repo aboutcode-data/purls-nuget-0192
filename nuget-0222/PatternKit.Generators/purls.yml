@@ -9,6 +9,9 @@
 - pkg:nuget/PatternKit.Generators@0.35.13
 - pkg:nuget/PatternKit.Generators@0.4.0
 - pkg:nuget/PatternKit.Generators@0.43.0
+- pkg:nuget/PatternKit.Generators@0.47.6
+- pkg:nuget/PatternKit.Generators@0.47.7
+- pkg:nuget/PatternKit.Generators@0.47.8
 - pkg:nuget/PatternKit.Generators@0.5.0
 - pkg:nuget/PatternKit.Generators@0.6.0
 - pkg:nuget/PatternKit.Generators@0.7.0
