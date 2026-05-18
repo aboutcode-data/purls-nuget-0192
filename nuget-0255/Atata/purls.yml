@@ -53,6 +53,7 @@
 - pkg:nuget/Atata@3.0.0-beta.1
 - pkg:nuget/Atata@3.0.0-beta.2
 - pkg:nuget/Atata@3.1.0
+- pkg:nuget/Atata@3.11.0
 - pkg:nuget/Atata@3.2.0
 - pkg:nuget/Atata@3.3.0
 - pkg:nuget/Atata@3.4.0
