@@ -460,3 +460,7 @@
 - pkg:nuget/Pulumi.DNSimple@5.1.0-alpha.1777961935
 - pkg:nuget/Pulumi.DNSimple@5.2.0-alpha.1778567426
 - pkg:nuget/Pulumi.DNSimple@5.2.0-alpha.1778654133
+- pkg:nuget/Pulumi.DNSimple@5.2.0-alpha.1779346191
+- pkg:nuget/Pulumi.DNSimple@5.2.0-alpha.1779432589
+- pkg:nuget/Pulumi.DNSimple@5.3.0-alpha.1779951263
+- pkg:nuget/Pulumi.DNSimple@5.3.0-alpha.1780470192

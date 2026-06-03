@@ -68,3 +68,4 @@
 - pkg:nuget/WolverineFx.RavenDb@5.37.2
 - pkg:nuget/WolverineFx.RavenDb@5.39.1
 - pkg:nuget/WolverineFx.RavenDb@5.4.3
+- pkg:nuget/WolverineFx.RavenDb@6.3.1
