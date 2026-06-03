@@ -41,4 +41,7 @@
 - pkg:nuget/Shiny.Extensions.Stores@2.0.0-beta-0006
 - pkg:nuget/Shiny.Extensions.Stores@2.0.0-beta-0047
 - pkg:nuget/Shiny.Extensions.Stores@2.1.0-beta-0043
+- pkg:nuget/Shiny.Extensions.Stores@4.0.0
 - pkg:nuget/Shiny.Extensions.Stores@4.0.0-beta-0002
+- pkg:nuget/Shiny.Extensions.Stores@4.0.0-beta-0059
+- pkg:nuget/Shiny.Extensions.Stores@4.0.0-beta-0063
