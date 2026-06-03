@@ -131,6 +131,9 @@
 - pkg:nuget/CA_DataUploaderLib@2.1.9
 - pkg:nuget/CA_DataUploaderLib@2.1.9-alpha.0.1
 - pkg:nuget/CA_DataUploaderLib@2.1.9-alpha.0.3
+- pkg:nuget/CA_DataUploaderLib@22.0.1-alpha.0.2
+- pkg:nuget/CA_DataUploaderLib@22.0.1-alpha.0.3
+- pkg:nuget/CA_DataUploaderLib@22.1.0
 - pkg:nuget/CA_DataUploaderLib@3.0.0
 - pkg:nuget/CA_DataUploaderLib@3.0.1
 - pkg:nuget/CA_DataUploaderLib@3.0.1-alpha.0.1
