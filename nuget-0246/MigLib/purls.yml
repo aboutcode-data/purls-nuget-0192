@@ -15,3 +15,6 @@
 - pkg:nuget/MigLib@5.2.9
 - pkg:nuget/MigLib@5.3.0
 - pkg:nuget/MigLib@5.4.0
+- pkg:nuget/MigLib@8.0.3
+- pkg:nuget/MigLib@8.2.0
+- pkg:nuget/MigLib@9.0.0
