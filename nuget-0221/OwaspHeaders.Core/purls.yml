@@ -2,6 +2,7 @@
 - pkg:nuget/OwaspHeaders.Core@1.0.1
 - pkg:nuget/OwaspHeaders.Core@1.5.0
 - pkg:nuget/OwaspHeaders.Core@1.6.0
+- pkg:nuget/OwaspHeaders.Core@10.4.0
 - pkg:nuget/OwaspHeaders.Core@2.0.0
 - pkg:nuget/OwaspHeaders.Core@2.0.0.1
 - pkg:nuget/OwaspHeaders.Core@2.1.0
