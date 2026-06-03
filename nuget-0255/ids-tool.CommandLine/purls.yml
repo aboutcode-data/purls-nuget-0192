@@ -1,6 +1,7 @@
 - pkg:nuget/ids-tool.CommandLine@1.0.104
 - pkg:nuget/ids-tool.CommandLine@1.0.11
 - pkg:nuget/ids-tool.CommandLine@1.0.112
+- pkg:nuget/ids-tool.CommandLine@1.0.118
 - pkg:nuget/ids-tool.CommandLine@1.0.12
 - pkg:nuget/ids-tool.CommandLine@1.0.13
 - pkg:nuget/ids-tool.CommandLine@1.0.14
