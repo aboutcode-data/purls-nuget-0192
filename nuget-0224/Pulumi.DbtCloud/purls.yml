@@ -257,6 +257,10 @@
 - pkg:nuget/Pulumi.DbtCloud@1.1.0-alpha.1753508349
 - pkg:nuget/Pulumi.DbtCloud@1.1.0-alpha.1754458948
 - pkg:nuget/Pulumi.DbtCloud@1.1.0-alpha.1754624905
+- pkg:nuget/Pulumi.DbtCloud@1.10.0
+- pkg:nuget/Pulumi.DbtCloud@1.10.0-alpha.1779951197
+- pkg:nuget/Pulumi.DbtCloud@1.10.0-alpha.1780030148
+- pkg:nuget/Pulumi.DbtCloud@1.11.0-alpha.1780470111
 - pkg:nuget/Pulumi.DbtCloud@1.2.0-alpha.1754631877
 - pkg:nuget/Pulumi.DbtCloud@1.2.0-alpha.1754717908
 - pkg:nuget/Pulumi.DbtCloud@1.2.0-alpha.1754977172
@@ -303,3 +307,5 @@
 - pkg:nuget/Pulumi.DbtCloud@1.9.0-alpha.1777961906
 - pkg:nuget/Pulumi.DbtCloud@1.9.0-alpha.1778567349
 - pkg:nuget/Pulumi.DbtCloud@1.9.0-alpha.1778654037
+- pkg:nuget/Pulumi.DbtCloud@1.9.0-alpha.1779346147
+- pkg:nuget/Pulumi.DbtCloud@1.9.0-alpha.1779432578
