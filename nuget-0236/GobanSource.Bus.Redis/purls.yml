@@ -12,3 +12,4 @@
 - pkg:nuget/GobanSource.Bus.Redis@1.0.40
 - pkg:nuget/GobanSource.Bus.Redis@1.0.42
 - pkg:nuget/GobanSource.Bus.Redis@1.0.44
+- pkg:nuget/GobanSource.Bus.Redis@1.0.54
