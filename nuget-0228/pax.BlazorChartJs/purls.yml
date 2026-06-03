@@ -27,3 +27,4 @@
 - pkg:nuget/pax.BlazorChartJs@0.8.4
 - pkg:nuget/pax.BlazorChartJs@0.8.5
 - pkg:nuget/pax.BlazorChartJs@0.8.6-rc1
+- pkg:nuget/pax.BlazorChartJs@0.9.0-preview2
