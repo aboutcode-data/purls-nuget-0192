@@ -12,6 +12,7 @@
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.0.0.18
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.0.0.8
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.1.10
+- pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.1.102
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.1.12
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.1.14
 - pkg:nuget/nanoFramework.System.Net.Sockets.UdpClient@1.1.16
