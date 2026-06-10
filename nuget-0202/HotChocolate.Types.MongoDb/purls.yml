@@ -997,3 +997,4 @@
 - pkg:nuget/HotChocolate.Types.MongoDb@16.1.2
 - pkg:nuget/HotChocolate.Types.MongoDb@16.1.4-p.3
 - pkg:nuget/HotChocolate.Types.MongoDb@16.1.4-p.4
+- pkg:nuget/HotChocolate.Types.MongoDb@16.1.4-p.5
