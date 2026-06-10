@@ -886,3 +886,4 @@
 - pkg:nuget/HotChocolate.Types.Analyzers@16.1.2
 - pkg:nuget/HotChocolate.Types.Analyzers@16.1.4-p.3
 - pkg:nuget/HotChocolate.Types.Analyzers@16.1.4-p.4
+- pkg:nuget/HotChocolate.Types.Analyzers@16.1.4-p.5
