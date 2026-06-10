@@ -15,5 +15,6 @@
 - pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.25
 - pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.26
 - pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.3
+- pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.42
 - pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.5
 - pkg:nuget/TinyHelpers.AspNetCore.Swashbuckle@4.0.8
