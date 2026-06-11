@@ -1251,6 +1251,7 @@
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.53
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.6
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.61
+- pkg:nuget/AWSSDK.ImportExport@4.0.0.67
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.7
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.8
 - pkg:nuget/AWSSDK.ImportExport@4.0.0.9
