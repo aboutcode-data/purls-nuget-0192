@@ -26,3 +26,4 @@
 - pkg:nuget/DartSassHost@1.1.1
 - pkg:nuget/DartSassHost@2.0.0-preview2
 - pkg:nuget/DartSassHost@2.0.0-preview5
+- pkg:nuget/DartSassHost@2.0.7
