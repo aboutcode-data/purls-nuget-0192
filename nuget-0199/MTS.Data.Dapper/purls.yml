@@ -20,3 +20,4 @@
 - pkg:nuget/MTS.Data.Dapper@1.0.49
 - pkg:nuget/MTS.Data.Dapper@1.0.50
 - pkg:nuget/MTS.Data.Dapper@1.0.55
+- pkg:nuget/MTS.Data.Dapper@1.0.59
