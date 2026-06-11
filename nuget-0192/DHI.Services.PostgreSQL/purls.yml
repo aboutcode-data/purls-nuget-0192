@@ -1,3 +1,4 @@
+- pkg:nuget/DHI.Services.PostgreSQL@17.0.0
 - pkg:nuget/DHI.Services.PostgreSQL@4.1.3
 - pkg:nuget/DHI.Services.PostgreSQL@4.1.4
 - pkg:nuget/DHI.Services.PostgreSQL@4.1.5
