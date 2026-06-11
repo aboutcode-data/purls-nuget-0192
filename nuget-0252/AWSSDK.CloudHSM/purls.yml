@@ -1253,3 +1253,4 @@
 - pkg:nuget/AWSSDK.CloudHSM@4.0.2.22
 - pkg:nuget/AWSSDK.CloudHSM@4.0.2.23
 - pkg:nuget/AWSSDK.CloudHSM@4.0.2.32
+- pkg:nuget/AWSSDK.CloudHSM@4.0.3.4
