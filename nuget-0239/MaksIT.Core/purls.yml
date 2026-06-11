@@ -44,3 +44,4 @@
 - pkg:nuget/MaksIT.Core@1.4.3
 - pkg:nuget/MaksIT.Core@1.4.4
 - pkg:nuget/MaksIT.Core@1.4.5
+- pkg:nuget/MaksIT.Core@1.6.7
