@@ -92,3 +92,4 @@
 - pkg:nuget/MinecraftDotnet.ManagedServer@0.2.0-dev.200
 - pkg:nuget/MinecraftDotnet.ManagedServer@0.2.0-dev.201
 - pkg:nuget/MinecraftDotnet.ManagedServer@0.2.0-dev.205
+- pkg:nuget/MinecraftDotnet.ManagedServer@0.2.1-dev.211
