@@ -56,4 +56,5 @@
 - pkg:nuget/TinyHelpers.EntityFrameworkCore@3.0.54
 - pkg:nuget/TinyHelpers.EntityFrameworkCore@3.0.56
 - pkg:nuget/TinyHelpers.EntityFrameworkCore@3.0.6
+- pkg:nuget/TinyHelpers.EntityFrameworkCore@3.0.71
 - pkg:nuget/TinyHelpers.EntityFrameworkCore@3.0.8
