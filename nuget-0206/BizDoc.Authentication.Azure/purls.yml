@@ -1,3 +1,4 @@
+- pkg:nuget/BizDoc.Authentication.Azure@10.7.0
 - pkg:nuget/BizDoc.Authentication.Azure@6.8.3
 - pkg:nuget/BizDoc.Authentication.Azure@6.8.4
 - pkg:nuget/BizDoc.Authentication.Azure@6.8.5
