@@ -618,3 +618,5 @@
 - pkg:nuget/I-Synergy.Framework.MessageBus@2026.10601.10958-preview
 - pkg:nuget/I-Synergy.Framework.MessageBus@2026.10603.11238-preview
 - pkg:nuget/I-Synergy.Framework.MessageBus@2026.10610.10831
+- pkg:nuget/I-Synergy.Framework.MessageBus@2026.10612.11941-preview
+- pkg:nuget/I-Synergy.Framework.MessageBus@2026.10612.12341-preview
