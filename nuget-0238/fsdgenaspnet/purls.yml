@@ -26,6 +26,7 @@
 - pkg:nuget/fsdgenaspnet@3.11.1
 - pkg:nuget/fsdgenaspnet@3.11.2
 - pkg:nuget/fsdgenaspnet@3.13.2
+- pkg:nuget/fsdgenaspnet@3.13.5
 - pkg:nuget/fsdgenaspnet@3.2.0
 - pkg:nuget/fsdgenaspnet@3.3.0
 - pkg:nuget/fsdgenaspnet@3.3.1
