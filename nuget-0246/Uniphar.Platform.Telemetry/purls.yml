@@ -1,3 +1,7 @@
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.15
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.17
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.20
+- pkg:nuget/Uniphar.Platform.Telemetry@2.0.22
+- pkg:nuget/Uniphar.Platform.Telemetry@2.0.29
+- pkg:nuget/Uniphar.Platform.Telemetry@2.0.30
+- pkg:nuget/Uniphar.Platform.Telemetry@2.0.31
