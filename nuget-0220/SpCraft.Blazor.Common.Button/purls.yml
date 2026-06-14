@@ -46,4 +46,5 @@
 - pkg:nuget/SpCraft.Blazor.Common.Button@1.2.8
 - pkg:nuget/SpCraft.Blazor.Common.Button@1.2.9
 - pkg:nuget/SpCraft.Blazor.Common.Button@2.0.24
+- pkg:nuget/SpCraft.Blazor.Common.Button@2.0.29
 - pkg:nuget/SpCraft.Blazor.Common.Button@2.0.8
