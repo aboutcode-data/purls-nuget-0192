@@ -36,3 +36,5 @@
 - pkg:nuget/Conexus.Communication.Contracts@1.1.4.1
 - pkg:nuget/Conexus.Communication.Contracts@1.1.4.5
 - pkg:nuget/Conexus.Communication.Contracts@1.1.4.8
+- pkg:nuget/Conexus.Communication.Contracts@1.1.5.4
+- pkg:nuget/Conexus.Communication.Contracts@1.1.5.5
