@@ -213,6 +213,7 @@
 - pkg:nuget/ghul.compiler@10.0.5
 - pkg:nuget/ghul.compiler@10.1.0
 - pkg:nuget/ghul.compiler@10.1.1
+- pkg:nuget/ghul.compiler@12.2.1
 - pkg:nuget/ghul.compiler@4.5.0
 - pkg:nuget/ghul.compiler@5.0.0
 - pkg:nuget/ghul.compiler@5.1.0
