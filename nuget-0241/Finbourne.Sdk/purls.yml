@@ -3,3 +3,5 @@
 - pkg:nuget/Finbourne.Sdk@0.0.16
 - pkg:nuget/Finbourne.Sdk@0.0.17
 - pkg:nuget/Finbourne.Sdk@0.0.20
+- pkg:nuget/Finbourne.Sdk@0.1.32
+- pkg:nuget/Finbourne.Sdk@0.1.44
