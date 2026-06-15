@@ -201,6 +201,7 @@
 - pkg:nuget/PanoramicData.Blazor@10.0.131
 - pkg:nuget/PanoramicData.Blazor@10.0.142
 - pkg:nuget/PanoramicData.Blazor@10.0.144
+- pkg:nuget/PanoramicData.Blazor@10.0.149
 - pkg:nuget/PanoramicData.Blazor@10.0.43
 - pkg:nuget/PanoramicData.Blazor@10.0.6
 - pkg:nuget/PanoramicData.Blazor@10.0.78
