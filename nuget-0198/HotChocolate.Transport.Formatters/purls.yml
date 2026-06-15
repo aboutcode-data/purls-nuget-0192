@@ -133,3 +133,4 @@
 - pkg:nuget/HotChocolate.Transport.Formatters@16.1.4-p.3
 - pkg:nuget/HotChocolate.Transport.Formatters@16.1.4-p.4
 - pkg:nuget/HotChocolate.Transport.Formatters@16.1.4-p.5
+- pkg:nuget/HotChocolate.Transport.Formatters@16.1.4-p.6
