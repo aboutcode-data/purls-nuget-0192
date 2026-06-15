@@ -154,3 +154,4 @@
 - pkg:nuget/EntityGraphQL@6.0.0-beta1
 - pkg:nuget/EntityGraphQL@6.0.0-beta2
 - pkg:nuget/EntityGraphQL@6.0.0-beta6
+- pkg:nuget/EntityGraphQL@6.0.0-beta7
