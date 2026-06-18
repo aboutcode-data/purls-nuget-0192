@@ -20,6 +20,7 @@
 - pkg:nuget/MartinCostello.BuildKit@0.7.0
 - pkg:nuget/MartinCostello.BuildKit@0.8.0
 - pkg:nuget/MartinCostello.BuildKit@0.8.1
+- pkg:nuget/MartinCostello.BuildKit@0.8.10
 - pkg:nuget/MartinCostello.BuildKit@0.8.4
 - pkg:nuget/MartinCostello.BuildKit@0.8.7
 - pkg:nuget/MartinCostello.BuildKit@0.8.8
