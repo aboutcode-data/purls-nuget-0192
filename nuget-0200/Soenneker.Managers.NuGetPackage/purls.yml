@@ -894,6 +894,7 @@
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.1215
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.1216
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.1220
+- pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.1227
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.894
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.896
 - pkg:nuget/Soenneker.Managers.NuGetPackage@4.0.899
