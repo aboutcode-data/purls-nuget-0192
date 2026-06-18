@@ -143,3 +143,4 @@
 - pkg:nuget/Hangfire.Configuration@5.0.203
 - pkg:nuget/Hangfire.Configuration@5.0.214
 - pkg:nuget/Hangfire.Configuration@5.0.219
+- pkg:nuget/Hangfire.Configuration@5.0.224
