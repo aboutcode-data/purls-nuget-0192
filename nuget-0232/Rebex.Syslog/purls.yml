@@ -48,3 +48,4 @@
 - pkg:nuget/Rebex.Syslog@7.0.9391
 - pkg:nuget/Rebex.Syslog@8.0.9531-rc.3
 - pkg:nuget/Rebex.Syslog@8.0.9643-rc.4
+- pkg:nuget/Rebex.Syslog@8.0.9663
