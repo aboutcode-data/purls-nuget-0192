@@ -8,3 +8,4 @@
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.35-pre1
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.38-pre1
 - pkg:nuget/Uniphar.Platform.Telemetry@2.0.39-pre1
+- pkg:nuget/Uniphar.Platform.Telemetry@2.0.43
