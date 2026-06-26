@@ -568,6 +568,7 @@
 - pkg:nuget/Take.Blip.Client@0.7.53
 - pkg:nuget/Take.Blip.Client@0.7.54
 - pkg:nuget/Take.Blip.Client@0.7.55-beta
+- pkg:nuget/Take.Blip.Client@0.7.562
 - pkg:nuget/Take.Blip.Client@0.7.57-beta
 - pkg:nuget/Take.Blip.Client@0.7.60-beta
 - pkg:nuget/Take.Blip.Client@0.7.61-beta
