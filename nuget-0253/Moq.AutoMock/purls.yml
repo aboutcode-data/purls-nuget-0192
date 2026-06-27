@@ -112,3 +112,5 @@
 - pkg:nuget/Moq.AutoMock@3.6.0-ci0596
 - pkg:nuget/Moq.AutoMock@3.6.0-ci0726
 - pkg:nuget/Moq.AutoMock@3.6.0-ci0756
+- pkg:nuget/Moq.AutoMock@4.0.3-ci0909
+- pkg:nuget/Moq.AutoMock@4.0.3-ci0911
