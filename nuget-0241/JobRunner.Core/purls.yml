@@ -1,1 +1,3 @@
 - pkg:nuget/JobRunner.Core@1.0.6
+- pkg:nuget/JobRunner.Core@1.2.0
+- pkg:nuget/JobRunner.Core@1.2.4
