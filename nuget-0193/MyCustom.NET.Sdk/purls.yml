@@ -1,3 +1,4 @@
 - pkg:nuget/MyCustom.NET.Sdk@1.0.0
 - pkg:nuget/MyCustom.NET.Sdk@1.0.1
 - pkg:nuget/MyCustom.NET.Sdk@1.0.2
+- pkg:nuget/MyCustom.NET.Sdk@1.0.6
