@@ -48,3 +48,7 @@
 - pkg:nuget/AspNetCoreSharedServer@2.0.2
 - pkg:nuget/AspNetCoreSharedServer@2.0.3
 - pkg:nuget/AspNetCoreSharedServer@2.0.5
+- pkg:nuget/AspNetCoreSharedServer@3.1.0
+- pkg:nuget/AspNetCoreSharedServer@3.1.1
+- pkg:nuget/AspNetCoreSharedServer@3.1.2
+- pkg:nuget/AspNetCoreSharedServer@3.1.3
