@@ -284,6 +284,7 @@
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.1.5
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.1.7
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.10.1
+- pkg:nuget/AWSSDK.ApplicationSignals@4.0.100.1
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.5.12
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.6.1
 - pkg:nuget/AWSSDK.ApplicationSignals@4.0.6.2
