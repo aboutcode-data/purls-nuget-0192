@@ -174,3 +174,4 @@
 - pkg:nuget/Ark.Tools.Activity@5.5.0
 - pkg:nuget/Ark.Tools.Activity@6.0.0
 - pkg:nuget/Ark.Tools.Activity@6.0.4
+- pkg:nuget/Ark.Tools.Activity@6.0.6
