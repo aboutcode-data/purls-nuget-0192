@@ -28,6 +28,9 @@
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.0.12.1
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.0.14.1
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.0.8.1
+- pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.1.0.1
+- pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.1.1.1
+- pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@11.1.2.1
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@4.4.11.1
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@4.4.12.1
 - pkg:nuget/Vintasoft.Imaging.Jpeg2000Codec@4.4.13.1
