@@ -1,3 +1,4 @@
+- pkg:nuget/C1.WPF.GanttView@10.0.20261.89
 - pkg:nuget/C1.WPF.GanttView@6.0.20222.263-beta
 - pkg:nuget/C1.WPF.GanttView@6.0.20222.302-beta
 - pkg:nuget/C1.WPF.GanttView@6.0.20223.376
