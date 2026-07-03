@@ -12,6 +12,7 @@
 - pkg:nuget/KubeOps.Operator.Web@11.3.0
 - pkg:nuget/KubeOps.Operator.Web@11.3.0-prerelease.2
 - pkg:nuget/KubeOps.Operator.Web@11.4.0
+- pkg:nuget/KubeOps.Operator.Web@11.5.1-prerelease.2
 - pkg:nuget/KubeOps.Operator.Web@8.0.0
 - pkg:nuget/KubeOps.Operator.Web@8.0.0-pre.1
 - pkg:nuget/KubeOps.Operator.Web@8.0.0-pre.10
