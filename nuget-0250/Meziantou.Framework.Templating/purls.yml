@@ -19,3 +19,4 @@
 - pkg:nuget/Meziantou.Framework.Templating@2.0.6
 - pkg:nuget/Meziantou.Framework.Templating@2.0.7
 - pkg:nuget/Meziantou.Framework.Templating@2.0.8
+- pkg:nuget/Meziantou.Framework.Templating@4.0.0
