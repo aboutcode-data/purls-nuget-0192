@@ -19,3 +19,4 @@
 - pkg:nuget/Meziantou.Framework.Win32.ChangeJournal@3.2.4
 - pkg:nuget/Meziantou.Framework.Win32.ChangeJournal@3.2.5
 - pkg:nuget/Meziantou.Framework.Win32.ChangeJournal@3.2.6
+- pkg:nuget/Meziantou.Framework.Win32.ChangeJournal@4.0.0
