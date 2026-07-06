@@ -105,6 +105,7 @@
 - pkg:nuget/devdeer.Libraries.Abstractions@18.0.1
 - pkg:nuget/devdeer.Libraries.Abstractions@19.0.0
 - pkg:nuget/devdeer.Libraries.Abstractions@19.0.1
+- pkg:nuget/devdeer.Libraries.Abstractions@21.0.2
 - pkg:nuget/devdeer.Libraries.Abstractions@6.0.5
 - pkg:nuget/devdeer.Libraries.Abstractions@6.0.6
 - pkg:nuget/devdeer.Libraries.Abstractions@7.0.0
