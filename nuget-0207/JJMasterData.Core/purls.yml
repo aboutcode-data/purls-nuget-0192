@@ -317,5 +317,6 @@
 - pkg:nuget/JJMasterData.Core@4.4.9
 - pkg:nuget/JJMasterData.Core@4.5.29
 - pkg:nuget/JJMasterData.Core@4.5.29-preview
+- pkg:nuget/JJMasterData.Core@4.5.35
 - pkg:nuget/JJMasterData.Core@4.5.6
 - pkg:nuget/JJMasterData.Core@5.0.0-preview9
