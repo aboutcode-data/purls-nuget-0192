@@ -259,4 +259,5 @@
 - pkg:nuget/Stigg.Api.Client@5.53.0
 - pkg:nuget/Stigg.Api.Client@5.71.0
 - pkg:nuget/Stigg.Api.Client@5.99.0
+- pkg:nuget/Stigg.Api.Client@6.17.0
 - pkg:nuget/Stigg.Api.Client@6.3.3
