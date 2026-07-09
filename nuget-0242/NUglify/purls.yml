@@ -67,6 +67,7 @@
 - pkg:nuget/NUglify@1.21.15
 - pkg:nuget/NUglify@1.21.16
 - pkg:nuget/NUglify@1.21.17
+- pkg:nuget/NUglify@1.21.18
 - pkg:nuget/NUglify@1.21.2
 - pkg:nuget/NUglify@1.21.3
 - pkg:nuget/NUglify@1.21.4
