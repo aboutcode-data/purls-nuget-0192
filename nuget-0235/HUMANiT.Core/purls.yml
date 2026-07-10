@@ -205,6 +205,8 @@
 - pkg:nuget/HUMANiT.Core@1.2.0-rc-3031
 - pkg:nuget/HUMANiT.Core@1.2.0-rc-3040
 - pkg:nuget/HUMANiT.Core@1.2.0-rc-3054
+- pkg:nuget/HUMANiT.Core@10.0.0
+- pkg:nuget/HUMANiT.Core@10.0.0-alpha-3303
 - pkg:nuget/HUMANiT.Core@2.0.0
 - pkg:nuget/HUMANiT.Core@2.0.0-alpha-3085
 - pkg:nuget/HUMANiT.Core@2.0.0-alpha-3090
