@@ -308,7 +308,10 @@
 - pkg:nuget/Voalle.VoalleHub.SDK@1.1.7
 - pkg:nuget/Voalle.VoalleHub.SDK@1.1.70
 - pkg:nuget/Voalle.VoalleHub.SDK@1.1.76
+- pkg:nuget/Voalle.VoalleHub.SDK@1.1.78
+- pkg:nuget/Voalle.VoalleHub.SDK@1.1.79
 - pkg:nuget/Voalle.VoalleHub.SDK@1.1.8
+- pkg:nuget/Voalle.VoalleHub.SDK@1.1.80
 - pkg:nuget/Voalle.VoalleHub.SDK@1.1.9
 - pkg:nuget/Voalle.VoalleHub.SDK@2.0.0
 - pkg:nuget/Voalle.VoalleHub.SDK@2.0.1
