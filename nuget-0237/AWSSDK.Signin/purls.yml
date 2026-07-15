@@ -19,4 +19,5 @@
 - pkg:nuget/AWSSDK.Signin@4.0.0.17
 - pkg:nuget/AWSSDK.Signin@4.0.1.1
 - pkg:nuget/AWSSDK.Signin@4.0.100.1
+- pkg:nuget/AWSSDK.Signin@4.0.101.1
 - pkg:nuget/AWSSDK.Signin@4.0.2
