@@ -11,6 +11,7 @@
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@13.0.1
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@13.0.2
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@13.0.3
+- pkg:nuget/Limbo.Umbraco.ModelsBuilder@17.0.0-alpha001
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@2.0.0
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@2.0.0-alpha001
 - pkg:nuget/Limbo.Umbraco.ModelsBuilder@2.0.0-alpha002
