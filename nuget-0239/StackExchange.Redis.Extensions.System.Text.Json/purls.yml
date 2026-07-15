@@ -4,6 +4,7 @@
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@10.1.0
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@10.2.0
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@11.0.0
+- pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@12.6.0
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@5.5.0
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@6.0.10-pre
 - pkg:nuget/StackExchange.Redis.Extensions.System.Text.Json@6.0.11
