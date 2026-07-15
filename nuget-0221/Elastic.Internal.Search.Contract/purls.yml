@@ -1,0 +1,4 @@
+- pkg:nuget/Elastic.Internal.Search.Contract@0.1.0-canary.0.144
+- pkg:nuget/Elastic.Internal.Search.Contract@0.11.0
+- pkg:nuget/Elastic.Internal.Search.Contract@0.9.0
+- pkg:nuget/Elastic.Internal.Search.Contract@0.9.1
