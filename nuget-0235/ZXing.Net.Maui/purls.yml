@@ -1,6 +1,9 @@
 - pkg:nuget/ZXing.Net.Maui@0.1.0-preview.5
 - pkg:nuget/ZXing.Net.Maui@0.1.0-preview.6
 - pkg:nuget/ZXing.Net.Maui@0.1.0-preview.7
+- pkg:nuget/ZXing.Net.Maui@0.10.1
+- pkg:nuget/ZXing.Net.Maui@0.10.2
+- pkg:nuget/ZXing.Net.Maui@0.10.3
 - pkg:nuget/ZXing.Net.Maui@0.2.0-preview.1
 - pkg:nuget/ZXing.Net.Maui@0.2.0-preview.2
 - pkg:nuget/ZXing.Net.Maui@0.3.0-preview.1
