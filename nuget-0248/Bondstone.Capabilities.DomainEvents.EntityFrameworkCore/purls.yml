@@ -1,0 +1,2 @@
+- pkg:nuget/Bondstone.Capabilities.DomainEvents.EntityFrameworkCore@1.2.0
+- pkg:nuget/Bondstone.Capabilities.DomainEvents.EntityFrameworkCore@1.2.1
