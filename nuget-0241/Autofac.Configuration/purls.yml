@@ -17,3 +17,4 @@
 - pkg:nuget/Autofac.Configuration@5.1.0
 - pkg:nuget/Autofac.Configuration@6.0.0
 - pkg:nuget/Autofac.Configuration@7.0.0
+- pkg:nuget/Autofac.Configuration@8.0.1
