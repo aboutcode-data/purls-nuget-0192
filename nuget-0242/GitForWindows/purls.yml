@@ -189,6 +189,7 @@
 - pkg:nuget/GitForWindows@2.51.0-rc2
 - pkg:nuget/GitForWindows@2.51.0.2
 - pkg:nuget/GitForWindows@2.55.0
+- pkg:nuget/GitForWindows@2.55.0.3
 - pkg:nuget/GitForWindows@2.8.1
 - pkg:nuget/GitForWindows@2.8.2
 - pkg:nuget/GitForWindows@2.8.3
