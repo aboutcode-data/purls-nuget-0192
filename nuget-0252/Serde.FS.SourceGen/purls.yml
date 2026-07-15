@@ -1,4 +1,6 @@
 - pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.10
 - pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.29
 - pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.3
+- pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.32
+- pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.39
 - pkg:nuget/Serde.FS.SourceGen@1.0.0-alpha.7
