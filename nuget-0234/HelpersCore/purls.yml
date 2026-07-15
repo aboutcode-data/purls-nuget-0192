@@ -4,6 +4,8 @@
 - pkg:nuget/HelpersCore@1.12.2
 - pkg:nuget/HelpersCore@1.13.2
 - pkg:nuget/HelpersCore@1.13.4
+- pkg:nuget/HelpersCore@1.17.1
+- pkg:nuget/HelpersCore@1.17.3
 - pkg:nuget/HelpersCore@1.2.0
 - pkg:nuget/HelpersCore@1.3.0
 - pkg:nuget/HelpersCore@1.3.1
