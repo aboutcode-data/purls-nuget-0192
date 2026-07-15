@@ -11,6 +11,7 @@
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.12.2.472
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.12.2.494
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.12.3.496
+- pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.13.1.534
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.7.0.214
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.7.0.215
 - pkg:nuget/MaxRev.Gdal.MacosRuntime.Minimal.x64@3.7.0.217
