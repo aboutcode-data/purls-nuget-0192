@@ -1,3 +1,4 @@
+- pkg:nuget/Eryph.IdentityClient@0.10.0
 - pkg:nuget/Eryph.IdentityClient@0.2.0
 - pkg:nuget/Eryph.IdentityClient@0.2.1-ci.4
 - pkg:nuget/Eryph.IdentityClient@0.2.1-ci.5
