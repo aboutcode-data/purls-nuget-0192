@@ -24,6 +24,7 @@
 - pkg:nuget/LinqToXsdCore@3.4.1
 - pkg:nuget/LinqToXsdCore@3.4.10
 - pkg:nuget/LinqToXsdCore@3.4.11
+- pkg:nuget/LinqToXsdCore@3.4.19
 - pkg:nuget/LinqToXsdCore@3.4.2
 - pkg:nuget/LinqToXsdCore@3.4.3
 - pkg:nuget/LinqToXsdCore@3.4.4
