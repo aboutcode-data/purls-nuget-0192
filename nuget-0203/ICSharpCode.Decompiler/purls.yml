@@ -1,5 +1,6 @@
 - pkg:nuget/ICSharpCode.Decompiler@10.0.0.8079-preview1
 - pkg:nuget/ICSharpCode.Decompiler@10.0.1.8346
+- pkg:nuget/ICSharpCode.Decompiler@11.0.0.9223-preview1
 - pkg:nuget/ICSharpCode.Decompiler@2.3.0
 - pkg:nuget/ICSharpCode.Decompiler@2.3.1
 - pkg:nuget/ICSharpCode.Decompiler@3.0.0-alpha1
