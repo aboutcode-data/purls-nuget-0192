@@ -16,3 +16,4 @@
 - pkg:nuget/Linger.HttpClient.Contracts@0.9.8
 - pkg:nuget/Linger.HttpClient.Contracts@1.2.0-preview
 - pkg:nuget/Linger.HttpClient.Contracts@1.4.4-preview
+- pkg:nuget/Linger.HttpClient.Contracts@1.5.2-preview
