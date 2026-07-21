@@ -50,3 +50,4 @@
 - pkg:nuget/DotNetBrowser.CrossPlatform@3.3.2
 - pkg:nuget/DotNetBrowser.CrossPlatform@3.3.3
 - pkg:nuget/DotNetBrowser.CrossPlatform@3.5.1
+- pkg:nuget/DotNetBrowser.CrossPlatform@4.2.1
