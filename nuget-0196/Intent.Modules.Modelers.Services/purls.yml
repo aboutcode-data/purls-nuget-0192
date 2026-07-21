@@ -68,6 +68,7 @@
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.0
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.1
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.15
+- pkg:nuget/Intent.Modules.Modelers.Services@4.0.16
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.2
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.3
 - pkg:nuget/Intent.Modules.Modelers.Services@4.0.4
