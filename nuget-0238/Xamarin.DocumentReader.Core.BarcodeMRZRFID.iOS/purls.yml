@@ -85,3 +85,4 @@
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.iOS@9.5.2673-rc
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.iOS@9.5.2733
 - pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.iOS@9.7.2824-rc
+- pkg:nuget/Xamarin.DocumentReader.Core.BarcodeMRZRFID.iOS@9.7.2933-rc
