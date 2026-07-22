@@ -196,3 +196,4 @@
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260527.204834-eap04
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260611.312-eap06
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260702.125426-eap09
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260721.221052
