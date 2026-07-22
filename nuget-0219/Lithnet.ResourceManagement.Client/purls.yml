@@ -38,3 +38,4 @@
 - pkg:nuget/Lithnet.ResourceManagement.Client@1.0.6862.26738
 - pkg:nuget/Lithnet.ResourceManagement.Client@1.0.6993.23628
 - pkg:nuget/Lithnet.ResourceManagement.Client@2.0.11-beta
+- pkg:nuget/Lithnet.ResourceManagement.Client@2.0.31
