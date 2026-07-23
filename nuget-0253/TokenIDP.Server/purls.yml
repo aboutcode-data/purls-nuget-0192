@@ -1,1 +1,6 @@
 - pkg:nuget/TokenIDP.Server@1.0.0
+- pkg:nuget/TokenIDP.Server@1.0.10-alpha
+- pkg:nuget/TokenIDP.Server@1.0.5-alpha
+- pkg:nuget/TokenIDP.Server@1.0.6-alpha
+- pkg:nuget/TokenIDP.Server@1.0.7-alpha
+- pkg:nuget/TokenIDP.Server@1.0.9-alpha
