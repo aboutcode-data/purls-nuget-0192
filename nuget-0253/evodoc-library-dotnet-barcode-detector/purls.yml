@@ -1,1 +1,4 @@
+- pkg:nuget/evodoc-library-dotnet-barcode-detector@1.0.0-dev-13
+- pkg:nuget/evodoc-library-dotnet-barcode-detector@1.0.0-dev-14
 - pkg:nuget/evodoc-library-dotnet-barcode-detector@1.0.0-dev-3
+- pkg:nuget/evodoc-library-dotnet-barcode-detector@1.0.1
