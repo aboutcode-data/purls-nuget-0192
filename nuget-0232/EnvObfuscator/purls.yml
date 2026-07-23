@@ -1,1 +1,2 @@
 - pkg:nuget/EnvObfuscator@2.5.1
+- pkg:nuget/EnvObfuscator@3.2.1
