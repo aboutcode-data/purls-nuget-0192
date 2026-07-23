@@ -531,6 +531,7 @@
 - pkg:nuget/Soenneker.Data.Email.Disposables@3.0.630
 - pkg:nuget/Soenneker.Data.Email.Disposables@3.0.638
 - pkg:nuget/Soenneker.Data.Email.Disposables@3.0.645
+- pkg:nuget/Soenneker.Data.Email.Disposables@4.0.1015
 - pkg:nuget/Soenneker.Data.Email.Disposables@4.0.661
 - pkg:nuget/Soenneker.Data.Email.Disposables@4.0.689
 - pkg:nuget/Soenneker.Data.Email.Disposables@4.0.701
