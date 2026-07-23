@@ -2,3 +2,5 @@
 - pkg:nuget/PdfiumViewer.Free@3.0.0.5-alpha
 - pkg:nuget/PdfiumViewer.Free@3.0.1-alpha
 - pkg:nuget/PdfiumViewer.Free@3.0.1.1-alpha
+- pkg:nuget/PdfiumViewer.Free@3.0.1.5
+- pkg:nuget/PdfiumViewer.Free@3.0.1.6
