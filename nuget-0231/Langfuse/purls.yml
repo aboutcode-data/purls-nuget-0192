@@ -9,4 +9,5 @@
 - pkg:nuget/Langfuse@0.0.0-dev.25
 - pkg:nuget/Langfuse@0.0.0-dev.30
 - pkg:nuget/Langfuse@0.0.0-dev.31
+- pkg:nuget/Langfuse@0.0.0-dev.58
 - pkg:nuget/Langfuse@0.0.0-dev.6
