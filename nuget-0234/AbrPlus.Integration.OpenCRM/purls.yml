@@ -1,6 +1,7 @@
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.0
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.1
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.10
+- pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.19
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.2
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.3
 - pkg:nuget/AbrPlus.Integration.OpenCRM@1.0.4
