@@ -1,2 +1,4 @@
+- pkg:nuget/KeepDynamic.BarcodeGenerator.IDENTCODE@6.0.0.13
 - pkg:nuget/KeepDynamic.BarcodeGenerator.IDENTCODE@6.0.0.2
+- pkg:nuget/KeepDynamic.BarcodeGenerator.IDENTCODE@6.0.0.20
 - pkg:nuget/KeepDynamic.BarcodeGenerator.IDENTCODE@6.0.0.3
