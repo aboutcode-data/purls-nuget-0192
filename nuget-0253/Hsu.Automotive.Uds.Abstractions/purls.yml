@@ -1,2 +1,4 @@
 - pkg:nuget/Hsu.Automotive.Uds.Abstractions@2026.4.20
 - pkg:nuget/Hsu.Automotive.Uds.Abstractions@2026.4.24-preview.160414
+- pkg:nuget/Hsu.Automotive.Uds.Abstractions@2026.5.27-preview.100556
+- pkg:nuget/Hsu.Automotive.Uds.Abstractions@2026.7.8-preview.124140
