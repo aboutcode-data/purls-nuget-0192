@@ -1,2 +1,5 @@
 - pkg:nuget/axRazor.UI.Blazor@1.0.6-build.202603110229
 - pkg:nuget/axRazor.UI.Blazor@1.0.7-build.202605110912
+- pkg:nuget/axRazor.UI.Blazor@1.1.1-build.202606220918
+- pkg:nuget/axRazor.UI.Blazor@1.1.2-build.202606231409
+- pkg:nuget/axRazor.UI.Blazor@1.1.5-build.202606261116
