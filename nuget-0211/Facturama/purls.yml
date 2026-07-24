@@ -9,6 +9,7 @@
 - pkg:nuget/Facturama@1.0.8
 - pkg:nuget/Facturama@1.1.0
 - pkg:nuget/Facturama@1.10.2
+- pkg:nuget/Facturama@1.10.3
 - pkg:nuget/Facturama@1.2.0
 - pkg:nuget/Facturama@1.2.1
 - pkg:nuget/Facturama@1.3.1
