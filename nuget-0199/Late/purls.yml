@@ -83,6 +83,8 @@
 - pkg:nuget/Late@0.0.501
 - pkg:nuget/Late@0.0.510
 - pkg:nuget/Late@0.0.524
+- pkg:nuget/Late@0.0.529
+- pkg:nuget/Late@0.0.530
 - pkg:nuget/Late@0.0.58
 - pkg:nuget/Late@0.0.60
 - pkg:nuget/Late@0.0.62
