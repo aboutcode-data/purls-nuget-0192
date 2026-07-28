@@ -334,3 +334,4 @@
 - pkg:nuget/Syncfusion.Calculate.Windows@33.2.10
 - pkg:nuget/Syncfusion.Calculate.Windows@33.2.12
 - pkg:nuget/Syncfusion.Calculate.Windows@33.2.5
+- pkg:nuget/Syncfusion.Calculate.Windows@34.1.33
