@@ -208,3 +208,5 @@
 - pkg:nuget/Tuic@2.2.80
 - pkg:nuget/Tuic@2.2.82
 - pkg:nuget/Tuic@2.2.9
+- pkg:nuget/Tuic@2.3.139
+- pkg:nuget/Tuic@2.3.140
