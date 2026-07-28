@@ -35,3 +35,5 @@
 - pkg:nuget/ConsoleHero@0.5.3
 - pkg:nuget/ConsoleHero@0.5.4
 - pkg:nuget/ConsoleHero@0.5.5
+- pkg:nuget/ConsoleHero@0.6.0
+- pkg:nuget/ConsoleHero@0.6.1
