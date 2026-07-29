@@ -130,6 +130,7 @@
 - pkg:nuget/StockSharp.BusinessEntities@5.0.214
 - pkg:nuget/StockSharp.BusinessEntities@5.0.215
 - pkg:nuget/StockSharp.BusinessEntities@5.0.216
+- pkg:nuget/StockSharp.BusinessEntities@5.0.217
 - pkg:nuget/StockSharp.BusinessEntities@5.0.22
 - pkg:nuget/StockSharp.BusinessEntities@5.0.23
 - pkg:nuget/StockSharp.BusinessEntities@5.0.24
