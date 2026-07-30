@@ -51,6 +51,7 @@
 - pkg:nuget/Dirkster.AvalonDock@4.73.1-preview.45
 - pkg:nuget/Dirkster.AvalonDock@4.73.1-preview.48
 - pkg:nuget/Dirkster.AvalonDock@4.74.1-preview.59
+- pkg:nuget/Dirkster.AvalonDock@5.0.0-preview.106
 - pkg:nuget/Dirkster.AvalonDock@5.0.0-preview.72
 - pkg:nuget/Dirkster.AvalonDock@5.0.0-preview.75
 - pkg:nuget/Dirkster.AvalonDock@5.0.0-preview.84
