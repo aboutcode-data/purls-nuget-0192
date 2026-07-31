@@ -133,4 +133,5 @@
 - pkg:nuget/IceTea.Wpf.Core@1.2.5
 - pkg:nuget/IceTea.Wpf.Core@1.2.6
 - pkg:nuget/IceTea.Wpf.Core@1.2.7
+- pkg:nuget/IceTea.Wpf.Core@1.4.11
 - pkg:nuget/IceTea.Wpf.Core@1.4.7
