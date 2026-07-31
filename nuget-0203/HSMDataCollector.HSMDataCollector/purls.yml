@@ -112,4 +112,5 @@
 - pkg:nuget/HSMDataCollector.HSMDataCollector@3.4.7
 - pkg:nuget/HSMDataCollector.HSMDataCollector@3.4.8
 - pkg:nuget/HSMDataCollector.HSMDataCollector@3.4.9
+- pkg:nuget/HSMDataCollector.HSMDataCollector@3.5.0
 - pkg:nuget/HSMDataCollector.HSMDataCollector@4.0.2
