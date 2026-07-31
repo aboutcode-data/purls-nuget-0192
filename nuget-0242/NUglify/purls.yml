@@ -76,6 +76,7 @@
 - pkg:nuget/NUglify@1.21.8
 - pkg:nuget/NUglify@1.21.9
 - pkg:nuget/NUglify@1.22.1
+- pkg:nuget/NUglify@1.22.3
 - pkg:nuget/NUglify@1.3.0
 - pkg:nuget/NUglify@1.4.0
 - pkg:nuget/NUglify@1.4.1
