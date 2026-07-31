@@ -480,6 +480,7 @@
 - pkg:nuget/Beamable.Tooling.Common@0.0.0-PREVIEW.NIGHTLY-202507162005
 - pkg:nuget/Beamable.Tooling.Common@0.0.0-PREVIEW.NIGHTLY-202508062000
 - pkg:nuget/Beamable.Tooling.Common@0.0.0-PREVIEW.NIGHTLY-202510010001
+- pkg:nuget/Beamable.Tooling.Common@0.0.0-PREVIEW.NIGHTLY-202607301355
 - pkg:nuget/Beamable.Tooling.Common@2.1.0-PREVIEW.RC3
 - pkg:nuget/Beamable.Tooling.Common@2.1.0-PREVIEW.RC4
 - pkg:nuget/Beamable.Tooling.Common@2.1.0-PREVIEW.RC5
