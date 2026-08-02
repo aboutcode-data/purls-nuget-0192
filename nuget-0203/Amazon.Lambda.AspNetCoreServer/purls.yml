@@ -9,6 +9,7 @@
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@0.8.5-preview1
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@0.8.6-preview1
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@0.9.0-preview1
+- pkg:nuget/Amazon.Lambda.AspNetCoreServer@10.2.0
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@2.0.0
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@2.0.1
 - pkg:nuget/Amazon.Lambda.AspNetCoreServer@2.0.2
