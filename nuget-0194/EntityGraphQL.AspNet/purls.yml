@@ -77,3 +77,4 @@
 - pkg:nuget/EntityGraphQL.AspNet@6.0.0-beta2
 - pkg:nuget/EntityGraphQL.AspNet@6.0.0-beta6
 - pkg:nuget/EntityGraphQL.AspNet@6.0.0-beta7
+- pkg:nuget/EntityGraphQL.AspNet@6.1.3
