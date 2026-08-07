@@ -61,6 +61,7 @@
 - pkg:nuget/Stateflows@0.19.5-beta
 - pkg:nuget/Stateflows@0.2.0-alpha
 - pkg:nuget/Stateflows@0.2.1-alpha
+- pkg:nuget/Stateflows@0.20.7-beta
 - pkg:nuget/Stateflows@0.3.0-alpha
 - pkg:nuget/Stateflows@0.3.1-alpha
 - pkg:nuget/Stateflows@0.4.0-alpha
