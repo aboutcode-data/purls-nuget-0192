@@ -66,3 +66,4 @@
 - pkg:nuget/Analogy.LogViewer.PlainTextParser@7.2.0
 - pkg:nuget/Analogy.LogViewer.PlainTextParser@8.0.0
 - pkg:nuget/Analogy.LogViewer.PlainTextParser@8.1.0
+- pkg:nuget/Analogy.LogViewer.PlainTextParser@9.0.7
