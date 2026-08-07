@@ -177,6 +177,8 @@
 - pkg:nuget/Microsoft.Azure.Cosmos@3.54.1
 - pkg:nuget/Microsoft.Azure.Cosmos@3.55.0-preview.1
 - pkg:nuget/Microsoft.Azure.Cosmos@3.6.0
+- pkg:nuget/Microsoft.Azure.Cosmos@3.62.1
+- pkg:nuget/Microsoft.Azure.Cosmos@3.63.0-preview.1
 - pkg:nuget/Microsoft.Azure.Cosmos@3.7.0
 - pkg:nuget/Microsoft.Azure.Cosmos@3.7.0-preview
 - pkg:nuget/Microsoft.Azure.Cosmos@3.7.0-preview2
