@@ -100,4 +100,5 @@
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api.Storefront@16.3.0
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api.Storefront@16.4.0
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api.Storefront@16.5.0
+- pkg:nuget/Umbraco.Commerce.Cms.Web.Api.Storefront@17.1.11
 - pkg:nuget/Umbraco.Commerce.Cms.Web.Api.Storefront@18.0.0-rc1
