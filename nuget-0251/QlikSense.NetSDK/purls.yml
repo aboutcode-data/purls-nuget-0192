@@ -41,6 +41,7 @@
 - pkg:nuget/QlikSense.NetSDK@16.0.2
 - pkg:nuget/QlikSense.NetSDK@16.1.0
 - pkg:nuget/QlikSense.NetSDK@16.10.0
+- pkg:nuget/QlikSense.NetSDK@16.12.1
 - pkg:nuget/QlikSense.NetSDK@16.2.0
 - pkg:nuget/QlikSense.NetSDK@16.3.0
 - pkg:nuget/QlikSense.NetSDK@16.4.0
