@@ -16,6 +16,7 @@
 - pkg:nuget/TinyBDD.MSTest@0.19.26
 - pkg:nuget/TinyBDD.MSTest@0.19.28
 - pkg:nuget/TinyBDD.MSTest@0.19.31
+- pkg:nuget/TinyBDD.MSTest@0.19.33
 - pkg:nuget/TinyBDD.MSTest@0.6.1
 - pkg:nuget/TinyBDD.MSTest@0.7.0
 - pkg:nuget/TinyBDD.MSTest@0.8.1
