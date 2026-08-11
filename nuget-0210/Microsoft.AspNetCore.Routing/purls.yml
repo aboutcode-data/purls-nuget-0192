@@ -29,3 +29,4 @@
 - pkg:nuget/Microsoft.AspNetCore.Routing@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.Routing@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.Routing@2.3.11
+- pkg:nuget/Microsoft.AspNetCore.Routing@2.3.12
