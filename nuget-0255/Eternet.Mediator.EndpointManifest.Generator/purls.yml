@@ -8,5 +8,6 @@
 - pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.0.52
 - pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.1.16
 - pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.1.17
+- pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.2.10
 - pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.2.5
 - pkg:nuget/Eternet.Mediator.EndpointManifest.Generator@1.2.9
