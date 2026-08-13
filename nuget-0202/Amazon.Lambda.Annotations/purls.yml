@@ -33,3 +33,4 @@
 - pkg:nuget/Amazon.Lambda.Annotations@1.7.0
 - pkg:nuget/Amazon.Lambda.Annotations@1.8.0
 - pkg:nuget/Amazon.Lambda.Annotations@2.2.0
+- pkg:nuget/Amazon.Lambda.Annotations@2.4.0
