@@ -18,3 +18,4 @@
 - pkg:nuget/ClockworkFramework.Core@7.1.0
 - pkg:nuget/ClockworkFramework.Core@8.0.0
 - pkg:nuget/ClockworkFramework.Core@8.0.1
+- pkg:nuget/ClockworkFramework.Core@8.2.0
