@@ -5,5 +5,8 @@
 - pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250803001-preview
 - pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.250906002
 - pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.260222000
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@1.8.260527000
 - pkg:nuget/Microsoft.WindowsAppSDK.Foundation@2.0.18-preview
 - pkg:nuget/Microsoft.WindowsAppSDK.Foundation@2.0.8-experimental
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@2.1.0
+- pkg:nuget/Microsoft.WindowsAppSDK.Foundation@2.1.1-experimental
