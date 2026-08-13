@@ -1,1 +1,3 @@
 - pkg:nuget/AppFactory.TestExtensions@1.0.0
+- pkg:nuget/AppFactory.TestExtensions@10.5.7
+- pkg:nuget/AppFactory.TestExtensions@10.7.0
