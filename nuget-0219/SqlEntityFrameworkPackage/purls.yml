@@ -1,1 +1,2 @@
 - pkg:nuget/SqlEntityFrameworkPackage@1.0.8
+- pkg:nuget/SqlEntityFrameworkPackage@1.2.0
