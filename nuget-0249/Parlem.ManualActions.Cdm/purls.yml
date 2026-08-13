@@ -1,3 +1,5 @@
+- pkg:nuget/Parlem.ManualActions.Cdm@10.0.2
+- pkg:nuget/Parlem.ManualActions.Cdm@10.0.2-beta6
 - pkg:nuget/Parlem.ManualActions.Cdm@8.0.0
 - pkg:nuget/Parlem.ManualActions.Cdm@8.0.1
 - pkg:nuget/Parlem.ManualActions.Cdm@8.0.2
