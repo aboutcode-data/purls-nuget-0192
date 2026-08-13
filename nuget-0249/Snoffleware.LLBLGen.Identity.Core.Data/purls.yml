@@ -8,3 +8,6 @@
 - pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@1.0.7
 - pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@1.0.8
 - pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@1.0.9
+- pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@2.0.0
+- pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@2.0.2
+- pkg:nuget/Snoffleware.LLBLGen.Identity.Core.Data@2.0.3
