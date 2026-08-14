@@ -6,3 +6,5 @@
 - pkg:nuget/Altairis.Services.Mailing.Templating@1.0.1
 - pkg:nuget/Altairis.Services.Mailing.Templating@1.0.2
 - pkg:nuget/Altairis.Services.Mailing.Templating@1.1.1
+- pkg:nuget/Altairis.Services.Mailing.Templating@2.0.0
+- pkg:nuget/Altairis.Services.Mailing.Templating@2.0.1
