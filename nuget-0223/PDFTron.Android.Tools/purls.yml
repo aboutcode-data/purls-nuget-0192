@@ -20,6 +20,7 @@
 - pkg:nuget/PDFTron.Android.Tools@11.6.0
 - pkg:nuget/PDFTron.Android.Tools@11.7.0
 - pkg:nuget/PDFTron.Android.Tools@11.8.0
+- pkg:nuget/PDFTron.Android.Tools@12.1.0
 - pkg:nuget/PDFTron.Android.Tools@6.10.0
 - pkg:nuget/PDFTron.Android.Tools@6.10.2
 - pkg:nuget/PDFTron.Android.Tools@6.10.3
