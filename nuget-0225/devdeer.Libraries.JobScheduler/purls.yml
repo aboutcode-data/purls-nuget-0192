@@ -1,2 +1,7 @@
 - pkg:nuget/devdeer.Libraries.JobScheduler@0.4.11
 - pkg:nuget/devdeer.Libraries.JobScheduler@0.4.12
+- pkg:nuget/devdeer.Libraries.JobScheduler@0.7.2
+- pkg:nuget/devdeer.Libraries.JobScheduler@0.8.0
+- pkg:nuget/devdeer.Libraries.JobScheduler@1.0.0
+- pkg:nuget/devdeer.Libraries.JobScheduler@1.1.1
+- pkg:nuget/devdeer.Libraries.JobScheduler@2.0.1
