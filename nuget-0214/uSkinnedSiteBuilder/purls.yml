@@ -32,3 +32,5 @@
 - pkg:nuget/uSkinnedSiteBuilder@6.4.0
 - pkg:nuget/uSkinnedSiteBuilder@7.0.0
 - pkg:nuget/uSkinnedSiteBuilder@7.0.1
+- pkg:nuget/uSkinnedSiteBuilder@7.0.2
+- pkg:nuget/uSkinnedSiteBuilder@7.1.0
