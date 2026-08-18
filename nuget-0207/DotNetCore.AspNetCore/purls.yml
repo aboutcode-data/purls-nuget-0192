@@ -343,6 +343,8 @@
 - pkg:nuget/DotNetCore.AspNetCore@19.6.0
 - pkg:nuget/DotNetCore.AspNetCore@19.7.0
 - pkg:nuget/DotNetCore.AspNetCore@19.8.0
+- pkg:nuget/DotNetCore.AspNetCore@20.22.0
+- pkg:nuget/DotNetCore.AspNetCore@20.23.0
 - pkg:nuget/DotNetCore.AspNetCore@3.0.0
 - pkg:nuget/DotNetCore.AspNetCore@5.0.0
 - pkg:nuget/DotNetCore.AspNetCore@5.1.0
