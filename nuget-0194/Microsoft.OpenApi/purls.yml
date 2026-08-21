@@ -67,6 +67,7 @@
 - pkg:nuget/Microsoft.OpenApi@1.6.25
 - pkg:nuget/Microsoft.OpenApi@1.6.29
 - pkg:nuget/Microsoft.OpenApi@1.6.3
+- pkg:nuget/Microsoft.OpenApi@1.6.31
 - pkg:nuget/Microsoft.OpenApi@1.6.4
 - pkg:nuget/Microsoft.OpenApi@1.6.4-preview1
 - pkg:nuget/Microsoft.OpenApi@1.6.4-preview2
@@ -110,6 +111,7 @@
 - pkg:nuget/Microsoft.OpenApi@2.0.0-preview9
 - pkg:nuget/Microsoft.OpenApi@2.0.1
 - pkg:nuget/Microsoft.OpenApi@2.1.0
+- pkg:nuget/Microsoft.OpenApi@2.12.2
 - pkg:nuget/Microsoft.OpenApi@2.2.0
 - pkg:nuget/Microsoft.OpenApi@2.3.0
 - pkg:nuget/Microsoft.OpenApi@2.3.1
