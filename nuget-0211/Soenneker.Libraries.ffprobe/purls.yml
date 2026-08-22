@@ -180,6 +180,7 @@
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.1064
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.1068
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.1078
+- pkg:nuget/Soenneker.Libraries.ffprobe@4.0.1093
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.2
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.704
 - pkg:nuget/Soenneker.Libraries.ffprobe@4.0.732
