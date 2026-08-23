@@ -1193,3 +1193,4 @@
 - pkg:nuget/FunFair.BuildVersion.Publishers@6.2.19.2240-main
 - pkg:nuget/FunFair.BuildVersion.Publishers@6.2.19.2255-main
 - pkg:nuget/FunFair.BuildVersion.Publishers@6.2.20.2268-main
+- pkg:nuget/FunFair.BuildVersion.Publishers@6.2.20.2284-main
