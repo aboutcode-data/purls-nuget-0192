@@ -14,3 +14,4 @@
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.73
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.79
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.8
+- pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.89
