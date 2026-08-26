@@ -1,1 +1,2 @@
 - pkg:nuget/FEFF.TestFixtures.AspNetCore.SignalR@1.4.5-alpha
+- pkg:nuget/FEFF.TestFixtures.AspNetCore.SignalR@1.6.2-alpha
