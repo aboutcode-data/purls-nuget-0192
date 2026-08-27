@@ -835,3 +835,5 @@
 - pkg:nuget/Drapo@2026.4.28.2
 - pkg:nuget/Drapo@2026.7.1.7
 - pkg:nuget/Drapo@2026.8.13.3
+- pkg:nuget/Drapo@2026.8.27.2
+- pkg:nuget/Drapo@2026.8.27.4
