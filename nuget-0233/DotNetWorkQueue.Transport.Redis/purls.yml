@@ -8,6 +8,7 @@
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.1.6
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.1.7
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.1.9
+- pkg:nuget/DotNetWorkQueue.Transport.Redis@0.10.0
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.2.1
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.2.1.1
 - pkg:nuget/DotNetWorkQueue.Transport.Redis@0.3.0
