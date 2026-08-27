@@ -390,6 +390,7 @@
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@4.2.1
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@4.9.1
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@4.9.2
+- pkg:nuget/SDI.API.Servicios.Base.Interfaces@40.1.1
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@5.10.1
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@5.10.2
 - pkg:nuget/SDI.API.Servicios.Base.Interfaces@7.13.1
