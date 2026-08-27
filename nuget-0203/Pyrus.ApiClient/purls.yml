@@ -79,3 +79,6 @@
 - pkg:nuget/Pyrus.ApiClient@4.7.0
 - pkg:nuget/Pyrus.ApiClient@4.8.0
 - pkg:nuget/Pyrus.ApiClient@4.9.0
+- pkg:nuget/Pyrus.ApiClient@5.2.0.1
+- pkg:nuget/Pyrus.ApiClient@5.2.0.2
+- pkg:nuget/Pyrus.ApiClient@5.2.1
