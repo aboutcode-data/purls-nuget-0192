@@ -1,5 +1,8 @@
 - pkg:nuget/Calabonga.Microservice.Module.Template@1.0.0
 - pkg:nuget/Calabonga.Microservice.Module.Template@1.0.1
+- pkg:nuget/Calabonga.Microservice.Module.Template@10.0.3-g0ea432f8da
+- pkg:nuget/Calabonga.Microservice.Module.Template@10.0.3-gd8f9019a38
+- pkg:nuget/Calabonga.Microservice.Module.Template@10.0.5
 - pkg:nuget/Calabonga.Microservice.Module.Template@7.0.7
 - pkg:nuget/Calabonga.Microservice.Module.Template@7.0.8
 - pkg:nuget/Calabonga.Microservice.Module.Template@8.0.0
