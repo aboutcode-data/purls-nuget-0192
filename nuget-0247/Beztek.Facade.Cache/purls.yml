@@ -42,3 +42,5 @@
 - pkg:nuget/Beztek.Facade.Cache@1.4.2
 - pkg:nuget/Beztek.Facade.Cache@1.4.9
 - pkg:nuget/Beztek.Facade.Cache@1.5.0
+- pkg:nuget/Beztek.Facade.Cache@1.5.3
+- pkg:nuget/Beztek.Facade.Cache@1.5.4
