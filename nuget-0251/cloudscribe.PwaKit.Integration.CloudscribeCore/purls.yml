@@ -6,6 +6,7 @@
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@1.0.0-alpha-20190624
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@1.0.0-alpha-20190629
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@1.0.0-alpha-20190701
+- pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@10.1.0
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@3.0.0-beta20191012
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@3.1.0
 - pkg:nuget/cloudscribe.PwaKit.Integration.CloudscribeCore@5.0.0

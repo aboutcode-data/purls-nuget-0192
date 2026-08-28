@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@1.0.0-RC-20190708
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@1.0.0-alpha-20190629
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@1.0.0-alpha-20190701
+- pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@10.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@3.0.0-beta20191012
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@3.1.0
 - pkg:nuget/cloudscribe.PwaKit.Storage.NoDb@5.0.0
