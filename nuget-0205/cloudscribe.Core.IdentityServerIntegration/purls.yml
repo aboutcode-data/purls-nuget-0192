@@ -16,6 +16,7 @@
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@1.2.0-rc20170613
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@1.2.0-rc20170627
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@1.2.1
+- pkg:nuget/cloudscribe.Core.IdentityServerIntegration@10.1.0
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@2.0.0-preview20170821
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@2.0.0-preview20170828
 - pkg:nuget/cloudscribe.Core.IdentityServerIntegration@2.0.0-preview20171003
