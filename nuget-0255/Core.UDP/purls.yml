@@ -38,3 +38,4 @@
 - pkg:nuget/Core.UDP@5.6.2
 - pkg:nuget/Core.UDP@5.6.5
 - pkg:nuget/Core.UDP@5.6.7
+- pkg:nuget/Core.UDP@5.7.3
