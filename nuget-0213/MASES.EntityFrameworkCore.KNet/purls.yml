@@ -52,3 +52,5 @@
 - pkg:nuget/MASES.EntityFrameworkCore.KNet@2.6.4
 - pkg:nuget/MASES.EntityFrameworkCore.KNet@3.0.0-rc
 - pkg:nuget/MASES.EntityFrameworkCore.KNet@3.0.0-rc4
+- pkg:nuget/MASES.EntityFrameworkCore.KNet@3.1.0
+- pkg:nuget/MASES.EntityFrameworkCore.KNet@4.1.0
