@@ -3,6 +3,7 @@
 - pkg:nuget/Parlem.Provisioning.Drivers@10.0.30
 - pkg:nuget/Parlem.Provisioning.Drivers@10.0.32
 - pkg:nuget/Parlem.Provisioning.Drivers@10.0.34-beta1
+- pkg:nuget/Parlem.Provisioning.Drivers@10.0.34-beta5
 - pkg:nuget/Parlem.Provisioning.Drivers@10.0.5
 - pkg:nuget/Parlem.Provisioning.Drivers@8.1.0
 - pkg:nuget/Parlem.Provisioning.Drivers@8.2.0-beta6
