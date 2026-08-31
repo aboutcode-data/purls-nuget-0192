@@ -168,4 +168,5 @@
 - pkg:nuget/nanoFramework.Iot.Device.Bmxx80@1.2.87
 - pkg:nuget/nanoFramework.Iot.Device.Bmxx80@1.2.889
 - pkg:nuget/nanoFramework.Iot.Device.Bmxx80@1.2.892
+- pkg:nuget/nanoFramework.Iot.Device.Bmxx80@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.Bmxx80@2.0.0-preview.73
