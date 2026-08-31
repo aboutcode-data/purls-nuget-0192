@@ -21,5 +21,6 @@
 - pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@1.0.572
 - pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@1.0.584
 - pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@1.2.1
+- pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@2.0.0-preview.121
 - pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@2.0.0-preview.16
 - pkg:nuget/nanoFramework.Iot.Device.RotaryEncoder.Esp32@2.0.0-preview.49
