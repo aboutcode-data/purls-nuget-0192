@@ -26,3 +26,5 @@
 - pkg:nuget/GameFrameX.Foundation.Extensions@2.4.2
 - pkg:nuget/GameFrameX.Foundation.Extensions@2.4.3
 - pkg:nuget/GameFrameX.Foundation.Extensions@3.1.0
+- pkg:nuget/GameFrameX.Foundation.Extensions@4.0.1
+- pkg:nuget/GameFrameX.Foundation.Extensions@4.0.2
