@@ -1,0 +1,5 @@
+- pkg:nuget/Ocelot.Discovery.KubeClient@25.0.0
+- pkg:nuget/Ocelot.Discovery.KubeClient@25.0.0-beta.1
+- pkg:nuget/Ocelot.Discovery.KubeClient@25.0.0-beta.2
+- pkg:nuget/Ocelot.Discovery.KubeClient@25.0.0-beta.3
+- pkg:nuget/Ocelot.Discovery.KubeClient@25.0.0-beta.4
