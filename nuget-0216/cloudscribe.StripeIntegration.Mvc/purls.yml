@@ -1,6 +1,7 @@
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@1.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@1.0.1
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@1.0.2
+- pkg:nuget/cloudscribe.StripeIntegration.Mvc@10.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@3.0.0
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@3.1.0
 - pkg:nuget/cloudscribe.StripeIntegration.Mvc@3.1.1
