@@ -26,3 +26,5 @@
 - pkg:nuget/VerityPro.Common.Library@1.5.7
 - pkg:nuget/VerityPro.Common.Library@1.5.8
 - pkg:nuget/VerityPro.Common.Library@1.5.9
+- pkg:nuget/VerityPro.Common.Library@1.6.7
+- pkg:nuget/VerityPro.Common.Library@1.6.8
