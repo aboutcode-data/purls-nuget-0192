@@ -1,1 +1,2 @@
 - pkg:nuget/Aspire.ClickHouse.Driver@13.4.6
+- pkg:nuget/Aspire.ClickHouse.Driver@13.5.3
