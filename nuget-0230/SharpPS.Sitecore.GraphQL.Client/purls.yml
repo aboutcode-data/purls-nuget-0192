@@ -20,3 +20,4 @@
 - pkg:nuget/SharpPS.Sitecore.GraphQL.Client@1.1.8
 - pkg:nuget/SharpPS.Sitecore.GraphQL.Client@1.1.9
 - pkg:nuget/SharpPS.Sitecore.GraphQL.Client@1.2.1
+- pkg:nuget/SharpPS.Sitecore.GraphQL.Client@1.2.7
