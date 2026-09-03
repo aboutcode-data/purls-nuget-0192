@@ -289,6 +289,7 @@
 - pkg:nuget/SceneBuilderClient@2.12.331.1
 - pkg:nuget/SceneBuilderClient@2.12.332.1
 - pkg:nuget/SceneBuilderClient@2.12.34.1
+- pkg:nuget/SceneBuilderClient@2.12.340.1
 - pkg:nuget/SceneBuilderClient@2.12.35.1
 - pkg:nuget/SceneBuilderClient@2.12.36.1
 - pkg:nuget/SceneBuilderClient@2.12.37.1
