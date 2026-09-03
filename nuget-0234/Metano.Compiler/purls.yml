@@ -1,3 +1,5 @@
 - pkg:nuget/Metano.Compiler@1.0.2
 - pkg:nuget/Metano.Compiler@1.0.3
 - pkg:nuget/Metano.Compiler@2.1.0
+- pkg:nuget/Metano.Compiler@2.4.0
+- pkg:nuget/Metano.Compiler@2.6.0
