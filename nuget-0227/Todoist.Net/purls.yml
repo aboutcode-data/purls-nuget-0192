@@ -15,6 +15,7 @@
 - pkg:nuget/Todoist.Net@1.4.1
 - pkg:nuget/Todoist.Net@1.4.2
 - pkg:nuget/Todoist.Net@1.5.0
+- pkg:nuget/Todoist.Net@11.1.0
 - pkg:nuget/Todoist.Net@2.0.0
 - pkg:nuget/Todoist.Net@2.1.0
 - pkg:nuget/Todoist.Net@2.1.1
