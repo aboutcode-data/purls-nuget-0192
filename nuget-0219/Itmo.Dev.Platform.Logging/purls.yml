@@ -82,3 +82,5 @@
 - pkg:nuget/Itmo.Dev.Platform.Logging@1.2.271
 - pkg:nuget/Itmo.Dev.Platform.Logging@1.2.275
 - pkg:nuget/Itmo.Dev.Platform.Logging@1.2.308
+- pkg:nuget/Itmo.Dev.Platform.Logging@1.2.466
+- pkg:nuget/Itmo.Dev.Platform.Logging@1.2.468
