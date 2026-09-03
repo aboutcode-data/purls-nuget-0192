@@ -8,3 +8,4 @@
 - pkg:nuget/GFX@1.0.7-beta
 - pkg:nuget/GFX@1.0.8
 - pkg:nuget/GFX@1.0.9.1-beta
+- pkg:nuget/GFX@1.1.3
