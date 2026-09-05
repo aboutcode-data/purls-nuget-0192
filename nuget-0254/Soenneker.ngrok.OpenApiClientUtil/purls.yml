@@ -4,6 +4,8 @@
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.110
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.112
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.117
+- pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.130
+- pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.135
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.24
 - pkg:nuget/Soenneker.ngrok.OpenApiClientUtil@4.0.27
