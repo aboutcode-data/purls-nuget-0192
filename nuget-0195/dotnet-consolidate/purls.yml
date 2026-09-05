@@ -12,3 +12,4 @@
 - pkg:nuget/dotnet-consolidate@4.0.1
 - pkg:nuget/dotnet-consolidate@4.1.0
 - pkg:nuget/dotnet-consolidate@4.2.0
+- pkg:nuget/dotnet-consolidate@5.0.0
