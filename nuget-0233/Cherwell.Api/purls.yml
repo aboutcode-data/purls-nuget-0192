@@ -25,6 +25,8 @@
 - pkg:nuget/Cherwell.Api@1.0.47
 - pkg:nuget/Cherwell.Api@1.0.48
 - pkg:nuget/Cherwell.Api@1.0.53
+- pkg:nuget/Cherwell.Api@1.0.66
 - pkg:nuget/Cherwell.Api@1.0.7
+- pkg:nuget/Cherwell.Api@1.0.74
 - pkg:nuget/Cherwell.Api@1.0.8
 - pkg:nuget/Cherwell.Api@1.0.9
