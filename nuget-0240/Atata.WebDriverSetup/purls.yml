@@ -25,6 +25,7 @@
 - pkg:nuget/Atata.WebDriverSetup@3.4.0
 - pkg:nuget/Atata.WebDriverSetup@3.5.0
 - pkg:nuget/Atata.WebDriverSetup@3.8.0
+- pkg:nuget/Atata.WebDriverSetup@4.0.0
 - pkg:nuget/Atata.WebDriverSetup@4.0.0-beta.1
 - pkg:nuget/Atata.WebDriverSetup@4.0.0-beta.2
 - pkg:nuget/Atata.WebDriverSetup@4.0.0-beta.6
