@@ -17,3 +17,7 @@
 - pkg:nuget/Excelsior@3.5.0
 - pkg:nuget/Excelsior@3.7.0
 - pkg:nuget/Excelsior@4.3.0
+- pkg:nuget/Excelsior@6.1.0
+- pkg:nuget/Excelsior@6.2.1
+- pkg:nuget/Excelsior@6.2.2
+- pkg:nuget/Excelsior@6.2.5
