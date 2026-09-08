@@ -41,6 +41,7 @@
 - pkg:nuget/RapidFire.Core.Blazor@8.0.1.9
 - pkg:nuget/RapidFire.Core.Blazor@8.0.14.11
 - pkg:nuget/RapidFire.Core.Blazor@8.0.14.12
+- pkg:nuget/RapidFire.Core.Blazor@8.0.14.13
 - pkg:nuget/RapidFire.Core.Blazor@8.0.14.6
 - pkg:nuget/RapidFire.Core.Blazor@8.0.2.1
 - pkg:nuget/RapidFire.Core.Blazor@8.0.2.2
