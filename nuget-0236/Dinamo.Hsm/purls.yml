@@ -21,6 +21,7 @@
 - pkg:nuget/Dinamo.Hsm@4.2.6
 - pkg:nuget/Dinamo.Hsm@4.2.7
 - pkg:nuget/Dinamo.Hsm@4.21.0
+- pkg:nuget/Dinamo.Hsm@4.29.0
 - pkg:nuget/Dinamo.Hsm@4.3.0
 - pkg:nuget/Dinamo.Hsm@4.5.0
 - pkg:nuget/Dinamo.Hsm@4.5.1
