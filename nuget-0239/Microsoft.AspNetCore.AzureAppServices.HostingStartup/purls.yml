@@ -35,6 +35,7 @@
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@2.3.0
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@2.3.10
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@2.3.12
+- pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@2.3.13
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@3.0.0
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@3.0.0-preview-18579-0056
 - pkg:nuget/Microsoft.AspNetCore.AzureAppServices.HostingStartup@3.0.0-preview-19075-0444
