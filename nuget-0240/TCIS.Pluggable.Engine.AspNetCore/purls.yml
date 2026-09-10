@@ -4,3 +4,4 @@
 - pkg:nuget/TCIS.Pluggable.Engine.AspNetCore@1.0.0-rc.36
 - pkg:nuget/TCIS.Pluggable.Engine.AspNetCore@1.0.0-rc.37
 - pkg:nuget/TCIS.Pluggable.Engine.AspNetCore@1.0.0-rc.42
+- pkg:nuget/TCIS.Pluggable.Engine.AspNetCore@1.0.0-rc.44
