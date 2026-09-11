@@ -50,3 +50,4 @@
 - pkg:nuget/ghul.test@2.0.1
 - pkg:nuget/ghul.test@3.0.12
 - pkg:nuget/ghul.test@3.0.22
+- pkg:nuget/ghul.test@3.5.5
