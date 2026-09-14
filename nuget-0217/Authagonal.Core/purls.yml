@@ -57,6 +57,7 @@
 - pkg:nuget/Authagonal.Core@0.25.7
 - pkg:nuget/Authagonal.Core@0.27.1
 - pkg:nuget/Authagonal.Core@0.28.0
+- pkg:nuget/Authagonal.Core@0.29.0
 - pkg:nuget/Authagonal.Core@0.3.10
 - pkg:nuget/Authagonal.Core@0.3.12
 - pkg:nuget/Authagonal.Core@0.3.18
