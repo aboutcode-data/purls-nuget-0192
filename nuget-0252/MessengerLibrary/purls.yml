@@ -50,4 +50,5 @@
 - pkg:nuget/MessengerLibrary@2.0.8
 - pkg:nuget/MessengerLibrary@3.0.12
 - pkg:nuget/MessengerLibrary@3.0.29
+- pkg:nuget/MessengerLibrary@3.0.32
 - pkg:nuget/MessengerLibrary@3.0.9
