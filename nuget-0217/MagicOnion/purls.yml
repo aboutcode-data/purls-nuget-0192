@@ -104,3 +104,4 @@
 - pkg:nuget/MagicOnion@7.0.4
 - pkg:nuget/MagicOnion@7.0.5
 - pkg:nuget/MagicOnion@7.0.6
+- pkg:nuget/MagicOnion@7.11.0
