@@ -1,4 +1,5 @@
 - pkg:nuget/BTDB.AzureStorage@35.0.0
+- pkg:nuget/BTDB.AzureStorage@35.10.1
 - pkg:nuget/BTDB.AzureStorage@35.3.13
 - pkg:nuget/BTDB.AzureStorage@35.3.14
 - pkg:nuget/BTDB.AzureStorage@35.3.15
