@@ -42,3 +42,4 @@
 - pkg:nuget/Quartz.Jobs@4.0.0-alpha.1
 - pkg:nuget/Quartz.Jobs@4.0.0-alpha.3
 - pkg:nuget/Quartz.Jobs@4.0.0-beta.1
+- pkg:nuget/Quartz.Jobs@4.1.1
