@@ -305,6 +305,7 @@
 - pkg:nuget/Mooho.Base@2.10.7
 - pkg:nuget/Mooho.Base@2.10.8
 - pkg:nuget/Mooho.Base@2.10.9
+- pkg:nuget/Mooho.Base@2.11.1
 - pkg:nuget/Mooho.Base@2.2.0
 - pkg:nuget/Mooho.Base@2.2.1
 - pkg:nuget/Mooho.Base@2.2.2
