@@ -17,6 +17,7 @@
 - pkg:nuget/Chatter.CQRS@0.1.5
 - pkg:nuget/Chatter.CQRS@0.1.6
 - pkg:nuget/Chatter.CQRS@0.1.7
+- pkg:nuget/Chatter.CQRS@0.15.2
 - pkg:nuget/Chatter.CQRS@0.2.0
 - pkg:nuget/Chatter.CQRS@0.3.0
 - pkg:nuget/Chatter.CQRS@0.3.1
