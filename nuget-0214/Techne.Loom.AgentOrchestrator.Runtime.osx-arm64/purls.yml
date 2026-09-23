@@ -1,5 +1,17 @@
 - pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.234-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.236-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.239-beta
 - pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.249-beta
 - pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.254
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.265-beta
 - pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.270
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.282
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.283-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.287-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.288
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.291-beta
 - pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.295-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.316-beta
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.317
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.318
+- pkg:nuget/Techne.Loom.AgentOrchestrator.Runtime.osx-arm64@0.3.318-beta
