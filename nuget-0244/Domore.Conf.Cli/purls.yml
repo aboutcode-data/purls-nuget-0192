@@ -1,4 +1,5 @@
 - pkg:nuget/Domore.Conf.Cli@10.0.0
+- pkg:nuget/Domore.Conf.Cli@10.4.0
 - pkg:nuget/Domore.Conf.Cli@7.0.0.58
 - pkg:nuget/Domore.Conf.Cli@7.1.0.59
 - pkg:nuget/Domore.Conf.Cli@7.1.1.60
