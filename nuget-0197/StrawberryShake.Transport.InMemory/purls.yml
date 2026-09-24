@@ -1221,3 +1221,4 @@
 - pkg:nuget/StrawberryShake.Transport.InMemory@16.6.2-p.6
 - pkg:nuget/StrawberryShake.Transport.InMemory@16.6.2-p.8
 - pkg:nuget/StrawberryShake.Transport.InMemory@16.6.3
+- pkg:nuget/StrawberryShake.Transport.InMemory@16.7.0-p.12
