@@ -52,3 +52,4 @@
 - pkg:nuget/EventForging@1.8.0
 - pkg:nuget/EventForging@1.9.0
 - pkg:nuget/EventForging@2.1.0
+- pkg:nuget/EventForging@2.2.1
