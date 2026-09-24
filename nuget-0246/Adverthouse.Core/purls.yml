@@ -75,5 +75,6 @@
 - pkg:nuget/Adverthouse.Core@7.0.8
 - pkg:nuget/Adverthouse.Core@7.0.9
 - pkg:nuget/Adverthouse.Core@9.0.1
+- pkg:nuget/Adverthouse.Core@9.0.41
 - pkg:nuget/Adverthouse.Core@9.0.7
 - pkg:nuget/Adverthouse.Core@9.0.9
