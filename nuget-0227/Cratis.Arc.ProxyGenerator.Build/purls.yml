@@ -43,3 +43,5 @@
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Build@22.14.2
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Build@22.15.0
 - pkg:nuget/Cratis.Arc.ProxyGenerator.Build@22.16.1
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Build@22.19.2
+- pkg:nuget/Cratis.Arc.ProxyGenerator.Build@22.22.0
