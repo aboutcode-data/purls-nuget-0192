@@ -1,0 +1,2 @@
+- pkg:nuget/NetWasm.Testing.VSTest@0.1.0-alpha.1
+- pkg:nuget/NetWasm.Testing.VSTest@0.4.1
