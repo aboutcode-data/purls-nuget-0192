@@ -45,3 +45,4 @@
 - pkg:nuget/CK.Monitoring.Hosting@25.0.0
 - pkg:nuget/CK.Monitoring.Hosting@25.0.1
 - pkg:nuget/CK.Monitoring.Hosting@26.0.0
+- pkg:nuget/CK.Monitoring.Hosting@26.0.6
