@@ -10,6 +10,8 @@
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@1.0.6
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@1.0.7
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@1.0.9
+- pkg:nuget/SQuan.Helpers.Maui.Mvvm@10.0.102
+- pkg:nuget/SQuan.Helpers.Maui.Mvvm@10.0.106
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@9.0.19
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@9.0.20
 - pkg:nuget/SQuan.Helpers.Maui.Mvvm@9.0.22
