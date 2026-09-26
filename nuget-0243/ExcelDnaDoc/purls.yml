@@ -21,6 +21,7 @@
 - pkg:nuget/ExcelDnaDoc@0.2.3
 - pkg:nuget/ExcelDnaDoc@1.1.0-beta
 - pkg:nuget/ExcelDnaDoc@1.1.0-beta2
+- pkg:nuget/ExcelDnaDoc@1.10.0-preview6
 - pkg:nuget/ExcelDnaDoc@1.5.0-rc
 - pkg:nuget/ExcelDnaDoc@1.5.1
 - pkg:nuget/ExcelDnaDoc@1.6.0
