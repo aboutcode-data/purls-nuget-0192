@@ -1,1 +1,5 @@
+- pkg:nuget/Syncfusion.DocumentSDK.AI.AgentTools@33.2.12
 - pkg:nuget/Syncfusion.DocumentSDK.AI.AgentTools@33.2.6
+- pkg:nuget/Syncfusion.DocumentSDK.AI.AgentTools@34.1.30
+- pkg:nuget/Syncfusion.DocumentSDK.AI.AgentTools@34.2.5
+- pkg:nuget/Syncfusion.DocumentSDK.AI.AgentTools@34.2.7
