@@ -4,5 +4,7 @@
 - pkg:nuget/atc-rest-api-gen@1.0.199
 - pkg:nuget/atc-rest-api-gen@1.0.214
 - pkg:nuget/atc-rest-api-gen@1.0.218
+- pkg:nuget/atc-rest-api-gen@1.0.346
+- pkg:nuget/atc-rest-api-gen@1.0.377
 - pkg:nuget/atc-rest-api-gen@1.0.74
 - pkg:nuget/atc-rest-api-gen@1.0.79
