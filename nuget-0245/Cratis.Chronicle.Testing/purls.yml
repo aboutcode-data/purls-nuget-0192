@@ -46,6 +46,7 @@
 - pkg:nuget/Cratis.Chronicle.Testing@18.1.4
 - pkg:nuget/Cratis.Chronicle.Testing@18.1.5
 - pkg:nuget/Cratis.Chronicle.Testing@18.5.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.15.0
 - pkg:nuget/Cratis.Chronicle.Testing@19.2.2
 - pkg:nuget/Cratis.Chronicle.Testing@19.4.1
 - pkg:nuget/Cratis.Chronicle.Testing@19.4.6
