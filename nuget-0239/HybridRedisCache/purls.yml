@@ -48,3 +48,4 @@
 - pkg:nuget/HybridRedisCache@3.3.0
 - pkg:nuget/HybridRedisCache@3.4.0
 - pkg:nuget/HybridRedisCache@3.5.0
+- pkg:nuget/HybridRedisCache@6.1.0
