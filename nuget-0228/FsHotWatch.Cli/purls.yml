@@ -12,6 +12,7 @@
 - pkg:nuget/FsHotWatch.Cli@0.14.0-alpha.67
 - pkg:nuget/FsHotWatch.Cli@0.14.0-alpha.78
 - pkg:nuget/FsHotWatch.Cli@0.14.0-alpha.81
+- pkg:nuget/FsHotWatch.Cli@0.14.0-alpha.82
 - pkg:nuget/FsHotWatch.Cli@0.8.0-alpha.16
 - pkg:nuget/FsHotWatch.Cli@0.8.0-alpha.22
 - pkg:nuget/FsHotWatch.Cli@0.8.0-alpha.24
