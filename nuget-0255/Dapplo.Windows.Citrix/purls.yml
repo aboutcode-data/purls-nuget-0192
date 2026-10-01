@@ -140,3 +140,4 @@
 - pkg:nuget/Dapplo.Windows.Citrix@2.0.81
 - pkg:nuget/Dapplo.Windows.Citrix@2.0.85
 - pkg:nuget/Dapplo.Windows.Citrix@2.0.89
+- pkg:nuget/Dapplo.Windows.Citrix@3.1.4
