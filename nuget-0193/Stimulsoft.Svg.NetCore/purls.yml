@@ -50,4 +50,6 @@
 - pkg:nuget/Stimulsoft.Svg.NetCore@2025.3.5
 - pkg:nuget/Stimulsoft.Svg.NetCore@2026.1.7
 - pkg:nuget/Stimulsoft.Svg.NetCore@2026.2.1
+- pkg:nuget/Stimulsoft.Svg.NetCore@2026.2.2
+- pkg:nuget/Stimulsoft.Svg.NetCore@2026.2.3
 - pkg:nuget/Stimulsoft.Svg.NetCore@2026.2.4
