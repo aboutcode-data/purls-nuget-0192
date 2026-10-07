@@ -125,3 +125,4 @@
 - pkg:nuget/Carbon.Authentication@0.92.0
 - pkg:nuget/Carbon.Authentication@0.93.0
 - pkg:nuget/Carbon.Authentication@0.97.0
+- pkg:nuget/Carbon.Authentication@0.99.0
