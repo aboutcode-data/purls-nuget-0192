@@ -49,4 +49,5 @@
 - pkg:nuget/Cratis.Arc.Core.CodeAnalysis@22.44.2
 - pkg:nuget/Cratis.Arc.Core.CodeAnalysis@22.50.3
 - pkg:nuget/Cratis.Arc.Core.CodeAnalysis@22.50.5
+- pkg:nuget/Cratis.Arc.Core.CodeAnalysis@22.53.0
 - pkg:nuget/Cratis.Arc.Core.CodeAnalysis@22.8.2
