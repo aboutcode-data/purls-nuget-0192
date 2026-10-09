@@ -119,3 +119,4 @@
 - pkg:nuget/Aquarius.SDK@25.1.8
 - pkg:nuget/Aquarius.SDK@25.1.9
 - pkg:nuget/Aquarius.SDK@25.2.0
+- pkg:nuget/Aquarius.SDK@26.3.0
