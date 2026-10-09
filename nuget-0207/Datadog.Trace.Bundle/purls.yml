@@ -87,6 +87,7 @@
 - pkg:nuget/Datadog.Trace.Bundle@3.49.0
 - pkg:nuget/Datadog.Trace.Bundle@3.5.0
 - pkg:nuget/Datadog.Trace.Bundle@3.54.0
+- pkg:nuget/Datadog.Trace.Bundle@3.55.1
 - pkg:nuget/Datadog.Trace.Bundle@3.6.0
 - pkg:nuget/Datadog.Trace.Bundle@3.6.1
 - pkg:nuget/Datadog.Trace.Bundle@3.7.0
