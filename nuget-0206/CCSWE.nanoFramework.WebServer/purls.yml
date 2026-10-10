@@ -108,6 +108,8 @@
 - pkg:nuget/CCSWE.nanoFramework.WebServer@0.1.99
 - pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.122
 - pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.140
+- pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.153
+- pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.154
 - pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.33
 - pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.35
 - pkg:nuget/CCSWE.nanoFramework.WebServer@1.1.36
