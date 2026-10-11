@@ -475,6 +475,7 @@
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.150-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.1504-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.151-nightly
+- pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.1536-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.157-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.161-nightly
 - pkg:nuget/ErikEJ.EFCorePowerTools.Cli@8.1.169-nightly
