@@ -68,3 +68,4 @@
 - pkg:nuget/Fake.DotNet.Xdt@6.1.1
 - pkg:nuget/Fake.DotNet.Xdt@6.1.2
 - pkg:nuget/Fake.DotNet.Xdt@6.1.3
+- pkg:nuget/Fake.DotNet.Xdt@6.1.5
