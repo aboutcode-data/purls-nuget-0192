@@ -42,6 +42,7 @@
 - pkg:nuget/Ydb.Sdk@0.3.2
 - pkg:nuget/Ydb.Sdk@0.33.1
 - pkg:nuget/Ydb.Sdk@0.33.3
+- pkg:nuget/Ydb.Sdk@0.37.0
 - pkg:nuget/Ydb.Sdk@0.4.0
 - pkg:nuget/Ydb.Sdk@0.6.0
 - pkg:nuget/Ydb.Sdk@0.6.1
