@@ -419,6 +419,7 @@
 - pkg:nuget/Pulumi.RabbitMQ@3.5.0-alpha.1765261939
 - pkg:nuget/Pulumi.RabbitMQ@3.5.0-alpha.1769445256
 - pkg:nuget/Pulumi.RabbitMQ@3.5.0-alpha.1774890389
+- pkg:nuget/Pulumi.RabbitMQ@3.5.3-alpha.1791908895
 - pkg:nuget/Pulumi.RabbitMQ@3.6.0-alpha.1780904119
 - pkg:nuget/Pulumi.RabbitMQ@3.6.0-alpha.1781596601
 - pkg:nuget/Pulumi.RabbitMQ@3.6.0-alpha.1782373087
