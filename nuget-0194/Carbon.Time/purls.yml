@@ -36,6 +36,7 @@
 - pkg:nuget/Carbon.Time@2.0.0
 - pkg:nuget/Carbon.Time@2.0.1
 - pkg:nuget/Carbon.Time@2.1.0
+- pkg:nuget/Carbon.Time@2.12.0
 - pkg:nuget/Carbon.Time@2.2.0
 - pkg:nuget/Carbon.Time@2.3.0
 - pkg:nuget/Carbon.Time@2.4.0
