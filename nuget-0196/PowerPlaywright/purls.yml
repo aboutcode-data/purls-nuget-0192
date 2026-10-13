@@ -43,6 +43,9 @@
 - pkg:nuget/PowerPlaywright@0.40.5
 - pkg:nuget/PowerPlaywright@0.41.0
 - pkg:nuget/PowerPlaywright@0.41.6
+- pkg:nuget/PowerPlaywright@0.41.8-bugfix-initialize-before-app-loaded.3
+- pkg:nuget/PowerPlaywright@0.41.8-bugfix-initialize-before-app-loaded.4
+- pkg:nuget/PowerPlaywright@0.41.8-bugfix-initialize-before-app-loaded.5
 - pkg:nuget/PowerPlaywright@0.5.0
 - pkg:nuget/PowerPlaywright@0.6.0
 - pkg:nuget/PowerPlaywright@0.6.1
