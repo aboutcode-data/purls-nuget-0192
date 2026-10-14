@@ -52,3 +52,4 @@
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Host@7.9.812
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Host@8.1.840
 - pkg:nuget/VpnHood.Core.Client.VpnServices.Host@8.2.852
+- pkg:nuget/VpnHood.Core.Client.VpnServices.Host@9.0.855
