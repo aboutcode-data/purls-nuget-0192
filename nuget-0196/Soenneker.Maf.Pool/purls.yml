@@ -10,6 +10,11 @@
 - pkg:nuget/Soenneker.Maf.Pool@4.0.131
 - pkg:nuget/Soenneker.Maf.Pool@4.0.136
 - pkg:nuget/Soenneker.Maf.Pool@4.0.148
+- pkg:nuget/Soenneker.Maf.Pool@4.0.153
+- pkg:nuget/Soenneker.Maf.Pool@4.0.160
+- pkg:nuget/Soenneker.Maf.Pool@4.0.168
+- pkg:nuget/Soenneker.Maf.Pool@4.0.170
+- pkg:nuget/Soenneker.Maf.Pool@4.0.178
 - pkg:nuget/Soenneker.Maf.Pool@4.0.18
 - pkg:nuget/Soenneker.Maf.Pool@4.0.23
 - pkg:nuget/Soenneker.Maf.Pool@4.0.26
