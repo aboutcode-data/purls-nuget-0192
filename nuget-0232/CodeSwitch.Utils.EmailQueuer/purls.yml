@@ -9,3 +9,4 @@
 - pkg:nuget/CodeSwitch.Utils.EmailQueuer@1.0.5.3
 - pkg:nuget/CodeSwitch.Utils.EmailQueuer@2.0.0
 - pkg:nuget/CodeSwitch.Utils.EmailQueuer@2.1.0
+- pkg:nuget/CodeSwitch.Utils.EmailQueuer@2.3.0-rc.1
