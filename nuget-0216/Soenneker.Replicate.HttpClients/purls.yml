@@ -6,6 +6,7 @@
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.131
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.144
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.152
+- pkg:nuget/Soenneker.Replicate.HttpClients@4.0.154
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.2
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.24
 - pkg:nuget/Soenneker.Replicate.HttpClients@4.0.25
