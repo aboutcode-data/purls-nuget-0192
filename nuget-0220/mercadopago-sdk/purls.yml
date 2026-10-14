@@ -91,3 +91,4 @@
 - pkg:nuget/mercadopago-sdk@2.5.0
 - pkg:nuget/mercadopago-sdk@2.8.0
 - pkg:nuget/mercadopago-sdk@2.9.0
+- pkg:nuget/mercadopago-sdk@3.7.1
