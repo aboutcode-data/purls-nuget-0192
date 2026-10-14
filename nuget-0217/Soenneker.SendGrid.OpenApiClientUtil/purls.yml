@@ -10,6 +10,7 @@
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.171
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.183
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.191
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.194
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.2
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.27
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.29
