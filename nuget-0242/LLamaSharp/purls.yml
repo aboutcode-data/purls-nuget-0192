@@ -21,6 +21,7 @@
 - pkg:nuget/LLamaSharp@0.24.0
 - pkg:nuget/LLamaSharp@0.25.0
 - pkg:nuget/LLamaSharp@0.3.0
+- pkg:nuget/LLamaSharp@0.30.0
 - pkg:nuget/LLamaSharp@0.4.0
 - pkg:nuget/LLamaSharp@0.4.1-preview
 - pkg:nuget/LLamaSharp@0.4.2
