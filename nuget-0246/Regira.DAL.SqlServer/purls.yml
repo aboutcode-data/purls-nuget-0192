@@ -1,0 +1,3 @@
+- pkg:nuget/Regira.DAL.SqlServer@6.3.0
+- pkg:nuget/Regira.DAL.SqlServer@6.5.0
+- pkg:nuget/Regira.DAL.SqlServer@6.6.0
