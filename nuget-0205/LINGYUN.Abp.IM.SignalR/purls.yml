@@ -1,3 +1,4 @@
+- pkg:nuget/LINGYUN.Abp.IM.SignalR@10.7.0
 - pkg:nuget/LINGYUN.Abp.IM.SignalR@4.2.1
 - pkg:nuget/LINGYUN.Abp.IM.SignalR@4.3.0
 - pkg:nuget/LINGYUN.Abp.IM.SignalR@4.3.2
