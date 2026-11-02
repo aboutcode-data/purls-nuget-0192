@@ -9,10 +9,12 @@
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.1
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.11
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.12
+- pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.14
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.7
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@10.0.8
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@11.0.0-preview.2.26159.112
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@11.0.0-preview.4.26230.115
+- pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@11.0.0-rc.3.26522.148
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@7.0.0
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@7.0.0-preview.2.22152.2
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@7.0.0-preview.3.22175.4
@@ -66,6 +68,8 @@
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.20
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.3
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.31
+- pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.32
+- pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.33
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.4
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.5
 - pkg:nuget/runtime.win-arm64.Microsoft.DotNet.ILCompiler@8.0.6
