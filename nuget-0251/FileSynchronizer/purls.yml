@@ -63,3 +63,5 @@
 - pkg:nuget/FileSynchronizer@2.12.331.1
 - pkg:nuget/FileSynchronizer@2.12.332.1
 - pkg:nuget/FileSynchronizer@2.12.340.1
+- pkg:nuget/FileSynchronizer@2.12.349.1
+- pkg:nuget/FileSynchronizer@2.12.350.1
