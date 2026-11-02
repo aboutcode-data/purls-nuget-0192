@@ -685,3 +685,5 @@
 - pkg:nuget/FFmpeg.GPL@20261004.1.0
 - pkg:nuget/FFmpeg.GPL@20261007.1.0
 - pkg:nuget/FFmpeg.GPL@20261010.1.0
+- pkg:nuget/FFmpeg.GPL@20261022.1.0
+- pkg:nuget/FFmpeg.GPL@20261030.1.0
