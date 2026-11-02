@@ -1,3 +1,11 @@
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6092
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6101
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6102
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6103
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6120
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6131
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6133
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6145
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.100
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.1000
@@ -3083,3 +3091,6 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.5958
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.5963
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.6024
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.6035
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.6042
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@4.0.6046

@@ -1,3 +1,4 @@
+- pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@11.0.474
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@2.1.1
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@2.1.10
 - pkg:nuget/Soenneker.Blazor.Extensions.EventCallback@2.1.11
