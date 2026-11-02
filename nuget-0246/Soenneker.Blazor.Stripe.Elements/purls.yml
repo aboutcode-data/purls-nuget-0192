@@ -1,3 +1,7 @@
+- pkg:nuget/Soenneker.Blazor.Stripe.Elements@11.0.1258
+- pkg:nuget/Soenneker.Blazor.Stripe.Elements@11.0.1271
+- pkg:nuget/Soenneker.Blazor.Stripe.Elements@11.0.1273
+- pkg:nuget/Soenneker.Blazor.Stripe.Elements@11.0.1274
 - pkg:nuget/Soenneker.Blazor.Stripe.Elements@3.0.1
 - pkg:nuget/Soenneker.Blazor.Stripe.Elements@3.0.10
 - pkg:nuget/Soenneker.Blazor.Stripe.Elements@3.0.100
