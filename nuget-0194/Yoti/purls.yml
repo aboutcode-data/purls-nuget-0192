@@ -20,6 +20,7 @@
 - pkg:nuget/Yoti@3.16.0
 - pkg:nuget/Yoti@3.17.0
 - pkg:nuget/Yoti@3.2.0
+- pkg:nuget/Yoti@3.20.1
 - pkg:nuget/Yoti@3.3.0
 - pkg:nuget/Yoti@3.3.1
 - pkg:nuget/Yoti@3.4.0
