@@ -1,4 +1,16 @@
+- pkg:nuget/OBaseWebComponent@26.10.21
+- pkg:nuget/OBaseWebComponent@26.10.23
+- pkg:nuget/OBaseWebComponent@26.10.25
+- pkg:nuget/OBaseWebComponent@26.10.31
+- pkg:nuget/OBaseWebComponent@26.10.35
+- pkg:nuget/OBaseWebComponent@26.11.1
 - pkg:nuget/OBaseWebComponent@26.6.26
 - pkg:nuget/OBaseWebComponent@26.6.28
 - pkg:nuget/OBaseWebComponent@26.6.34
 - pkg:nuget/OBaseWebComponent@26.6.6
+- pkg:nuget/OBaseWebComponent@26.8.17
+- pkg:nuget/OBaseWebComponent@26.8.27
+- pkg:nuget/OBaseWebComponent@26.8.28
+- pkg:nuget/OBaseWebComponent@26.9.11
+- pkg:nuget/OBaseWebComponent@26.9.21
+- pkg:nuget/OBaseWebComponent@26.9.29

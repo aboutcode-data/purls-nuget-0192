@@ -1,4 +1,16 @@
+- pkg:nuget/OBaseSqliteDB@26.10.21
+- pkg:nuget/OBaseSqliteDB@26.10.23
+- pkg:nuget/OBaseSqliteDB@26.10.25
+- pkg:nuget/OBaseSqliteDB@26.10.31
+- pkg:nuget/OBaseSqliteDB@26.10.35
+- pkg:nuget/OBaseSqliteDB@26.11.1
 - pkg:nuget/OBaseSqliteDB@26.6.26
 - pkg:nuget/OBaseSqliteDB@26.6.28
 - pkg:nuget/OBaseSqliteDB@26.6.34
 - pkg:nuget/OBaseSqliteDB@26.6.6
+- pkg:nuget/OBaseSqliteDB@26.8.17
+- pkg:nuget/OBaseSqliteDB@26.8.27
+- pkg:nuget/OBaseSqliteDB@26.8.28
+- pkg:nuget/OBaseSqliteDB@26.9.11
+- pkg:nuget/OBaseSqliteDB@26.9.21
+- pkg:nuget/OBaseSqliteDB@26.9.29
