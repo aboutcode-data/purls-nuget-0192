@@ -24,6 +24,7 @@
 - pkg:nuget/commercetools.Sdk.Api@11.12.0
 - pkg:nuget/commercetools.Sdk.Api@11.13.0
 - pkg:nuget/commercetools.Sdk.Api@11.14.0
+- pkg:nuget/commercetools.Sdk.Api@11.14.1
 - pkg:nuget/commercetools.Sdk.Api@11.2.0
 - pkg:nuget/commercetools.Sdk.Api@11.3.0
 - pkg:nuget/commercetools.Sdk.Api@11.4.0
@@ -38,6 +39,7 @@
 - pkg:nuget/commercetools.Sdk.Api@12.11.0
 - pkg:nuget/commercetools.Sdk.Api@12.12.0
 - pkg:nuget/commercetools.Sdk.Api@12.13.0
+- pkg:nuget/commercetools.Sdk.Api@12.13.1
 - pkg:nuget/commercetools.Sdk.Api@12.2.0
 - pkg:nuget/commercetools.Sdk.Api@12.3.0
 - pkg:nuget/commercetools.Sdk.Api@12.4.0
@@ -48,8 +50,11 @@
 - pkg:nuget/commercetools.Sdk.Api@12.9.0
 - pkg:nuget/commercetools.Sdk.Api@13.0.0
 - pkg:nuget/commercetools.Sdk.Api@13.1.0
+- pkg:nuget/commercetools.Sdk.Api@13.1.1
 - pkg:nuget/commercetools.Sdk.Api@14.0.0
+- pkg:nuget/commercetools.Sdk.Api@14.3.2
 - pkg:nuget/commercetools.Sdk.Api@15.6.0
+- pkg:nuget/commercetools.Sdk.Api@15.6.1
 - pkg:nuget/commercetools.Sdk.Api@2.0.0
 - pkg:nuget/commercetools.Sdk.Api@2.1.0
 - pkg:nuget/commercetools.Sdk.Api@2.1.1
