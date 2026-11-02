@@ -770,6 +770,8 @@
 - pkg:nuget/AWSSDK.Account@4.0.100.5
 - pkg:nuget/AWSSDK.Account@4.0.101.1
 - pkg:nuget/AWSSDK.Account@4.0.102.3
+- pkg:nuget/AWSSDK.Account@4.0.102.5
+- pkg:nuget/AWSSDK.Account@4.0.102.6
 - pkg:nuget/AWSSDK.Account@4.0.3.10
 - pkg:nuget/AWSSDK.Account@4.0.3.12
 - pkg:nuget/AWSSDK.Account@4.0.3.13
