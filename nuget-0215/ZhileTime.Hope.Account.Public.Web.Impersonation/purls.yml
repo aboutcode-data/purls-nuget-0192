@@ -1,3 +1,4 @@
+- pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@11.0.0
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@4.0.1
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@4.1.0
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@4.1.2
@@ -43,3 +44,4 @@
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@6.1.20
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@6.1.23
 - pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@6.1.3
+- pkg:nuget/ZhileTime.Hope.Account.Public.Web.Impersonation@9.0.0
