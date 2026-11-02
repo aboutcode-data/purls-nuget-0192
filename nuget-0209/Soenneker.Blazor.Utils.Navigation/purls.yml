@@ -85,6 +85,7 @@
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@1.0.86
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@1.0.87
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@1.0.9
+- pkg:nuget/Soenneker.Blazor.Utils.Navigation@11.0.1225
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@2.0.1
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@2.0.2
 - pkg:nuget/Soenneker.Blazor.Utils.Navigation@2.0.3
