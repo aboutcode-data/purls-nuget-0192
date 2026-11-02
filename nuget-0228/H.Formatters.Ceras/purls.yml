@@ -3,6 +3,7 @@
 - pkg:nuget/H.Formatters.Ceras@14.0.0
 - pkg:nuget/H.Formatters.Ceras@15.0.0
 - pkg:nuget/H.Formatters.Ceras@15.0.1-dev.3
+- pkg:nuget/H.Formatters.Ceras@15.0.1-dev.83
 - pkg:nuget/H.Formatters.Ceras@2.0.16
 - pkg:nuget/H.Formatters.Ceras@2.0.17
 - pkg:nuget/H.Formatters.Ceras@2.0.18
