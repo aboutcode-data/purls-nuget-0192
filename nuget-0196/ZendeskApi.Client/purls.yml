@@ -109,3 +109,4 @@
 - pkg:nuget/ZendeskApi.Client@7.0.5
 - pkg:nuget/ZendeskApi.Client@7.0.6
 - pkg:nuget/ZendeskApi.Client@7.0.7
+- pkg:nuget/ZendeskApi.Client@7.2.1
