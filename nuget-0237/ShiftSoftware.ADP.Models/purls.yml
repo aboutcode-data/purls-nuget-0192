@@ -84,6 +84,8 @@
 - pkg:nuget/ShiftSoftware.ADP.Models@1.14.5
 - pkg:nuget/ShiftSoftware.ADP.Models@1.15.3
 - pkg:nuget/ShiftSoftware.ADP.Models@1.15.5
+- pkg:nuget/ShiftSoftware.ADP.Models@1.16.20
+- pkg:nuget/ShiftSoftware.ADP.Models@1.16.21
 - pkg:nuget/ShiftSoftware.ADP.Models@1.2.21
 - pkg:nuget/ShiftSoftware.ADP.Models@1.2.23
 - pkg:nuget/ShiftSoftware.ADP.Models@1.6.4
