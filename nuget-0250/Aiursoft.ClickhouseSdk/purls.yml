@@ -5,5 +5,7 @@
 - pkg:nuget/Aiursoft.ClickhouseSdk@10.0.17
 - pkg:nuget/Aiursoft.ClickhouseSdk@10.0.20
 - pkg:nuget/Aiursoft.ClickhouseSdk@10.0.22
+- pkg:nuget/Aiursoft.ClickhouseSdk@10.0.26
+- pkg:nuget/Aiursoft.ClickhouseSdk@10.0.27
 - pkg:nuget/Aiursoft.ClickhouseSdk@10.0.5
 - pkg:nuget/Aiursoft.ClickhouseSdk@10.0.8
