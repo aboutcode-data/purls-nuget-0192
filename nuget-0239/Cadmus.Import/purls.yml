@@ -1,4 +1,5 @@
 - pkg:nuget/Cadmus.Import@14.0.1
+- pkg:nuget/Cadmus.Import@16.0.14
 - pkg:nuget/Cadmus.Import@3.0.2
 - pkg:nuget/Cadmus.Import@3.0.3
 - pkg:nuget/Cadmus.Import@3.0.4
