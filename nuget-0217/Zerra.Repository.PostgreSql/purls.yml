@@ -22,3 +22,4 @@
 - pkg:nuget/Zerra.Repository.PostgreSql@5.0.0
 - pkg:nuget/Zerra.Repository.PostgreSql@5.1.0
 - pkg:nuget/Zerra.Repository.PostgreSql@5.1.1
+- pkg:nuget/Zerra.Repository.PostgreSql@6.0.0-rc.1
