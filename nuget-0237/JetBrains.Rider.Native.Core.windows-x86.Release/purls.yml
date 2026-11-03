@@ -190,6 +190,7 @@
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@253.0.20251217.190314
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@253.0.20260318.150648
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@253.0.20260828.105214
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@253.0.20261029.113508
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260203.84932-eap03
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260305.201432-eap07
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260319.161147-rc01
@@ -198,6 +199,7 @@
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260623.105224
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260804.122349
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20260827.135306
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@261.0.20261029.113147
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260527.204834-eap04
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260611.312-eap06
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260702.125426-eap09
@@ -205,3 +207,7 @@
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260818.212514
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260909.200147
 - pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20260924.173004
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@262.0.20261030.13837
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@263.0.20261015.214129-eap07
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@263.0.20261023.72319-eap08
+- pkg:nuget/JetBrains.Rider.Native.Core.windows-x86.Release@263.0.20261029.132826-eap09
