@@ -1,3 +1,6 @@
+- pkg:nuget/Soenneker.Node.Util@11.0.385
+- pkg:nuget/Soenneker.Node.Util@11.0.392
+- pkg:nuget/Soenneker.Node.Util@11.0.397
 - pkg:nuget/Soenneker.Node.Util@4.0.113
 - pkg:nuget/Soenneker.Node.Util@4.0.114
 - pkg:nuget/Soenneker.Node.Util@4.0.115
@@ -39,6 +42,9 @@
 - pkg:nuget/Soenneker.Node.Util@4.0.331
 - pkg:nuget/Soenneker.Node.Util@4.0.344
 - pkg:nuget/Soenneker.Node.Util@4.0.358
+- pkg:nuget/Soenneker.Node.Util@4.0.371
+- pkg:nuget/Soenneker.Node.Util@4.0.380
+- pkg:nuget/Soenneker.Node.Util@4.0.382
 - pkg:nuget/Soenneker.Node.Util@4.0.49
 - pkg:nuget/Soenneker.Node.Util@4.0.6
 - pkg:nuget/Soenneker.Node.Util@4.0.66
