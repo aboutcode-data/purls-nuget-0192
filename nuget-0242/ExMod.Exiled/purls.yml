@@ -19,6 +19,8 @@
 - pkg:nuget/ExMod.Exiled@9.13.0
 - pkg:nuget/ExMod.Exiled@9.13.1
 - pkg:nuget/ExMod.Exiled@9.13.3
+- pkg:nuget/ExMod.Exiled@9.15.0
+- pkg:nuget/ExMod.Exiled@9.15.2
 - pkg:nuget/ExMod.Exiled@9.2.0
 - pkg:nuget/ExMod.Exiled@9.2.1
 - pkg:nuget/ExMod.Exiled@9.2.2
