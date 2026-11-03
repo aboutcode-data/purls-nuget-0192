@@ -6,3 +6,5 @@
 - pkg:nuget/PAKLib@1.0.1
 - pkg:nuget/PAKLib@1.0.1.1
 - pkg:nuget/PAKLib@1.0.1.2
+- pkg:nuget/PAKLib@2.0.0
+- pkg:nuget/PAKLib@2.0.1
