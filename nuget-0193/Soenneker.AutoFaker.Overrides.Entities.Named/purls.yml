@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entities.Named@11.0.344
+- pkg:nuget/Soenneker.AutoFaker.Overrides.Entities.Named@11.0.354
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entities.Named@3.0.1
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entities.Named@3.0.10
 - pkg:nuget/Soenneker.AutoFaker.Overrides.Entities.Named@3.0.100
