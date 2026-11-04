@@ -1,4 +1,5 @@
 - pkg:nuget/DevInstance.WebServiceToolkit.Common@10.1.0
 - pkg:nuget/DevInstance.WebServiceToolkit.Common@10.2.0
+- pkg:nuget/DevInstance.WebServiceToolkit.Common@10.4.0
 - pkg:nuget/DevInstance.WebServiceToolkit.Common@2.1.0
 - pkg:nuget/DevInstance.WebServiceToolkit.Common@2.1.1
