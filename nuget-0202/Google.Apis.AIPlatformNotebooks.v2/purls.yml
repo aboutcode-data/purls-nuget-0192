@@ -33,3 +33,5 @@
 - pkg:nuget/Google.Apis.AIPlatformNotebooks.v2@1.70.0.3807
 - pkg:nuget/Google.Apis.AIPlatformNotebooks.v2@1.70.0.3843
 - pkg:nuget/Google.Apis.AIPlatformNotebooks.v2@1.75.0.4220
+- pkg:nuget/Google.Apis.AIPlatformNotebooks.v2@1.76.0.4269
+- pkg:nuget/Google.Apis.AIPlatformNotebooks.v2@1.77.0.4296
