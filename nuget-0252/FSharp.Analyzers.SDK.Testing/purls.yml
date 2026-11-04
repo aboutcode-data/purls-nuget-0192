@@ -24,3 +24,5 @@
 - pkg:nuget/FSharp.Analyzers.SDK.Testing@0.32.0
 - pkg:nuget/FSharp.Analyzers.SDK.Testing@0.32.1
 - pkg:nuget/FSharp.Analyzers.SDK.Testing@0.33.1
+- pkg:nuget/FSharp.Analyzers.SDK.Testing@0.38.0
+- pkg:nuget/FSharp.Analyzers.SDK.Testing@0.40.0
