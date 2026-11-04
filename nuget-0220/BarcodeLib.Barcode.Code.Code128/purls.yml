@@ -23,3 +23,5 @@
 - pkg:nuget/BarcodeLib.Barcode.Code.Code128@8.0.0.2
 - pkg:nuget/BarcodeLib.Barcode.Code.Code128@8.0.0.25
 - pkg:nuget/BarcodeLib.Barcode.Code.Code128@8.0.0.36-Alpha1
+- pkg:nuget/BarcodeLib.Barcode.Code.Code128@8.0.0.39
+- pkg:nuget/BarcodeLib.Barcode.Code.Code128@8.0.0.42
