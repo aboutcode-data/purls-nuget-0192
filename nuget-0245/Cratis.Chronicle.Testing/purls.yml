@@ -46,6 +46,14 @@
 - pkg:nuget/Cratis.Chronicle.Testing@18.1.4
 - pkg:nuget/Cratis.Chronicle.Testing@18.1.5
 - pkg:nuget/Cratis.Chronicle.Testing@18.5.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.102.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.106.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.106.7
+- pkg:nuget/Cratis.Chronicle.Testing@19.108.1
+- pkg:nuget/Cratis.Chronicle.Testing@19.115.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.115.2
+- pkg:nuget/Cratis.Chronicle.Testing@19.119.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.121.0
 - pkg:nuget/Cratis.Chronicle.Testing@19.15.0
 - pkg:nuget/Cratis.Chronicle.Testing@19.17.0
 - pkg:nuget/Cratis.Chronicle.Testing@19.2.2
@@ -72,3 +80,9 @@
 - pkg:nuget/Cratis.Chronicle.Testing@19.59.5
 - pkg:nuget/Cratis.Chronicle.Testing@19.6.1
 - pkg:nuget/Cratis.Chronicle.Testing@19.65.2
+- pkg:nuget/Cratis.Chronicle.Testing@19.75.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.76.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.79.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.89.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.92.0
+- pkg:nuget/Cratis.Chronicle.Testing@19.99.0
