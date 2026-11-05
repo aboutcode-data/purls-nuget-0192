@@ -625,4 +625,6 @@
 - pkg:nuget/Uno.WinRT@7.1.0-dev.16
 - pkg:nuget/Uno.WinRT@7.1.0-dev.18
 - pkg:nuget/Uno.WinRT@7.1.0-dev.19
+- pkg:nuget/Uno.WinRT@7.1.0-dev.27
+- pkg:nuget/Uno.WinRT@7.1.0-dev.28
 - pkg:nuget/Uno.WinRT@7.1.0-dev.5
