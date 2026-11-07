@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Notion.OpenApiClientUtil@11.0.265
 - pkg:nuget/Soenneker.Notion.OpenApiClientUtil@11.0.275
+- pkg:nuget/Soenneker.Notion.OpenApiClientUtil@11.0.286
 - pkg:nuget/Soenneker.Notion.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.Notion.OpenApiClientUtil@4.0.120
 - pkg:nuget/Soenneker.Notion.OpenApiClientUtil@4.0.126
