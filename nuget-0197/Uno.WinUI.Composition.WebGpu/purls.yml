@@ -49,6 +49,9 @@
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.0.0-dev.2539
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.0.0-dev.2557
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.0.0-dev.2558
+- pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.108
+- pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.109
+- pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.110
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.16
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.18
 - pkg:nuget/Uno.WinUI.Composition.WebGpu@7.1.0-dev.19
