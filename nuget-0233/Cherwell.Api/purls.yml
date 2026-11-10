@@ -7,6 +7,7 @@
 - pkg:nuget/Cherwell.Api@0.2.2
 - pkg:nuget/Cherwell.Api@0.2.4
 - pkg:nuget/Cherwell.Api@1.0.10
+- pkg:nuget/Cherwell.Api@1.0.109
 - pkg:nuget/Cherwell.Api@1.0.13
 - pkg:nuget/Cherwell.Api@1.0.14
 - pkg:nuget/Cherwell.Api@1.0.2
