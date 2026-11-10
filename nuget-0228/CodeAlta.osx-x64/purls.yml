@@ -2,3 +2,14 @@
 - pkg:nuget/CodeAlta.osx-x64@0.15.0
 - pkg:nuget/CodeAlta.osx-x64@0.16.1
 - pkg:nuget/CodeAlta.osx-x64@0.19.0
+- pkg:nuget/CodeAlta.osx-x64@0.19.5
+- pkg:nuget/CodeAlta.osx-x64@0.19.8
+- pkg:nuget/CodeAlta.osx-x64@0.19.9
+- pkg:nuget/CodeAlta.osx-x64@1.0.2
+- pkg:nuget/CodeAlta.osx-x64@1.11.3
+- pkg:nuget/CodeAlta.osx-x64@1.6.0
+- pkg:nuget/CodeAlta.osx-x64@1.9.1
+- pkg:nuget/CodeAlta.osx-x64@1.9.2
+- pkg:nuget/CodeAlta.osx-x64@3.0.1
+- pkg:nuget/CodeAlta.osx-x64@3.3.1
+- pkg:nuget/CodeAlta.osx-x64@4.2.0
