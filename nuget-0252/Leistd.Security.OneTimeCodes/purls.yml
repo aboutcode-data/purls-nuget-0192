@@ -11,3 +11,4 @@
 - pkg:nuget/Leistd.Security.OneTimeCodes@1.3.0-beta.99
 - pkg:nuget/Leistd.Security.OneTimeCodes@2.0.0-beta.167
 - pkg:nuget/Leistd.Security.OneTimeCodes@2.0.0-beta.256
+- pkg:nuget/Leistd.Security.OneTimeCodes@2.0.0-beta.272
