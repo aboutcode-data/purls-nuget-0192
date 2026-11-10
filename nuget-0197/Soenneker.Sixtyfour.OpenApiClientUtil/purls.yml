@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@11.0.234
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@11.0.237
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@11.0.247
+- pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@11.0.260
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@4.0.108
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@4.0.112
 - pkg:nuget/Soenneker.Sixtyfour.OpenApiClientUtil@4.0.127
