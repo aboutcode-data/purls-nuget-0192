@@ -20,3 +20,5 @@
 - pkg:nuget/Leistd.Email.Smtp@1.3.0-beta.99
 - pkg:nuget/Leistd.Email.Smtp@2.0.0-beta.167
 - pkg:nuget/Leistd.Email.Smtp@2.0.0-beta.272
+- pkg:nuget/Leistd.Email.Smtp@2.0.0-beta.297
+- pkg:nuget/Leistd.Email.Smtp@2.0.0-beta.304
