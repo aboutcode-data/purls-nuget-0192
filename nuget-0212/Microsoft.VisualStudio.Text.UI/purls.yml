@@ -64,3 +64,4 @@
 - pkg:nuget/Microsoft.VisualStudio.Text.UI@17.7.188
 - pkg:nuget/Microsoft.VisualStudio.Text.UI@17.8.222
 - pkg:nuget/Microsoft.VisualStudio.Text.UI@17.9.187
+- pkg:nuget/Microsoft.VisualStudio.Text.UI@18.12.81

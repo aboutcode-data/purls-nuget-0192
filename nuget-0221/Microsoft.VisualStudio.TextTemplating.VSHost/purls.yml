@@ -16,3 +16,4 @@
 - pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost@17.7.37355
 - pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost@17.8.37222
 - pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost@17.9.37000
+- pkg:nuget/Microsoft.VisualStudio.TextTemplating.VSHost@18.12.1606
