@@ -68,6 +68,7 @@
 - pkg:nuget/Soenneker.Extensions.FileInfo@1.0.77
 - pkg:nuget/Soenneker.Extensions.FileInfo@1.0.78
 - pkg:nuget/Soenneker.Extensions.FileInfo@1.0.9
+- pkg:nuget/Soenneker.Extensions.FileInfo@11.0.630
 - pkg:nuget/Soenneker.Extensions.FileInfo@2.0.1
 - pkg:nuget/Soenneker.Extensions.FileInfo@2.0.2
 - pkg:nuget/Soenneker.Extensions.FileInfo@2.0.3
