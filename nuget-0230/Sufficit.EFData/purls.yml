@@ -100,6 +100,9 @@
 - pkg:nuget/Sufficit.EFData@1.26.1104.2023
 - pkg:nuget/Sufficit.EFData@1.26.1104.2027
 - pkg:nuget/Sufficit.EFData@1.26.1104.2034
+- pkg:nuget/Sufficit.EFData@1.26.1110.2037
+- pkg:nuget/Sufficit.EFData@1.26.1110.2040
+- pkg:nuget/Sufficit.EFData@1.26.1111.235
 - pkg:nuget/Sufficit.EFData@1.26.210.1949
 - pkg:nuget/Sufficit.EFData@1.26.212.415
 - pkg:nuget/Sufficit.EFData@1.26.306.1250
