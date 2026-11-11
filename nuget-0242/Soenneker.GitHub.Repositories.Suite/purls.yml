@@ -17,6 +17,8 @@
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6216
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6218
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6238
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6245
+- pkg:nuget/Soenneker.GitHub.Repositories.Suite@11.0.6246
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.10
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.100
 - pkg:nuget/Soenneker.GitHub.Repositories.Suite@3.0.1000
