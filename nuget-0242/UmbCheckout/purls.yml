@@ -90,3 +90,4 @@
 - pkg:nuget/UmbCheckout@17.0.0-beta0242
 - pkg:nuget/UmbCheckout@17.0.0-beta0264
 - pkg:nuget/UmbCheckout@17.0.0-beta0286
+- pkg:nuget/UmbCheckout@17.1.0
