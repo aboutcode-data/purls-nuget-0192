@@ -1,5 +1,6 @@
 - pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@11.0.4194
 - pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@11.0.4201
+- pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@11.0.4219
 - pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@2.1.1
 - pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@2.1.10
 - pkg:nuget/Soenneker.Blazor.Utils.InteropEventListener@2.1.100
