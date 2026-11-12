@@ -22,3 +22,5 @@
 - pkg:nuget/WebMarkupMin.AspNetCore7@2.18.0-rc1
 - pkg:nuget/WebMarkupMin.AspNetCore7@2.18.1
 - pkg:nuget/WebMarkupMin.AspNetCore7@2.19.0
+- pkg:nuget/WebMarkupMin.AspNetCore7@2.23.0
+- pkg:nuget/WebMarkupMin.AspNetCore7@2.24.0
