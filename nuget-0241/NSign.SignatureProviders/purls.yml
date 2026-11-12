@@ -29,3 +29,4 @@
 - pkg:nuget/NSign.SignatureProviders@1.1.4
 - pkg:nuget/NSign.SignatureProviders@1.1.5
 - pkg:nuget/NSign.SignatureProviders@1.2.0
+- pkg:nuget/NSign.SignatureProviders@1.2.7
