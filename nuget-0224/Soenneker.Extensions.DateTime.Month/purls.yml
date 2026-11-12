@@ -1,5 +1,10 @@
 - pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1795
 - pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1796
+- pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1806
+- pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1807
+- pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1812
+- pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1813
+- pkg:nuget/Soenneker.Extensions.DateTime.Month@11.0.1814
 - pkg:nuget/Soenneker.Extensions.DateTime.Month@2.1.1
 - pkg:nuget/Soenneker.Extensions.DateTime.Month@2.1.10
 - pkg:nuget/Soenneker.Extensions.DateTime.Month@2.1.100

@@ -1,1 +1,4 @@
 - pkg:nuget/Isotope80.Playwright@1.0.226-beta
+- pkg:nuget/Isotope80.Playwright@1.0.231-beta
+- pkg:nuget/Isotope80.Playwright@1.0.239-beta
+- pkg:nuget/Isotope80.Playwright@1.0.244-beta
