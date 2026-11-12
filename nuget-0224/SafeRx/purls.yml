@@ -1,2 +1,5 @@
 - pkg:nuget/SafeRx@1.0.0
 - pkg:nuget/SafeRx@1.4.0
+- pkg:nuget/SafeRx@1.4.5
+- pkg:nuget/SafeRx@1.4.6
+- pkg:nuget/SafeRx@2.0.5
