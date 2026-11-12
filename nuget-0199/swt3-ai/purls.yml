@@ -1,3 +1,5 @@
 - pkg:nuget/swt3-ai@0.4.1
 - pkg:nuget/swt3-ai@0.5.5
 - pkg:nuget/swt3-ai@0.6.1
+- pkg:nuget/swt3-ai@0.7.2
+- pkg:nuget/swt3-ai@0.7.9
