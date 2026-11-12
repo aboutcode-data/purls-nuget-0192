@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Twilio.RestClient@11.0.2781
+- pkg:nuget/Soenneker.Twilio.RestClient@11.0.2795
 - pkg:nuget/Soenneker.Twilio.RestClient@2.1.1
 - pkg:nuget/Soenneker.Twilio.RestClient@2.1.10
 - pkg:nuget/Soenneker.Twilio.RestClient@2.1.100
