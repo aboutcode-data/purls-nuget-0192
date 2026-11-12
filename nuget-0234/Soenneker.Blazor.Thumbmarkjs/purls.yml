@@ -6,6 +6,8 @@
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@11.0.421
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@11.0.422
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@11.0.427
+- pkg:nuget/Soenneker.Blazor.Thumbmarkjs@11.0.431
+- pkg:nuget/Soenneker.Blazor.Thumbmarkjs@11.0.435
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@3.0.1
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@3.0.10
 - pkg:nuget/Soenneker.Blazor.Thumbmarkjs@3.0.11
