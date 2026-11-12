@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Node.Util@11.0.392
 - pkg:nuget/Soenneker.Node.Util@11.0.397
 - pkg:nuget/Soenneker.Node.Util@11.0.405
+- pkg:nuget/Soenneker.Node.Util@11.0.413
 - pkg:nuget/Soenneker.Node.Util@4.0.113
 - pkg:nuget/Soenneker.Node.Util@4.0.114
 - pkg:nuget/Soenneker.Node.Util@4.0.115
