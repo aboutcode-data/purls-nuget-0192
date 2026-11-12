@@ -1,5 +1,8 @@
 - pkg:nuget/Soenneker.Managers.NuGetPackage@11.0.1370
 - pkg:nuget/Soenneker.Managers.NuGetPackage@11.0.1384
+- pkg:nuget/Soenneker.Managers.NuGetPackage@11.0.1385
+- pkg:nuget/Soenneker.Managers.NuGetPackage@11.0.1386
+- pkg:nuget/Soenneker.Managers.NuGetPackage@11.0.1387
 - pkg:nuget/Soenneker.Managers.NuGetPackage@3.0.10
 - pkg:nuget/Soenneker.Managers.NuGetPackage@3.0.100
 - pkg:nuget/Soenneker.Managers.NuGetPackage@3.0.101
