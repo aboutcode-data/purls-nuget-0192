@@ -1,6 +1,8 @@
 - pkg:nuget/Soenneker.Cron.Builder@11.0.369
 - pkg:nuget/Soenneker.Cron.Builder@11.0.370
 - pkg:nuget/Soenneker.Cron.Builder@11.0.372
+- pkg:nuget/Soenneker.Cron.Builder@11.0.374
+- pkg:nuget/Soenneker.Cron.Builder@11.0.375
 - pkg:nuget/Soenneker.Cron.Builder@3.0.1
 - pkg:nuget/Soenneker.Cron.Builder@3.0.10
 - pkg:nuget/Soenneker.Cron.Builder@3.0.100
