@@ -62,4 +62,5 @@
 - pkg:nuget/essentialMix.Compression@16.1.0
 - pkg:nuget/essentialMix.Compression@17.0.10
 - pkg:nuget/essentialMix.Compression@17.0.15
+- pkg:nuget/essentialMix.Compression@17.0.16
 - pkg:nuget/essentialMix.Compression@17.0.3
