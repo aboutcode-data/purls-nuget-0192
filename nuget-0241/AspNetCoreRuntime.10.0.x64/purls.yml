@@ -8,4 +8,5 @@
 - pkg:nuget/AspNetCoreRuntime.10.0.x64@10.0.0-rc-1-25451-107
 - pkg:nuget/AspNetCoreRuntime.10.0.x64@10.0.1
 - pkg:nuget/AspNetCoreRuntime.10.0.x64@10.0.11
+- pkg:nuget/AspNetCoreRuntime.10.0.x64@10.0.15
 - pkg:nuget/AspNetCoreRuntime.10.0.x64@10.0.7
