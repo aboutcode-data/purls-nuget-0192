@@ -1,5 +1,7 @@
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.10.0
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.10.0-snapshot.20261010010245
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.10.0-snapshot.20261013171349
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.10.0-snapshot.20261022171226
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260326192312
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260326193157
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260326205829
@@ -28,6 +30,8 @@
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260501172214
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260512174136
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.2.0-snapshot.20260518174426
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.21.0
+- pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.22.0
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.3.0-snapshot.20260526192746
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.3.0-snapshot.20260602073819
 - pkg:nuget/OpenRewrite.Recipes.CSharp.Migration.TUnit@0.3.0-snapshot.20260603183020
