@@ -1,4 +1,5 @@
 - pkg:nuget/Soenneker.Config.Realtime@11.0.572
+- pkg:nuget/Soenneker.Config.Realtime@11.0.578
 - pkg:nuget/Soenneker.Config.Realtime@3.0.1
 - pkg:nuget/Soenneker.Config.Realtime@3.0.10
 - pkg:nuget/Soenneker.Config.Realtime@3.0.100
