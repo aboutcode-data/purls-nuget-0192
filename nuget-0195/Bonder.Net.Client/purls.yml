@@ -5,3 +5,5 @@
 - pkg:nuget/Bonder.Net.Client@1.2.6
 - pkg:nuget/Bonder.Net.Client@1.2.8
 - pkg:nuget/Bonder.Net.Client@1.2.9
+- pkg:nuget/Bonder.Net.Client@1.3.0
+- pkg:nuget/Bonder.Net.Client@1.3.1
