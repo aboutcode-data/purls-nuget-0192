@@ -29,3 +29,5 @@
 - pkg:nuget/Maranics.EventSyncService.SDK@1.5.9
 - pkg:nuget/Maranics.EventSyncService.SDK@2.0.0
 - pkg:nuget/Maranics.EventSyncService.SDK@2.1.1
+- pkg:nuget/Maranics.EventSyncService.SDK@2.2.0
+- pkg:nuget/Maranics.EventSyncService.SDK@2.2.2
