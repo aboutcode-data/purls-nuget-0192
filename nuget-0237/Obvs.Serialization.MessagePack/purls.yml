@@ -33,6 +33,8 @@
 - pkg:nuget/Obvs.Serialization.MessagePack@5.0.2.33
 - pkg:nuget/Obvs.Serialization.MessagePack@5.0.2.34
 - pkg:nuget/Obvs.Serialization.MessagePack@6.0.10
+- pkg:nuget/Obvs.Serialization.MessagePack@6.0.21
+- pkg:nuget/Obvs.Serialization.MessagePack@6.0.22
 - pkg:nuget/Obvs.Serialization.MessagePack@6.0.5
 - pkg:nuget/Obvs.Serialization.MessagePack@6.0.8
 - pkg:nuget/Obvs.Serialization.MessagePack@6.0.9
