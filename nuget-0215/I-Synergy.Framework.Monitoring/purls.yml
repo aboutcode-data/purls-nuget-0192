@@ -449,3 +449,6 @@
 - pkg:nuget/I-Synergy.Framework.Monitoring@2026.11108.12139-preview
 - pkg:nuget/I-Synergy.Framework.Monitoring@2026.11110.11121-preview
 - pkg:nuget/I-Synergy.Framework.Monitoring@2026.11110.11423-preview
+- pkg:nuget/I-Synergy.Framework.Monitoring@2026.11111.10206
+- pkg:nuget/I-Synergy.Framework.Monitoring@2026.11111.11219-preview
+- pkg:nuget/I-Synergy.Framework.Monitoring@2026.11111.11259-preview
