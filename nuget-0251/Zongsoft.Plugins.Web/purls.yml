@@ -19,7 +19,10 @@
 - pkg:nuget/Zongsoft.Plugins.Web@6.7.7
 - pkg:nuget/Zongsoft.Plugins.Web@7.0.0
 - pkg:nuget/Zongsoft.Plugins.Web@7.1.0
+- pkg:nuget/Zongsoft.Plugins.Web@7.10.0
 - pkg:nuget/Zongsoft.Plugins.Web@7.2.0
 - pkg:nuget/Zongsoft.Plugins.Web@7.3.0
 - pkg:nuget/Zongsoft.Plugins.Web@7.4.0
 - pkg:nuget/Zongsoft.Plugins.Web@7.6.0
+- pkg:nuget/Zongsoft.Plugins.Web@7.8.0
+- pkg:nuget/Zongsoft.Plugins.Web@7.9.0
