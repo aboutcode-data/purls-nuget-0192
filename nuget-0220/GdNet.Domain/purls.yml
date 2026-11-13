@@ -1,5 +1,6 @@
 - pkg:nuget/GdNet.Domain@1.0.0
 - pkg:nuget/GdNet.Domain@1.0.1
+- pkg:nuget/GdNet.Domain@1.0.261001
 - pkg:nuget/GdNet.Domain@1.1.0
 - pkg:nuget/GdNet.Domain@1.1.1
 - pkg:nuget/GdNet.Domain@1.2.0
