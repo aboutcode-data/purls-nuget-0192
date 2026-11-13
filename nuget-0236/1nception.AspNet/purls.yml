@@ -2,3 +2,5 @@
 - pkg:nuget/1nception.AspNet@12.0.1
 - pkg:nuget/1nception.AspNet@12.0.2
 - pkg:nuget/1nception.AspNet@12.0.3
+- pkg:nuget/1nception.AspNet@13.0.0
+- pkg:nuget/1nception.AspNet@14.0.0-preview.1
