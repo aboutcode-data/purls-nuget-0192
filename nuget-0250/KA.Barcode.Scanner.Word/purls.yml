@@ -25,5 +25,7 @@
 - pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.7
 - pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.70
 - pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.71
+- pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.74
+- pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.75
 - pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.8
 - pkg:nuget/KA.Barcode.Scanner.Word@7.5.0.9
