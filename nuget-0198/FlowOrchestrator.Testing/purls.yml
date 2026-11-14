@@ -12,3 +12,6 @@
 - pkg:nuget/FlowOrchestrator.Testing@1.27.0-preview.144
 - pkg:nuget/FlowOrchestrator.Testing@1.27.1
 - pkg:nuget/FlowOrchestrator.Testing@1.27.1-preview.146
+- pkg:nuget/FlowOrchestrator.Testing@1.29.2-preview.167
+- pkg:nuget/FlowOrchestrator.Testing@1.31.2
+- pkg:nuget/FlowOrchestrator.Testing@1.31.2-preview.174
