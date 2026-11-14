@@ -25,3 +25,5 @@
 - pkg:nuget/idunno.AtProto.OAuthCallback@1.6.0
 - pkg:nuget/idunno.AtProto.OAuthCallback@1.7.0
 - pkg:nuget/idunno.AtProto.OAuthCallback@5.0.0
+- pkg:nuget/idunno.AtProto.OAuthCallback@7.0.0
+- pkg:nuget/idunno.AtProto.OAuthCallback@8.0.0
