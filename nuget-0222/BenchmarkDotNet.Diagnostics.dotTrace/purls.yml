@@ -10,3 +10,4 @@
 - pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.1
 - pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.2
 - pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.15.4
+- pkg:nuget/BenchmarkDotNet.Diagnostics.dotTrace@0.16.0-preview.2
