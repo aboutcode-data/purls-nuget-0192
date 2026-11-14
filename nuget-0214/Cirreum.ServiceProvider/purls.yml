@@ -1,2 +1,4 @@
 - pkg:nuget/Cirreum.ServiceProvider@1.0.10
+- pkg:nuget/Cirreum.ServiceProvider@1.0.22
 - pkg:nuget/Cirreum.ServiceProvider@1.0.7
+- pkg:nuget/Cirreum.ServiceProvider@1.1.1
