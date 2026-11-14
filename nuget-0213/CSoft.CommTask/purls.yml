@@ -1,3 +1,4 @@
 - pkg:nuget/CSoft.CommTask@10.5.0
 - pkg:nuget/CSoft.CommTask@10.6.0
 - pkg:nuget/CSoft.CommTask@10.6.2
+- pkg:nuget/CSoft.CommTask@11.0.1
