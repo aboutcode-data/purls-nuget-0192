@@ -1,3 +1,5 @@
+- pkg:nuget/Soenneker.Enums.InvoiceStatus@11.0.105
+- pkg:nuget/Soenneker.Enums.InvoiceStatus@11.0.99
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@3.0.1
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@3.0.2
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@3.0.3
@@ -16,4 +18,6 @@
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.60
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.66
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.7
+- pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.71
+- pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.84
 - pkg:nuget/Soenneker.Enums.InvoiceStatus@4.0.9
