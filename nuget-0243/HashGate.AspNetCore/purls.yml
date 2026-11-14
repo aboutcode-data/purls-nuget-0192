@@ -7,3 +7,5 @@
 - pkg:nuget/HashGate.AspNetCore@1.2.0
 - pkg:nuget/HashGate.AspNetCore@2.2.0
 - pkg:nuget/HashGate.AspNetCore@3.0.1
+- pkg:nuget/HashGate.AspNetCore@4.0.0
+- pkg:nuget/HashGate.AspNetCore@4.0.1

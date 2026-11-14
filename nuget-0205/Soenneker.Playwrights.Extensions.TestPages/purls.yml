@@ -1,4 +1,12 @@
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.114
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.115
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.117
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.120
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.122
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@11.0.123
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.1
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.106
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.112
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.2
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.34
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.35
@@ -7,4 +15,9 @@
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.51
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.53
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.60
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.74
 - pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.8
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.88
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.90
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.93
+- pkg:nuget/Soenneker.Playwrights.Extensions.TestPages@4.0.99
