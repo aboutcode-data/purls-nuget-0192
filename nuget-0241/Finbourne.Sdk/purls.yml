@@ -4,6 +4,14 @@
 - pkg:nuget/Finbourne.Sdk@0.0.17
 - pkg:nuget/Finbourne.Sdk@0.0.20
 - pkg:nuget/Finbourne.Sdk@0.1.105
+- pkg:nuget/Finbourne.Sdk@0.1.107
+- pkg:nuget/Finbourne.Sdk@0.1.117
+- pkg:nuget/Finbourne.Sdk@0.1.118
+- pkg:nuget/Finbourne.Sdk@0.1.144
+- pkg:nuget/Finbourne.Sdk@0.1.151
+- pkg:nuget/Finbourne.Sdk@0.1.155
+- pkg:nuget/Finbourne.Sdk@0.1.163
+- pkg:nuget/Finbourne.Sdk@0.1.167
 - pkg:nuget/Finbourne.Sdk@0.1.32
 - pkg:nuget/Finbourne.Sdk@0.1.44
 - pkg:nuget/Finbourne.Sdk@0.1.51

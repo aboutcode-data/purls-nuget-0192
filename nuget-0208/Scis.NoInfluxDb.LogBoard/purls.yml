@@ -1,3 +1,7 @@
 - pkg:nuget/Scis.NoInfluxDb.LogBoard@3.2.823
 - pkg:nuget/Scis.NoInfluxDb.LogBoard@3.2.824
 - pkg:nuget/Scis.NoInfluxDb.LogBoard@6.3.3
+- pkg:nuget/Scis.NoInfluxDb.LogBoard@6.4.15
+- pkg:nuget/Scis.NoInfluxDb.LogBoard@6.4.25
+- pkg:nuget/Scis.NoInfluxDb.LogBoard@6.4.6
+- pkg:nuget/Scis.NoInfluxDb.LogBoard@6.4.7
