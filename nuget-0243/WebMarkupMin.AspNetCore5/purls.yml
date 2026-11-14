@@ -20,6 +20,8 @@
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.18.0-rc1
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.18.1
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.19.0
+- pkg:nuget/WebMarkupMin.AspNetCore5@2.23.0
+- pkg:nuget/WebMarkupMin.AspNetCore5@2.24.0
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.9.0
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.9.1
 - pkg:nuget/WebMarkupMin.AspNetCore5@2.9.2
