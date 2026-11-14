@@ -4,3 +4,4 @@
 - pkg:nuget/glTF2Loader@1.1.2-alpha
 - pkg:nuget/glTF2Loader@1.1.3-alpha
 - pkg:nuget/glTF2Loader@1.1.4-alpha
+- pkg:nuget/glTF2Loader@2.0.0-preview.9
