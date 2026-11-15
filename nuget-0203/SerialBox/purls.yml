@@ -70,3 +70,4 @@
 - pkg:nuget/SerialBox@5.0.5
 - pkg:nuget/SerialBox@5.0.6
 - pkg:nuget/SerialBox@5.1.0
+- pkg:nuget/SerialBox@6.0.0
