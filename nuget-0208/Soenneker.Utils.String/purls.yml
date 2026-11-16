@@ -166,6 +166,7 @@
 - pkg:nuget/Soenneker.Utils.String@11.0.3300
 - pkg:nuget/Soenneker.Utils.String@11.0.3310
 - pkg:nuget/Soenneker.Utils.String@11.0.3314
+- pkg:nuget/Soenneker.Utils.String@11.0.3318
 - pkg:nuget/Soenneker.Utils.String@2.0.166
 - pkg:nuget/Soenneker.Utils.String@2.0.167
 - pkg:nuget/Soenneker.Utils.String@2.0.168
