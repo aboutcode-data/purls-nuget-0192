@@ -10,3 +10,4 @@
 - pkg:nuget/Fsdb@0.1.0-preview.7
 - pkg:nuget/Fsdb@0.1.0-preview.8
 - pkg:nuget/Fsdb@0.1.4
+- pkg:nuget/Fsdb@0.1.8
