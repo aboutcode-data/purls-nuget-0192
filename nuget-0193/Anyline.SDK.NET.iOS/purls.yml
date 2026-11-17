@@ -10,6 +10,7 @@
 - pkg:nuget/Anyline.SDK.NET.iOS@3.0.0
 - pkg:nuget/Anyline.SDK.NET.iOS@4.0.0
 - pkg:nuget/Anyline.SDK.NET.iOS@5.0.0
+- pkg:nuget/Anyline.SDK.NET.iOS@56.7.0
 - pkg:nuget/Anyline.SDK.NET.iOS@6.0.0
 - pkg:nuget/Anyline.SDK.NET.iOS@6.1.0
 - pkg:nuget/Anyline.SDK.NET.iOS@7.0.0

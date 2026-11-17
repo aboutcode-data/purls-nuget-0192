@@ -10,6 +10,7 @@
 - pkg:nuget/Anyline.SDK.NET.Android@3.0.0
 - pkg:nuget/Anyline.SDK.NET.Android@4.0.0
 - pkg:nuget/Anyline.SDK.NET.Android@5.0.0
+- pkg:nuget/Anyline.SDK.NET.Android@56.7.0
 - pkg:nuget/Anyline.SDK.NET.Android@6.0.0
 - pkg:nuget/Anyline.SDK.NET.Android@6.1.0
 - pkg:nuget/Anyline.SDK.NET.Android@7.0.0
