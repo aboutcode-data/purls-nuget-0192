@@ -82,5 +82,6 @@
 - pkg:nuget/WolverineFx.Pubsub@6.55.1
 - pkg:nuget/WolverineFx.Pubsub@6.63.0
 - pkg:nuget/WolverineFx.Pubsub@6.64.0
+- pkg:nuget/WolverineFx.Pubsub@6.64.2
 - pkg:nuget/WolverineFx.Pubsub@6.7.0
 - pkg:nuget/WolverineFx.Pubsub@7.0.0-alpha.2
