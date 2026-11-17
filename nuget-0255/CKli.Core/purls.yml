@@ -24,3 +24,4 @@
 - pkg:nuget/CKli.Core@0.47.3
 - pkg:nuget/CKli.Core@0.50.1
 - pkg:nuget/CKli.Core@0.51.0
+- pkg:nuget/CKli.Core@0.51.3
