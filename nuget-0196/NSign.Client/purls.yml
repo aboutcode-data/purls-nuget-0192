@@ -29,3 +29,4 @@
 - pkg:nuget/NSign.Client@1.1.5
 - pkg:nuget/NSign.Client@1.2.0
 - pkg:nuget/NSign.Client@1.2.7
+- pkg:nuget/NSign.Client@1.2.8
