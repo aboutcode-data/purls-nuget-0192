@@ -62,6 +62,9 @@
 - pkg:nuget/CrispyWaffle.Redis@10.4.5
 - pkg:nuget/CrispyWaffle.Redis@10.4.8
 - pkg:nuget/CrispyWaffle.Redis@10.4.9
+- pkg:nuget/CrispyWaffle.Redis@10.5.10
+- pkg:nuget/CrispyWaffle.Redis@10.5.11
+- pkg:nuget/CrispyWaffle.Redis@10.5.12
 - pkg:nuget/CrispyWaffle.Redis@2.4.32
 - pkg:nuget/CrispyWaffle.Redis@2.4.40
 - pkg:nuget/CrispyWaffle.Redis@2.4.54
