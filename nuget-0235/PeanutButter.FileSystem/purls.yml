@@ -215,3 +215,5 @@
 - pkg:nuget/PeanutButter.FileSystem@3.0.403
 - pkg:nuget/PeanutButter.FileSystem@3.0.410
 - pkg:nuget/PeanutButter.FileSystem@3.0.434
+- pkg:nuget/PeanutButter.FileSystem@3.0.447
+- pkg:nuget/PeanutButter.FileSystem@3.0.448
