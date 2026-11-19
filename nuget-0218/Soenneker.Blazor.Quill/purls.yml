@@ -12,6 +12,7 @@
 - pkg:nuget/Soenneker.Blazor.Quill@11.0.197
 - pkg:nuget/Soenneker.Blazor.Quill@11.0.198
 - pkg:nuget/Soenneker.Blazor.Quill@11.0.204
+- pkg:nuget/Soenneker.Blazor.Quill@11.0.217
 - pkg:nuget/Soenneker.Blazor.Quill@4.0.102
 - pkg:nuget/Soenneker.Blazor.Quill@4.0.116
 - pkg:nuget/Soenneker.Blazor.Quill@4.0.117
