@@ -4,6 +4,7 @@
 - pkg:nuget/Soenneker.Mailgun.HttpClients@11.0.171
 - pkg:nuget/Soenneker.Mailgun.HttpClients@11.0.173
 - pkg:nuget/Soenneker.Mailgun.HttpClients@11.0.179
+- pkg:nuget/Soenneker.Mailgun.HttpClients@11.0.181
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.106
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.114
 - pkg:nuget/Soenneker.Mailgun.HttpClients@4.0.119

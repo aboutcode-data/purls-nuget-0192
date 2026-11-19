@@ -3,6 +3,7 @@
 - pkg:nuget/Soenneker.Clay.HttpClients@11.0.86
 - pkg:nuget/Soenneker.Clay.HttpClients@11.0.90
 - pkg:nuget/Soenneker.Clay.HttpClients@11.0.94
+- pkg:nuget/Soenneker.Clay.HttpClients@11.0.98
 - pkg:nuget/Soenneker.Clay.HttpClients@4.0.10
 - pkg:nuget/Soenneker.Clay.HttpClients@4.0.11
 - pkg:nuget/Soenneker.Clay.HttpClients@4.0.17
