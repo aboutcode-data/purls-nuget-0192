@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.NuGet.Client@11.0.1815
 - pkg:nuget/Soenneker.NuGet.Client@11.0.1818
 - pkg:nuget/Soenneker.NuGet.Client@11.0.1827
+- pkg:nuget/Soenneker.NuGet.Client@11.0.1831
 - pkg:nuget/Soenneker.NuGet.Client@2.1.1
 - pkg:nuget/Soenneker.NuGet.Client@2.1.10
 - pkg:nuget/Soenneker.NuGet.Client@2.1.100

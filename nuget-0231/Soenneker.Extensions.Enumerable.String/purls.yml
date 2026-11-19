@@ -129,6 +129,7 @@
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@11.0.1516
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@11.0.1519
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@11.0.1522
+- pkg:nuget/Soenneker.Extensions.Enumerable.String@11.0.1524
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@2.0.1
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@2.0.126
 - pkg:nuget/Soenneker.Extensions.Enumerable.String@2.0.127
