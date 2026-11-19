@@ -48,6 +48,7 @@
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@69.2.0
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@70.0.0
 - pkg:nuget/OCI.DotNetSDK.Computecloudatcustomer@71.0.0

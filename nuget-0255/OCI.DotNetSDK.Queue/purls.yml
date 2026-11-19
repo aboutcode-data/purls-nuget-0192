@@ -49,6 +49,7 @@
 - pkg:nuget/OCI.DotNetSDK.Queue@140.0.0
 - pkg:nuget/OCI.DotNetSDK.Queue@144.1.0
 - pkg:nuget/OCI.DotNetSDK.Queue@149.0.0
+- pkg:nuget/OCI.DotNetSDK.Queue@151.0.0
 - pkg:nuget/OCI.DotNetSDK.Queue@51.0.0
 - pkg:nuget/OCI.DotNetSDK.Queue@51.1.0
 - pkg:nuget/OCI.DotNetSDK.Queue@51.2.0
