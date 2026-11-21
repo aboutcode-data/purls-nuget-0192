@@ -17,6 +17,7 @@
 - pkg:nuget/IL.AttributeBasedDI@2.0.1
 - pkg:nuget/IL.AttributeBasedDI@2.0.2
 - pkg:nuget/IL.AttributeBasedDI@2.1.0
+- pkg:nuget/IL.AttributeBasedDI@2.11.1.1
 - pkg:nuget/IL.AttributeBasedDI@2.2.0
 - pkg:nuget/IL.AttributeBasedDI@2.2.1
 - pkg:nuget/IL.AttributeBasedDI@2.2.2
