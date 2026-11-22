@@ -448,4 +448,8 @@
 - pkg:nuget/ghul.compiler@8.1.6
 - pkg:nuget/ghul.compiler@81.0.0
 - pkg:nuget/ghul.compiler@82.0.2
+- pkg:nuget/ghul.compiler@82.1.1
+- pkg:nuget/ghul.compiler@82.2.0
+- pkg:nuget/ghul.compiler@82.3.0
+- pkg:nuget/ghul.compiler@82.3.1
 - pkg:nuget/ghul.compiler@9.0.0
