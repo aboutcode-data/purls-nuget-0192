@@ -277,6 +277,7 @@
 - pkg:nuget/MagicSuite.Api@4.7.556-g989d438416
 - pkg:nuget/MagicSuite.Api@4.7.60-gfd03b977c6
 - pkg:nuget/MagicSuite.Api@4.7.851-g353b296a0f
+- pkg:nuget/MagicSuite.Api@4.8.1205-g64912e435c
 - pkg:nuget/MagicSuite.Api@4.8.160-gd7ca2483e6
 - pkg:nuget/MagicSuite.Api@4.8.162-g9941bcca96
 - pkg:nuget/MagicSuite.Api@4.8.2-g0cceb87a32
