@@ -26,5 +26,6 @@
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.6
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.62
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.7
+- pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.79
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.8
 - pkg:nuget/OnBarcode.Barcode.Reader.Document.PowerPoint@9.5.0.9
