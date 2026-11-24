@@ -150,6 +150,7 @@
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.2.2.1
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.2.5
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.2.6.1
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.2.6.3
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.3.0-eap01
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.3.0-eap02
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2025.3.0-eap03
@@ -160,6 +161,7 @@
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.1.2
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.1.4
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.1.5
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.1.5.4
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.2.0.1
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.2.1
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.2.2
@@ -167,3 +169,4 @@
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.3.0-eap08
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.3.0-eap09
 - pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.3.0-rc01
+- pkg:nuget/JetBrains.dotTrace.CommandLineTools.linux-arm@2026.3.0.2
