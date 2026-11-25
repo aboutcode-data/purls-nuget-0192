@@ -68,3 +68,4 @@
 - pkg:nuget/WmiLight@6.8.0
 - pkg:nuget/WmiLight@6.9.0
 - pkg:nuget/WmiLight@6.9.1
+- pkg:nuget/WmiLight@7.3.1
