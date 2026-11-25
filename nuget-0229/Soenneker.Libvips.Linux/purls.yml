@@ -2,6 +2,7 @@
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.105
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.111
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.112
+- pkg:nuget/Soenneker.Libvips.Linux@11.0.113
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.81
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.82
 - pkg:nuget/Soenneker.Libvips.Linux@11.0.88
