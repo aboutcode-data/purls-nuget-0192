@@ -1,4 +1,5 @@
 - pkg:nuget/EFCore.BulkExtensions.PostgreSql@10.0.0
+- pkg:nuget/EFCore.BulkExtensions.PostgreSql@11.0.0
 - pkg:nuget/EFCore.BulkExtensions.PostgreSql@6.6.0
 - pkg:nuget/EFCore.BulkExtensions.PostgreSql@6.6.1
 - pkg:nuget/EFCore.BulkExtensions.PostgreSql@6.6.2

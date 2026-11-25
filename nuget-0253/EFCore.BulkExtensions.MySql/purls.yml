@@ -1,3 +1,4 @@
+- pkg:nuget/EFCore.BulkExtensions.MySql@11.0.0
 - pkg:nuget/EFCore.BulkExtensions.MySql@6.6.0
 - pkg:nuget/EFCore.BulkExtensions.MySql@6.6.1
 - pkg:nuget/EFCore.BulkExtensions.MySql@6.6.2
