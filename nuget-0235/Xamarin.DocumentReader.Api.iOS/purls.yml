@@ -382,6 +382,7 @@
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.11.1003-nightly
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.11.1005-rc
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.11.1006-rc
+- pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.11.1011-rc
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.11.988-nightly
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.2.462-nightly
 - pkg:nuget/Xamarin.DocumentReader.Api.iOS@9.2.507-rc
