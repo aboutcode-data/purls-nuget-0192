@@ -560,3 +560,6 @@
 - pkg:nuget/FilesCom@2.0.53
 - pkg:nuget/FilesCom@2.0.61
 - pkg:nuget/FilesCom@2.0.62
+- pkg:nuget/FilesCom@2.0.63
+- pkg:nuget/FilesCom@2.0.67
+- pkg:nuget/FilesCom@2.0.68
