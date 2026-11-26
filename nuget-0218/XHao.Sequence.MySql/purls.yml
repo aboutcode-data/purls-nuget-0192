@@ -4,3 +4,4 @@
 - pkg:nuget/XHao.Sequence.MySql@10.0.5
 - pkg:nuget/XHao.Sequence.MySql@10.0.6
 - pkg:nuget/XHao.Sequence.MySql@10.0.8
+- pkg:nuget/XHao.Sequence.MySql@10.1.0
