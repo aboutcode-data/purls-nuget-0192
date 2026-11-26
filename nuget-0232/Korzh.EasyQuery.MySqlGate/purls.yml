@@ -229,3 +229,4 @@
 - pkg:nuget/Korzh.EasyQuery.MySqlGate@7.4.1-rc01
 - pkg:nuget/Korzh.EasyQuery.MySqlGate@7.4.2-rc02
 - pkg:nuget/Korzh.EasyQuery.MySqlGate@7.5.0-rc03
+- pkg:nuget/Korzh.EasyQuery.MySqlGate@7.5.1
