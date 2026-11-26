@@ -76,5 +76,6 @@
 - pkg:nuget/Boyang.Db.Utils@2.5.6
 - pkg:nuget/Boyang.Db.Utils@2.8.3
 - pkg:nuget/Boyang.Db.Utils@2.9.6
+- pkg:nuget/Boyang.Db.Utils@3.0.16
 - pkg:nuget/Boyang.Db.Utils@3.0.2
 - pkg:nuget/Boyang.Db.Utils@3.0.6
