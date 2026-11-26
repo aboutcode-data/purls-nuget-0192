@@ -36,3 +36,4 @@
 - pkg:nuget/NServiceBus.Transport.SqlServer@8.1.8
 - pkg:nuget/NServiceBus.Transport.SqlServer@8.1.9
 - pkg:nuget/NServiceBus.Transport.SqlServer@9.1.1
+- pkg:nuget/NServiceBus.Transport.SqlServer@9.2.0
