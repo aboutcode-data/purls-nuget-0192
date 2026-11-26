@@ -2,3 +2,4 @@
 - pkg:nuget/AsiBackbone.Storage.InMemory@2.2.0
 - pkg:nuget/AsiBackbone.Storage.InMemory@3.0.0
 - pkg:nuget/AsiBackbone.Storage.InMemory@3.2.1
+- pkg:nuget/AsiBackbone.Storage.InMemory@7.5.3
