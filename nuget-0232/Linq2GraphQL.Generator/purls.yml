@@ -27,3 +27,4 @@
 - pkg:nuget/Linq2GraphQL.Generator@0.13.76-prerelease
 - pkg:nuget/Linq2GraphQL.Generator@0.13.79-prerelease
 - pkg:nuget/Linq2GraphQL.Generator@0.13.83-prerelease
+- pkg:nuget/Linq2GraphQL.Generator@1.0.102-prerelease
