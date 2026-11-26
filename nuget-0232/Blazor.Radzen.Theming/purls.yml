@@ -19,6 +19,7 @@
 - pkg:nuget/Blazor.Radzen.Theming@10.4.9
 - pkg:nuget/Blazor.Radzen.Theming@10.4.900
 - pkg:nuget/Blazor.Radzen.Theming@13.2.201
+- pkg:nuget/Blazor.Radzen.Theming@13.3.101
 - pkg:nuget/Blazor.Radzen.Theming@5.0.0
 - pkg:nuget/Blazor.Radzen.Theming@5.0.0-alpha.1754922095
 - pkg:nuget/Blazor.Radzen.Theming@5.0.0-alpha.1754925419
