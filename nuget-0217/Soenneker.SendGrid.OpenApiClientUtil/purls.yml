@@ -1,3 +1,12 @@
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.198
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.202
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.203
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.204
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.206
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.211
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.212
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.222
+- pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@11.0.226
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.1
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.106
 - pkg:nuget/Soenneker.SendGrid.OpenApiClientUtil@4.0.110

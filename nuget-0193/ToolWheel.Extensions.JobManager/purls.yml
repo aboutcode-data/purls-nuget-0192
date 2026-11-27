@@ -1,1 +1,11 @@
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.0
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.0-preview4
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.0-preview5
 - pkg:nuget/ToolWheel.Extensions.JobManager@1.0.0-preview6
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.0-rc1
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.1
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.0.1-rc1
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.1.0
+- pkg:nuget/ToolWheel.Extensions.JobManager@1.1.0-rc1
+- pkg:nuget/ToolWheel.Extensions.JobManager@2.0.0-beta1
+- pkg:nuget/ToolWheel.Extensions.JobManager@2.0.0-beta1.3
