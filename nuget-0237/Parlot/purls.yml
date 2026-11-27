@@ -48,3 +48,4 @@
 - pkg:nuget/Parlot@1.5.8
 - pkg:nuget/Parlot@1.6.0
 - pkg:nuget/Parlot@2.0.0-preview.1
+- pkg:nuget/Parlot@2.5.1
