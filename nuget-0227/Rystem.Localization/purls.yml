@@ -1,4 +1,5 @@
 - pkg:nuget/Rystem.Localization@10.0.7
+- pkg:nuget/Rystem.Localization@11.1.0-beta.3
 - pkg:nuget/Rystem.Localization@9.0.26
 - pkg:nuget/Rystem.Localization@9.0.27
 - pkg:nuget/Rystem.Localization@9.0.28
