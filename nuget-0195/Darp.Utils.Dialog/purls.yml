@@ -44,3 +44,4 @@
 - pkg:nuget/Darp.Utils.Dialog@1.9.1
 - pkg:nuget/Darp.Utils.Dialog@1.9.2
 - pkg:nuget/Darp.Utils.Dialog@2.0.0-preview
+- pkg:nuget/Darp.Utils.Dialog@2.2.0
