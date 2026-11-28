@@ -13,6 +13,7 @@
 - pkg:nuget/Lightsoft.EntityFrameworkCore@0.0.0.7
 - pkg:nuget/Lightsoft.EntityFrameworkCore@0.0.0.8
 - pkg:nuget/Lightsoft.EntityFrameworkCore@0.0.0.9
+- pkg:nuget/Lightsoft.EntityFrameworkCore@2.1.0-preview.1
 - pkg:nuget/Lightsoft.EntityFrameworkCore@9.0.6.1
 - pkg:nuget/Lightsoft.EntityFrameworkCore@9.0.7
 - pkg:nuget/Lightsoft.EntityFrameworkCore@9.0.7.1
