@@ -1,0 +1,10 @@
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1034.0
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1035.0-alpha.277-vcst-5919-icartsharingservice
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1035.0-alpha.281-vcst-5919-icartsharingservice
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1036.0-alpha.288-vcst-5850-5728-multi-sharing-key-message
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1037.0
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1040.0-alpha.294-vcst-6089-cart-aggr-refactoring
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1042.0
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1042.0-alpha.302-vcst-6089-cart-aggr-refactoring
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1043.0-alpha.300-vcst-6507
+- pkg:nuget/VirtoCommerce.XCart.Benchmark.Core@3.1049.0-alpha.318-vcst-6507
