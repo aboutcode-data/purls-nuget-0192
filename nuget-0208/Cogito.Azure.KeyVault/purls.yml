@@ -5,3 +5,5 @@
 - pkg:nuget/Cogito.Azure.KeyVault@0.1.22
 - pkg:nuget/Cogito.Azure.KeyVault@1.0.1
 - pkg:nuget/Cogito.Azure.KeyVault@1.0.2
+- pkg:nuget/Cogito.Azure.KeyVault@1.0.8
+- pkg:nuget/Cogito.Azure.KeyVault@1.0.9
