@@ -3,3 +3,4 @@
 - pkg:nuget/KernSmith.Rasterizers.FreeType@0.13.0
 - pkg:nuget/KernSmith.Rasterizers.FreeType@0.21.0
 - pkg:nuget/KernSmith.Rasterizers.FreeType@0.23.0
+- pkg:nuget/KernSmith.Rasterizers.FreeType@0.29.0
