@@ -14,3 +14,4 @@
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Sqs@2.1.1
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Sqs@2.2.0
 - pkg:nuget/OpenMedStack.Autofac.MassTransit.Sqs@2.3.0
+- pkg:nuget/OpenMedStack.Autofac.MassTransit.Sqs@2.6.1
