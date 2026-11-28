@@ -16,3 +16,6 @@
 - pkg:nuget/ABCpdf.ABCChrome123.Linux@13.3.6
 - pkg:nuget/ABCpdf.ABCChrome123.Linux@14.0.1-rc
 - pkg:nuget/ABCpdf.ABCChrome123.Linux@14.0.2
+- pkg:nuget/ABCpdf.ABCChrome123.Linux@14.0.7
+- pkg:nuget/ABCpdf.ABCChrome123.Linux@14.1.0
+- pkg:nuget/ABCpdf.ABCChrome123.Linux@14.1.1
