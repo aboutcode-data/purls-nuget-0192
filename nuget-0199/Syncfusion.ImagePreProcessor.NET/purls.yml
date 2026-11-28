@@ -9,3 +9,5 @@
 - pkg:nuget/Syncfusion.ImagePreProcessor.NET@34.1.30
 - pkg:nuget/Syncfusion.ImagePreProcessor.NET@34.2.5
 - pkg:nuget/Syncfusion.ImagePreProcessor.NET@34.2.7
+- pkg:nuget/Syncfusion.ImagePreProcessor.NET@35.1.42
+- pkg:nuget/Syncfusion.ImagePreProcessor.NET@35.2.13
