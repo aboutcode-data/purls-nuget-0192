@@ -4,3 +4,8 @@
 - pkg:nuget/TKWF.Ext.FeatureManagement@0.4.1-preview.0.31
 - pkg:nuget/TKWF.Ext.FeatureManagement@0.4.1-preview.0.6
 - pkg:nuget/TKWF.Ext.FeatureManagement@0.4.5-preview.0.6
+- pkg:nuget/TKWF.Ext.FeatureManagement@0.4.5-preview.0.70
+- pkg:nuget/TKWF.Ext.FeatureManagement@0.4.5-preview.0.95
+- pkg:nuget/TKWF.Ext.FeatureManagement@0.4.7-preview.0.18
+- pkg:nuget/TKWF.Ext.FeatureManagement@0.4.7-preview.0.19
+- pkg:nuget/TKWF.Ext.FeatureManagement@0.4.7-preview.0.65
