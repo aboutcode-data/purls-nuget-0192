@@ -46,3 +46,6 @@
 - pkg:nuget/AntWeb@4.4.2026.310-beta0707
 - pkg:nuget/AntWeb@4.4.2026.501
 - pkg:nuget/AntWeb@4.4.2026.501-beta1112
+- pkg:nuget/AntWeb@5.1.2026.1028
+- pkg:nuget/AntWeb@5.1.2026.1028-beta0441
+- pkg:nuget/AntWeb@5.1.2026.1028-beta0453
