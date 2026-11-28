@@ -19,3 +19,4 @@
 - pkg:nuget/Cogito.Extensions.Options.Autofac@3.0.1
 - pkg:nuget/Cogito.Extensions.Options.Autofac@3.0.3
 - pkg:nuget/Cogito.Extensions.Options.Autofac@4.0.0
+- pkg:nuget/Cogito.Extensions.Options.Autofac@4.0.4
