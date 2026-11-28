@@ -5,3 +5,9 @@
 - pkg:nuget/devdeer.Libraries.JobScheduler@1.0.0
 - pkg:nuget/devdeer.Libraries.JobScheduler@1.1.1
 - pkg:nuget/devdeer.Libraries.JobScheduler@2.0.1
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.1.0
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.2.0
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.3.2
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.6.0
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.6.1
+- pkg:nuget/devdeer.Libraries.JobScheduler@4.6.7
