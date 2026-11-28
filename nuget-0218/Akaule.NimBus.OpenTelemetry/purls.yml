@@ -1,4 +1,14 @@
 - pkg:nuget/Akaule.NimBus.OpenTelemetry@1.0.3
 - pkg:nuget/Akaule.NimBus.OpenTelemetry@1.0.4
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@3.10.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@3.11.0
 - pkg:nuget/Akaule.NimBus.OpenTelemetry@3.3.1
 - pkg:nuget/Akaule.NimBus.OpenTelemetry@3.4.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@3.6.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.1.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.18.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.2.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.5.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.7.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@4.8.0
+- pkg:nuget/Akaule.NimBus.OpenTelemetry@5.5.0
