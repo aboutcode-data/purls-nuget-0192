@@ -16,3 +16,4 @@
 - pkg:nuget/CSharpEssentials.Clone@6.3.0
 - pkg:nuget/CSharpEssentials.Clone@6.5.0
 - pkg:nuget/CSharpEssentials.Clone@7.0.0
+- pkg:nuget/CSharpEssentials.Clone@9.0.0
