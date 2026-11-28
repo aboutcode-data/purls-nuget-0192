@@ -6,3 +6,5 @@
 - pkg:nuget/Oleander.Extensions.Logging.ZipFile@1.1.23347.11358
 - pkg:nuget/Oleander.Extensions.Logging.ZipFile@1.2.0
 - pkg:nuget/Oleander.Extensions.Logging.ZipFile@1.2.1
+- pkg:nuget/Oleander.Extensions.Logging.ZipFile@1.2.1.3
+- pkg:nuget/Oleander.Extensions.Logging.ZipFile@1.2.1.4
