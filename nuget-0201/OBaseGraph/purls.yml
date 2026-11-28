@@ -29,6 +29,9 @@
 - pkg:nuget/OBaseGraph@26.10.31
 - pkg:nuget/OBaseGraph@26.10.35
 - pkg:nuget/OBaseGraph@26.11.1
+- pkg:nuget/OBaseGraph@26.11.16
+- pkg:nuget/OBaseGraph@26.11.19
+- pkg:nuget/OBaseGraph@26.11.20
 - pkg:nuget/OBaseGraph@26.3.26
 - pkg:nuget/OBaseGraph@26.3.27
 - pkg:nuget/OBaseGraph@26.3.28
