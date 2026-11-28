@@ -6,6 +6,7 @@
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@0.1.4-alpha
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@1.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@1.0.2
+- pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@11.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@7.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@8.0.1
 - pkg:nuget/Zomp.EFCore.WindowFunctions.Npgsql@8.0.1-preview4
