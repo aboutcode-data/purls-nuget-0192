@@ -2,4 +2,6 @@
 - pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.0.0-alpha.1
 - pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.0.0-alpha.2
 - pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.15.1-alpha.1
+- pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.20.0-alpha.1
+- pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.21.0-alpha.1
 - pkg:nuget/OpenTelemetry.Instrumentation.EventCounters@1.5.1-alpha.1
