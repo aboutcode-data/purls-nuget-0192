@@ -47,6 +47,12 @@
 - pkg:nuget/ghul.test@1.7.1
 - pkg:nuget/ghul.test@1.7.2
 - pkg:nuget/ghul.test@1.7.4
+- pkg:nuget/ghul.test@10.0.1
+- pkg:nuget/ghul.test@10.0.2
+- pkg:nuget/ghul.test@10.0.4
+- pkg:nuget/ghul.test@11.4.0
+- pkg:nuget/ghul.test@11.4.1
+- pkg:nuget/ghul.test@11.5.0
 - pkg:nuget/ghul.test@2.0.1
 - pkg:nuget/ghul.test@3.0.12
 - pkg:nuget/ghul.test@3.0.22
@@ -58,3 +64,5 @@
 - pkg:nuget/ghul.test@5.1.1
 - pkg:nuget/ghul.test@6.1.1
 - pkg:nuget/ghul.test@8.0.0
+- pkg:nuget/ghul.test@9.1.5
+- pkg:nuget/ghul.test@9.3.0
