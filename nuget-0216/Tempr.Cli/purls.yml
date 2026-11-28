@@ -1,2 +1,5 @@
 - pkg:nuget/Tempr.Cli@0.9.10
 - pkg:nuget/Tempr.Cli@0.9.12
+- pkg:nuget/Tempr.Cli@0.9.19
+- pkg:nuget/Tempr.Cli@0.9.20
+- pkg:nuget/Tempr.Cli@0.9.28
